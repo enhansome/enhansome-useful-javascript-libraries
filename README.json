@@ -1,0 +1,2387 @@
+{
+  "items": [
+    {
+      "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+      "items": [],
+      "title": "React Bits"
+    },
+    {
+      "description": "AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.",
+      "items": [],
+      "title": "Core"
+    },
+    {
+      "description": "Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo",
+      "items": [],
+      "title": "Inversify Js"
+    },
+    {
+      "description": "🧙 Valtio makes proxy-state simple for React and Vanilla",
+      "items": [],
+      "title": "Valtio"
+    },
+    {
+      "description": "Simple reusable React error boundary component",
+      "items": [],
+      "title": "React Error Boundary"
+    },
+    {
+      "description": "Make changes to FMHY",
+      "items": [],
+      "title": "Edit"
+    },
+    {
+      "description": "A collection of public resources about how software companies test their software",
+      "items": [],
+      "title": "Howtheytest"
+    },
+    {
+      "description": "Tiny and powerful JavaScript full-text search engine for browser and Node",
+      "items": [],
+      "title": "Minisearch"
+    },
+    {
+      "description": "This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.",
+      "items": [],
+      "title": "Epic Stack"
+    },
+    {
+      "description": "Simple, expected, and deterministic best-match sorting of an array in JavaScript",
+      "items": [],
+      "title": "Match Sorter"
+    },
+    {
+      "description": "A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.",
+      "items": [],
+      "title": "Microdiff"
+    },
+    {
+      "description": "Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.",
+      "items": [],
+      "title": "Animate Ui"
+    },
+    {
+      "description": "☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.",
+      "items": [],
+      "title": "Eslint Plugin Perfectionist"
+    },
+    {
+      "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+      "items": [],
+      "title": "Chakra Ui"
+    },
+    {
+      "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+      "items": [],
+      "title": "Outline"
+    },
+    {
+      "description": "The most advanced free and open-source browser fingerprinting library",
+      "items": [],
+      "title": "Fingerprintjs"
+    },
+    {
+      "description": "🎥 Make videos programmatically with React",
+      "items": [],
+      "title": "Remotion"
+    },
+    {
+      "description": "A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/",
+      "items": [],
+      "title": "Rxdb"
+    },
+    {
+      "description": "A beautiful yet powerful syntax highlighter",
+      "items": [],
+      "title": "Shiki"
+    },
+    {
+      "description": "Build mindmaps with plain text",
+      "items": [],
+      "title": "Markmap"
+    },
+    {
+      "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+      "items": [],
+      "title": "Juice Shop"
+    },
+    {
+      "description": "A JavaScript library aimed at visualizing graphs of thousands of nodes and edges",
+      "items": [],
+      "title": "Sigma Js"
+    },
+    {
+      "description": "Admin Dashboard UI built with Shadcn and Vite.",
+      "items": [],
+      "title": "Shadcn Admin"
+    },
+    {
+      "description": "Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.",
+      "items": [],
+      "title": "Nuqs"
+    },
+    {
+      "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
+      "items": [],
+      "title": "Ts Reset"
+    },
+    {
+      "description": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
+      "items": [],
+      "title": "Mockoon"
+    },
+    {
+      "description": "Type-Safe Errors for JS & TypeScript",
+      "items": [],
+      "title": "Neverthrow"
+    },
+    {
+      "description": "Connect, collaborate, and grow with a community of TypeScript developers",
+      "items": [],
+      "title": "Typehero"
+    },
+    {
+      "description": "A single API for all your integrations.",
+      "items": [],
+      "title": "Nango"
+    },
+    {
+      "description": "Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!",
+      "items": [],
+      "title": "Iconify"
+    },
+    {
+      "description": "Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.",
+      "items": [],
+      "title": "Superjson"
+    },
+    {
+      "description": "Property based testing framework for JavaScript (like QuickCheck) written in TypeScript",
+      "items": [],
+      "title": "Fast Check"
+    },
+    {
+      "description": "A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.",
+      "items": [],
+      "title": "Overlay Scrollbars"
+    },
+    {
+      "description": "NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.",
+      "items": [],
+      "title": "Nestjs Boilerplate"
+    },
+    {
+      "description": "A tiny (~650 B) & modern library for keybindings.",
+      "items": [],
+      "title": "Tinykeys"
+    },
+    {
+      "description": "Ollama JavaScript library",
+      "items": [],
+      "title": "Ollama Js"
+    },
+    {
+      "description": "A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.",
+      "items": [],
+      "title": "Kibo"
+    },
+    {
+      "description": "Postgres Explain Visualizer 2",
+      "items": [],
+      "title": "Pev"
+    },
+    {
+      "description": "pgTyped - Typesafe SQL in TypeScript",
+      "items": [],
+      "title": "Pgtyped"
+    },
+    {
+      "description": "Gets the job done when JSON.stringify can't",
+      "items": [],
+      "title": "Devalue"
+    },
+    {
+      "description": "Collection of TypeScript type challenges with online judge",
+      "items": [],
+      "title": "Type Challenges"
+    },
+    {
+      "description": "Presentation Slides for Developers",
+      "items": [],
+      "title": "Slidev"
+    },
+    {
+      "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+      "items": [],
+      "title": "Trpc"
+    },
+    {
+      "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+      "items": [],
+      "title": "Puter"
+    },
+    {
+      "description": "The swiss army knife of lossless video/audio editing",
+      "items": [],
+      "title": "Lossless Cut"
+    },
+    {
+      "description": "⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents",
+      "items": [],
+      "title": "Continue"
+    },
+    {
+      "description": "Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.",
+      "items": [],
+      "title": "Nx"
+    },
+    {
+      "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+      "items": [],
+      "title": "Budibase"
+    },
+    {
+      "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+      "items": [],
+      "title": "Dockge"
+    },
+    {
+      "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+      "items": [],
+      "title": "Teable"
+    },
+    {
+      "description": "The instant on-demand atomic CSS engine.",
+      "items": [],
+      "title": "Unocss"
+    },
+    {
+      "description": "Visualize Your Ideas With Code",
+      "items": [],
+      "title": "Motion Canvas"
+    },
+    {
+      "description": "Ergonomic Framework for Humans",
+      "items": [],
+      "title": "Elysia"
+    },
+    {
+      "description": "Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz",
+      "items": [],
+      "title": "Bolt New"
+    },
+    {
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "items": [],
+      "title": "Cap"
+    },
+    {
+      "description": "Generate massive amounts of fake data in the browser and node.js",
+      "items": [],
+      "title": "Faker"
+    },
+    {
+      "description": "Embeddable Postgres with real-time, reactive bindings.",
+      "items": [],
+      "title": "Pglite"
+    },
+    {
+      "description": "A Minimalistic Wrapper for IndexedDB",
+      "items": [],
+      "title": "Dexie Js"
+    },
+    {
+      "description": "Generate types and converters from JSON, Schema, and GraphQL",
+      "items": [],
+      "title": "Quicktype"
+    },
+    {
+      "description": "Simple peer-to-peer with WebRTC.",
+      "items": [],
+      "title": "Peerjs"
+    },
+    {
+      "description": "A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.",
+      "items": [],
+      "title": "Open Saas"
+    },
+    {
+      "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+      "items": [],
+      "title": "Trigger Dev"
+    },
+    {
+      "description": "Enlightened library to convert HTML and CSS to SVG",
+      "items": [],
+      "title": "Satori"
+    },
+    {
+      "description": "Build production-ready applications in TypeScript",
+      "items": [],
+      "title": "Effect"
+    },
+    {
+      "description": "The simplest and fastest way to bundle your TypeScript libraries.",
+      "items": [],
+      "title": "Tsup"
+    },
+    {
+      "description": "Node canvas is a Cairo backed Canvas implementation for NodeJS.",
+      "items": [],
+      "title": "Node Canvas"
+    },
+    {
+      "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+      "items": [],
+      "title": "Nitro"
+    },
+    {
+      "description": "Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.",
+      "items": [],
+      "title": "Ncc"
+    },
+    {
+      "description": "Toolkit with accessible components, styles, and examples for your next web app",
+      "items": [],
+      "title": "Ariakit"
+    },
+    {
+      "description": "Generate TypeScript types from OpenAPI 3 specs",
+      "items": [],
+      "title": "Openapi Typescript"
+    },
+    {
+      "description": "TypeScript's 1:1 validator, optimized from editor to runtime",
+      "items": [],
+      "title": "Arktype"
+    },
+    {
+      "description": "ESLint plugin with rules that help validate proper imports.",
+      "items": [],
+      "title": "Eslint Plugin Import"
+    },
+    {
+      "description": "The GitHub ToolKit for developing GitHub Actions.",
+      "items": [],
+      "title": "Toolkit"
+    },
+    {
+      "description": "A client-side server to build, test and share your JavaScript app",
+      "items": [],
+      "title": "Miragejs"
+    },
+    {
+      "description": "A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations",
+      "items": [],
+      "title": "Create Better T Stack"
+    },
+    {
+      "description": "✨ A Markdown Editor",
+      "items": [],
+      "title": "Cherry Markdown"
+    },
+    {
+      "description": "Positron, a next-generation data science IDE",
+      "items": [],
+      "title": "Positron"
+    },
+    {
+      "description": "💡 A hinting engine for the web",
+      "items": [],
+      "title": "Hint"
+    },
+    {
+      "description": "Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching",
+      "items": [],
+      "title": "Garden"
+    },
+    {
+      "description": "modular high-performance TypeScript framework",
+      "items": [],
+      "title": "Deepkit"
+    },
+    {
+      "description": "The No-Hassle CMS for Static Sites Generators",
+      "items": [],
+      "title": "Pages Cms"
+    },
+    {
+      "description": "A fast video processing library based on node.js (一个基于node.js的高速视频制作库)",
+      "items": [],
+      "title": "Ffcreator"
+    },
+    {
+      "description": "A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.",
+      "items": [],
+      "title": "Spectral"
+    },
+    {
+      "description": "Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate.",
+      "items": [],
+      "title": "Animata"
+    },
+    {
+      "description": "Flipping how we define typography in CSS.",
+      "items": [],
+      "title": "Capsize"
+    },
+    {
+      "description": "A JavaScript library like PyTorch, with GPU acceleration.",
+      "items": [],
+      "title": "Js Pytorch"
+    },
+    {
+      "description": "Make Prettier organize your imports using the TypeScript language service API.",
+      "items": [],
+      "title": "Prettier Plugin Organize Imports"
+    },
+    {
+      "description": "CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.",
+      "items": [],
+      "title": "Create Expo Stack"
+    },
+    {
+      "description": "🧀 Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.",
+      "items": [],
+      "title": "Magicast"
+    },
+    {
+      "description": "🚀 Create and publish a dynamic portfolio by just providing your GitHub username.",
+      "items": [],
+      "title": "Gitprofile"
+    },
+    {
+      "description": "High performance Node.js/PostgreSQL job queue (also suitable for getting jobs generated by PostgreSQL triggers/functions out into a different work queue)",
+      "items": [],
+      "title": "Worker"
+    },
+    {
+      "description": "Replace Copilot local AI",
+      "items": [],
+      "title": "Llama Coder"
+    },
+    {
+      "description": "Async State Management without the Management. REST, GraphQL, SSE, Websockets",
+      "items": [],
+      "title": "Data Client"
+    },
+    {
+      "description": "Node.js \"fs\" and browser \"File System API\" adapters and in-memory implementations 👍",
+      "items": [],
+      "title": "Memfs"
+    },
+    {
+      "description": "The TypeScript implementation of Connect: Protobuf RPC that works.",
+      "items": [],
+      "title": "Connect Es"
+    },
+    {
+      "description": "Official JavaScript repository for Clerk authentication",
+      "items": [],
+      "title": "Javascript"
+    },
+    {
+      "description": "Node.js database migration management for PostgreSQL",
+      "items": [],
+      "title": "Node Pg Migrate"
+    },
+    {
+      "description": "Safe and idiomatic TypeScript types to handle null, error, and async code handling: Maybe, Result, and Task types that are really nice.",
+      "items": [],
+      "title": "True Myth"
+    },
+    {
+      "description": "Introduction to Functional Programming using TypeScript and fp-ts.",
+      "items": [],
+      "title": "Functional Programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Haystack Editor"
+    },
+    {
+      "description": ":recycle: Visual Regression Testing tool",
+      "items": [],
+      "title": "Reg Suit"
+    },
+    {
+      "description": "You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples",
+      "items": [],
+      "title": "Twoslash"
+    },
+    {
+      "description": "💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.",
+      "items": [],
+      "title": "Unstorage"
+    },
+    {
+      "description": "⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.",
+      "items": [],
+      "title": "Redocly Cli"
+    },
+    {
+      "description": "Displays test results from popular testing frameworks directly in GitHub",
+      "items": [],
+      "title": "Test Reporter"
+    },
+    {
+      "description": "A git diff component",
+      "items": [],
+      "title": "React Diff View"
+    },
+    {
+      "description": "ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.",
+      "items": [],
+      "title": "Eslint Plugin Functional"
+    },
+    {
+      "description": "A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.",
+      "items": [],
+      "title": "Ts Blank Space"
+    },
+    {
+      "description": "A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox",
+      "items": [],
+      "title": "Quickjs"
+    },
+    {
+      "description": "🚀⚡️ Free Boilerplate and Starter kit for Next.js 16+, Supabase, Tailwind CSS 4 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️ Playwright ✍️ Commitizen 💬 Commitlint 💻 VSCode 🌪️ Vercel 🎨 PostCSS 🍃 Tailwind CSS ⚛️ React Query",
+      "items": [],
+      "title": "Nextbase Nextjs Supabase Starter"
+    },
+    {
+      "description": "Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.",
+      "items": [],
+      "title": "Eslint Plugin Unused Imports"
+    },
+    {
+      "description": "Hook into advanced CSS features from native inline styles.",
+      "items": [],
+      "title": "Css Hooks"
+    },
+    {
+      "description": "A unit testing framework for TypeScript backends working with inversion of control and dependency injection",
+      "items": [],
+      "title": "Suites"
+    },
+    {
+      "description": "Starter template for VS Code Extension",
+      "items": [],
+      "title": "Starter Vscode"
+    },
+    {
+      "description": "🥃 Functional Algebraic Data Types",
+      "items": [],
+      "title": "Pratica"
+    },
+    {
+      "description": "ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project. Define your folder structure, file composition, advanced naming conventions, and create independent modules. react folder structure react project structure react file structure react folder structure react folder structure react folder structure native",
+      "items": [],
+      "title": "Eslint Plugin Project Structure"
+    },
+    {
+      "description": "Patch fetch/XMLHttpRequest to fake a REST API server in the browser, based on JSON data.",
+      "items": [],
+      "title": "Fake Rest"
+    },
+    {
+      "description": "Starter template with blog clone as project",
+      "items": [],
+      "title": "Ultimate Nest"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Eslint Plugin Import Access"
+    },
+    {
+      "description": "A curated list of advanced type level madness",
+      "items": [],
+      "title": "Type Trident"
+    },
+    {
+      "description": "Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟",
+      "items": [],
+      "title": "Fettle"
+    },
+    {
+      "description": "Some eslint rules for working with NestJs projects",
+      "items": [],
+      "title": "Eslint Plugin Nestjs Typed"
+    },
+    {
+      "description": "Style definitions for nice terminal layouts 👄",
+      "items": [],
+      "title": "Blipgloss"
+    },
+    {
+      "description": "🚚 GitHub action for handling authenticated API requests, allowing you to save the data from the request into your workspace as an environment variable and a .json file.",
+      "items": [],
+      "title": "Fetch Api Data Action"
+    },
+    {
+      "description": "Tab component for Ink 🌈",
+      "items": [],
+      "title": "Ink Tab"
+    },
+    {
+      "description": "Collection of essential React Hooks Utilities.",
+      "items": [],
+      "title": "Reactuse"
+    },
+    {
+      "description": "Efficient embeddable adblocker library",
+      "items": [],
+      "title": "Adblocker"
+    },
+    {
+      "description": "All in one for React Suspense",
+      "items": [],
+      "title": "Suspensive"
+    },
+    {
+      "description": "Jest mock for fetch",
+      "items": [],
+      "title": "Jest Fetch Mock"
+    },
+    {
+      "description": "ESLint parser, plugin, and rule set for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.",
+      "items": [],
+      "title": "Graphql Eslint"
+    },
+    {
+      "description": "A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).",
+      "items": [],
+      "title": "Deoptexplorer Vscode"
+    },
+    {
+      "description": "Eslint plugin checking architecture boundaries between elements",
+      "items": [],
+      "title": "Eslint Plugin Boundaries"
+    },
+    {
+      "description": "Commandline tool to run Amazon Lambda function on local machines.",
+      "items": [],
+      "title": "Lambda Local"
+    },
+    {
+      "description": "Stringify JS values",
+      "items": [],
+      "title": "Seroval"
+    },
+    {
+      "description": "is a fork of that aims to provide a more performant and more lightweight version of the original plugin.",
+      "items": [],
+      "title": "Eslint Plugin Import X"
+    },
+    {
+      "description": "🐙 Unlimited access to github API",
+      "items": [],
+      "title": "Ungh"
+    },
+    {
+      "description": "🚀🚀🚀 Developed a front-end scaffold based on PNPM and Turborepo, aimed at quickly creating various types of projects for users.",
+      "items": [],
+      "title": "Create Neat"
+    },
+    {
+      "description": "VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.",
+      "items": [],
+      "title": "Jsoncrack Vscode"
+    },
+    {
+      "description": "JavaScript object that creates unique CSS selector for given element.",
+      "items": [],
+      "title": "Css Selector Generator"
+    },
+    {
+      "description": "BDD testing with Playwright runner",
+      "items": [],
+      "title": "Playwright Bdd"
+    },
+    {
+      "description": "Sentry for Development",
+      "items": [],
+      "title": "Spotlight"
+    },
+    {
+      "description": "Universal Webfont loader - Unfonts - based on https://web.dev/optimize-webfont-loading/",
+      "items": [],
+      "title": "Unplugin Fonts"
+    },
+    {
+      "description": "Browser extension for learning languages with watching movies and TV shows",
+      "items": [],
+      "title": "Easysubs"
+    },
+    {
+      "description": "JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.",
+      "items": [],
+      "title": "Js X Ray"
+    },
+    {
+      "description": "A set of utility and general-purpose React hooks.",
+      "items": [],
+      "title": "Hooks"
+    },
+    {
+      "description": "Rules for consistent, readable, and valid package.json files. 🗂️",
+      "items": [],
+      "title": "Eslint Plugin Package Json"
+    },
+    {
+      "description": "Javascript Data Structure & TypeScript Data Structure. Heap, Binary Tree, Red Black Tree, Linked List, Deque, Trie, HashMap, Directed Graph, Undirected Graph, Binary Search Tree, AVL Tree, Priority Queue, Graph, Queue, Tree Multiset, Singly Linked List, Doubly Linked List, Max Heap, Max Priority Queue, Min Heap, Min Priority Queue, Stack.",
+      "items": [],
+      "title": "Data Structure Typed"
+    },
+    {
+      "description": "This ESLint plugin provides linting rules for YAML.",
+      "items": [],
+      "title": "Eslint Plugin Yml"
+    },
+    {
+      "description": "Like , but for ESM import",
+      "items": [],
+      "title": "Import In The Middle"
+    },
+    {
+      "description": "CSS to TailwindCSS 3.x converter extension for Visual Studio Code",
+      "items": [],
+      "title": "Vscode Css To Tailwindcss"
+    },
+    {
+      "description": "A small, type-safe DI library optimized for hono.js.",
+      "items": [],
+      "title": "Hono Simple Di"
+    },
+    {
+      "description": "A simple puppeteer wrapper to enable useful plugins with ease",
+      "items": [],
+      "title": "Puppeteer Pro"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "React Query Beyond The Basics"
+    },
+    {
+      "description": "A Vite plugin for seamless integration with ngrok, allowing you to easily share your local development server with anyone, anywhere.",
+      "items": [],
+      "title": "Vite Plugin Ngrok"
+    },
+    {
+      "description": "This is the cloud function that powers the core of building, minifying and gzipping of packages in bundlephobia",
+      "items": [],
+      "title": "Package Build Stats"
+    },
+    {
+      "description": "I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.",
+      "items": [],
+      "title": "Dev Ops"
+    },
+    {
+      "description": "GitHub's Web Component collection.",
+      "items": [],
+      "title": "Github Elements"
+    },
+    {
+      "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+      "items": [],
+      "title": "Html Boilerplate"
+    },
+    {
+      "description": "✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!",
+      "items": [],
+      "title": "Knip"
+    },
+    {
+      "description": "✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/",
+      "items": [],
+      "title": "Swapy"
+    },
+    {
+      "description": "Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.",
+      "items": [],
+      "title": "Size Limit"
+    },
+    {
+      "description": "A web component for visual art and creative coding",
+      "items": [],
+      "title": "Css Doodle"
+    },
+    {
+      "description": ":cookie: Simple cross-browser cookie-consent plugin written in vanilla js",
+      "items": [],
+      "title": "Cookieconsent"
+    },
+    {
+      "description": "VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.",
+      "items": [],
+      "title": "Codetour"
+    },
+    {
+      "description": "Tourist Guide into your React Components",
+      "items": [],
+      "title": "Reactour"
+    },
+    {
+      "description": "🛵 The stylish Node.js middleware engine for AWS Lambda 🛵",
+      "items": [],
+      "title": "Middy"
+    },
+    {
+      "description": "2x faster than JSON.stringify()",
+      "items": [],
+      "title": "Fast Json Stringify"
+    },
+    {
+      "description": "👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).",
+      "items": [],
+      "title": "Ghost Text"
+    },
+    {
+      "description": "Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.",
+      "items": [],
+      "title": "Flyde"
+    },
+    {
+      "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",
+      "items": [],
+      "title": "Gluon"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Json U"
+    },
+    {
+      "description": "The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.",
+      "items": [],
+      "title": "Lowdefy"
+    },
+    {
+      "description": "Serialize JavaScript to a superset of JSON that includes regular expressions and functions.",
+      "items": [],
+      "title": "Serialize Javascript"
+    },
+    {
+      "description": "🚀 Private first self-hosted no code database & BaaS.",
+      "items": [],
+      "title": "Undb"
+    },
+    {
+      "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+      "items": [],
+      "title": "Nocodb"
+    },
+    {
+      "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+      "items": [],
+      "title": "Payload"
+    },
+    {
+      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+      "items": [],
+      "title": "Bruno"
+    },
+    {
+      "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+      "items": [],
+      "title": "Appsmith"
+    },
+    {
+      "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+      "items": [],
+      "title": "Dokploy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Void"
+    },
+    {
+      "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+      "items": [],
+      "title": "Infisical"
+    },
+    {
+      "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",
+      "items": [],
+      "title": "Beekeeper Studio"
+    },
+    {
+      "description": "Scalar is an open-source API platform: 🌐 Modern Rest API Client 📖 Beautiful API References ✨ 1st-Class OpenAPI/Swagger Support",
+      "items": [],
+      "title": "Scalar"
+    },
+    {
+      "description": "A powerful tool for creating fine-tuning datasets for LLM",
+      "items": [],
+      "title": "Easy Dataset"
+    },
+    {
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "items": [],
+      "title": "Logto"
+    },
+    {
+      "description": "Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.",
+      "items": [],
+      "title": "Hyperdx"
+    },
+    {
+      "description": "🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte",
+      "items": [],
+      "title": "Virtual"
+    },
+    {
+      "description": "TypeScript Compiler API wrapper for static analysis and programmatic code changes.",
+      "items": [],
+      "title": "Ts Morph"
+    },
+    {
+      "description": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
+      "items": [],
+      "title": "Evidence"
+    },
+    {
+      "description": "Read and write OpenType fonts using JavaScript.",
+      "items": [],
+      "title": "Opentype Js"
+    },
+    {
+      "description": "Debloated fork of the extension \"I don't care about cookies\"",
+      "items": [],
+      "title": "I Still Dont Care About Cookies"
+    },
+    {
+      "description": "Build OpenAPI-compliant REST APIs using TypeScript and Node",
+      "items": [],
+      "title": "Tsoa"
+    },
+    {
+      "description": "Your Friendly Open-Source Gen-AI Platform",
+      "items": [],
+      "title": "Pollinations"
+    },
+    {
+      "description": "99% of Queries in Zero Milliseconds",
+      "items": [],
+      "title": "Mono"
+    },
+    {
+      "description": "every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.",
+      "items": [],
+      "title": "Awesome Sites"
+    },
+    {
+      "description": "Catch unnecessary React useEffect hooks to make your code simpler, faster, and safer.",
+      "items": [],
+      "title": "Eslint Plugin React You Might Not Need An Effect"
+    },
+    {
+      "description": "⚠️ hack into react internals",
+      "items": [],
+      "title": "Bippy"
+    },
+    {
+      "description": "ESLint rules for Node Security",
+      "items": [],
+      "title": "Eslint Plugin Security"
+    },
+    {
+      "description": "🍺 Scaffolding your Chrome extension! Boilerplates: react \\ vue \\ svelte \\ solid \\ preact \\ alpine \\ lit \\ stencil \\ inferno \\ vanilla",
+      "items": [],
+      "title": "Create Chrome Ext"
+    },
+    {
+      "description": "A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations",
+      "items": [],
+      "title": "Csstree"
+    },
+    {
+      "description": "Starts server, waits for URL, then runs test command; when the tests end, shuts down server",
+      "items": [],
+      "title": "Start Server And Test"
+    },
+    {
+      "description": "JSDoc specific linting rules for ESLint.",
+      "items": [],
+      "title": "Eslint Plugin Jsdoc"
+    },
+    {
+      "description": "🐊 Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏",
+      "items": [],
+      "title": "Putout"
+    },
+    {
+      "description": "A fast Javascript string diff",
+      "items": [],
+      "title": "Fast Diff"
+    },
+    {
+      "description": "The most comprehensive ES code style guide.",
+      "items": [],
+      "title": "Eslint Config Canonical"
+    },
+    {
+      "description": "⭐️ A proxy scraper made using Protractor | Proxy list Updates every three hour 🔥",
+      "items": [],
+      "title": "Proxy Scraper"
+    },
+    {
+      "description": "Faster updates for big JS projects",
+      "items": [],
+      "title": "Kuto"
+    },
+    {
+      "description": "Proposal for ECMAScript 'throw' expressions",
+      "items": [],
+      "title": "Proposal Throw Expressions"
+    },
+    {
+      "description": "Test each framework for it's performance cost",
+      "items": [],
+      "title": "Framework Benchmarks"
+    },
+    {
+      "description": "An always up-to-date list of the top 100 HTTP user-agents most used over the Internet.",
+      "items": [],
+      "title": "Top User Agents"
+    },
+    {
+      "description": "📁 Directory structure linter for Front-End projects",
+      "items": [],
+      "title": "Folderslint"
+    },
+    {
+      "description": "All-in-one devtool to automatically analyze, search and visualize project modules and dependencies from JavaScript, TypeScript (JSX/TSX) and Node.js (ES6, CommonJS)",
+      "items": [],
+      "title": "Skott"
+    },
+    {
+      "description": "Automatic normalization and data updates for data fetching libraries (react-query, vue-query, trpc, swr, rtk-query and more)",
+      "items": [],
+      "title": "Normy"
+    },
+    {
+      "description": "Fake HTTP injection library",
+      "items": [],
+      "title": "Light My Request"
+    },
+    {
+      "description": "TypeScript notebook for developers",
+      "items": [],
+      "title": "Vitale"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Proposal Composites"
+    },
+    {
+      "description": "Play sounds by shelling out to one of the available audio players.",
+      "items": [],
+      "title": "Play Sound"
+    },
+    {
+      "description": "Cross-browser web performance testing agent",
+      "items": [],
+      "title": "Telescope"
+    },
+    {
+      "description": "CSS variables autocomplete for vscode",
+      "items": [],
+      "title": "Vscode Css Variables"
+    },
+    {
+      "description": "The Standalone Portable Text Editor",
+      "items": [],
+      "title": "Editor"
+    },
+    {
+      "description": "A collection of Github Actions that simplify and standardize common CI/CD workflow tasks.",
+      "items": [],
+      "title": "Github Helpers"
+    },
+    {
+      "description": "Quickly integrate face, hand, and/or pose tracking to your frontend projects in a snap ✨👌",
+      "items": [],
+      "title": "Handsfree"
+    },
+    {
+      "description": "An ESLint plugin to enforce the use of total functions (and prevent the use of partial functions) in TypeScript.",
+      "items": [],
+      "title": "Eslint Plugin Total Functions"
+    },
+    {
+      "description": "ESLint plugin that validates data using JSON Schema Validator.",
+      "items": [],
+      "title": "Eslint Plugin Json Schema Validator"
+    },
+    {
+      "description": "Additional ESLint rules for directive comments of ESLint.",
+      "items": [],
+      "title": "Eslint Plugin Eslint Comments"
+    },
+    {
+      "description": "TypeScript Iteration Tools Library",
+      "items": [],
+      "title": "Itertools Ts"
+    },
+    {
+      "description": "A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)",
+      "items": [],
+      "title": "Howtheysre"
+    },
+    {
+      "description": "Web Components Framework - Web组件框架",
+      "items": [],
+      "title": "Omi"
+    },
+    {
+      "description": ":books: Find your next book to read!",
+      "items": [],
+      "title": "Mind Expanding Books"
+    },
+    {
+      "description": "TypeChat is a library that makes it easy to build natural language interfaces using types.",
+      "items": [],
+      "title": "Type Chat"
+    },
+    {
+      "description": "A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface",
+      "items": [],
+      "title": "Whodb"
+    },
+    {
+      "description": "Automated database platform for PostgreSQL® - Your own DBaaS.",
+      "items": [],
+      "title": "Autobase"
+    },
+    {
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "items": [],
+      "title": "Mattermost"
+    },
+    {
+      "description": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+      "items": [],
+      "title": "Responsively App"
+    },
+    {
+      "description": "ECMAScript proposal for type syntax that is erased - Stage 1",
+      "items": [],
+      "title": "Proposal Type Annotations"
+    },
+    {
+      "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+      "items": [],
+      "title": "Front End Checklist"
+    },
+    {
+      "description": "A collection of learning resources for curious software engineers",
+      "items": [],
+      "title": "Professional Programming"
+    },
+    {
+      "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+      "items": [],
+      "title": "Spacedrive"
+    },
+    {
+      "description": "🎮 The only Front-End Performance Checklist that runs faster than the others",
+      "items": [],
+      "title": "Front End Performance Checklist"
+    },
+    {
+      "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+      "items": [],
+      "title": "Static Analysis"
+    },
+    {
+      "description": "A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com",
+      "items": [],
+      "title": "Stack On A Budget"
+    },
+    {
+      "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
+      "items": [],
+      "title": "Mid Journey Styles And Keywords Reference"
+    },
+    {
+      "description": "A collection of postmortems. Sorry for the delay in merging PRs!",
+      "items": [],
+      "title": "Post Mortems"
+    },
+    {
+      "description": "Pointers to useful, well-written, and otherwise beautiful documentation.",
+      "items": [],
+      "title": "Beautiful Docs"
+    },
+    {
+      "description": "Top JavaScript interview questions and answers for Front End Engineers in 2025",
+      "items": [],
+      "title": "Top Javascript Interview Questions"
+    },
+    {
+      "description": "Ultimate DevSecOps library",
+      "items": [],
+      "title": "Dev Sec Ops"
+    },
+    {
+      "description": "A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜",
+      "items": [],
+      "title": "Portfolio Ideas"
+    },
+    {
+      "description": "📜 A collective list of public GraphQL APIs",
+      "items": [],
+      "title": "Graphql Apis"
+    },
+    {
+      "description": "📃 White paper for Backend developers",
+      "items": [],
+      "title": "Backend Cheats"
+    },
+    {
+      "description": "The largest Node.js CLI Apps best practices list ✨",
+      "items": [],
+      "title": "Nodejs Cli Apps Best Practices"
+    },
+    {
+      "description": "Categorized overview of programming principles & design patterns",
+      "items": [],
+      "title": "Programming Principles"
+    },
+    {
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "items": [],
+      "title": "System Design"
+    },
+    {
+      "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/",
+      "items": [],
+      "title": "Free Certifications"
+    },
+    {
+      "description": "Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
+      "items": [],
+      "title": "Linkedin Skill Assessments Quizzes"
+    },
+    {
+      "description": "dev tools, env vars, task runner",
+      "items": [],
+      "title": "Mise"
+    },
+    {
+      "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项",
+      "items": [],
+      "title": "Maple Font"
+    },
+    {
+      "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+      "items": [],
+      "title": "Swarm"
+    },
+    {
+      "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+      "items": [],
+      "title": "Magicui"
+    },
+    {
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "items": [],
+      "title": "Self Hosting Guide"
+    },
+    {
+      "description": "An innovative superfamily of fonts for code",
+      "items": [],
+      "title": "Monaspace"
+    },
+    {
+      "description": "Terminal session recorder, streamer and player 📹",
+      "items": [],
+      "title": "Asciinema"
+    },
+    {
+      "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+      "items": [],
+      "title": "Flair"
+    },
+    {
+      "description": "An open source implementation of CLIP.",
+      "items": [],
+      "title": "Open Clip"
+    },
+    {
+      "description": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+      "items": [],
+      "title": "Casdoor"
+    },
+    {
+      "description": "Pocket Flow: Codebase to Tutorial",
+      "items": [],
+      "title": "Pocket Flow Tutorial Codebase Knowledge"
+    },
+    {
+      "description": "🧠 Cognitive load is what matters",
+      "items": [],
+      "title": "Cognitive Load"
+    },
+    {
+      "description": "A Collection of application ideas that can be used to improve your coding skills ❤.",
+      "items": [],
+      "title": "Project Ideas And Resources"
+    },
+    {
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "items": [],
+      "title": "Browser"
+    },
+    {
+      "description": "Authentication, simple and clean",
+      "items": [],
+      "title": "Lucia"
+    },
+    {
+      "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
+      "items": [],
+      "title": "Ai Collection"
+    },
+    {
+      "description": "LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
+      "items": [],
+      "title": "Llrt"
+    },
+    {
+      "description": "⚡️ Icon Explorer with Instant searching, powered by Iconify",
+      "items": [],
+      "title": "Icones"
+    },
+    {
+      "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+      "items": [],
+      "title": "Serge"
+    },
+    {
+      "description": "😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager",
+      "items": [],
+      "title": "Clipboard"
+    },
+    {
+      "description": "Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.",
+      "items": [],
+      "title": "Markwhen"
+    },
+    {
+      "description": "A curated List of Coding Questions Asked in FAANG Interviews",
+      "items": [],
+      "title": "Faang Coding Interview Questions"
+    },
+    {
+      "description": "Like Vercel, but open source and for all languages.",
+      "items": [],
+      "title": "Devpush"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Geist Font"
+    },
+    {
+      "description": "Interactive UI for local node modules inspection",
+      "items": [],
+      "title": "Node Modules Inspector"
+    },
+    {
+      "description": "ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!",
+      "items": [],
+      "title": "Proposal Record Tuple"
+    },
+    {
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "items": [],
+      "title": "System Design Primer"
+    },
+    {
+      "description": "Master the command line, in one page",
+      "items": [],
+      "title": "The Art Of Command Line"
+    },
+    {
+      "description": "Stable Diffusion web UI",
+      "items": [],
+      "title": "Stable Diffusion Webui"
+    },
+    {
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "items": [],
+      "title": "Transformers"
+    },
+    {
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "items": [],
+      "title": "Tauri"
+    },
+    {
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "items": [],
+      "title": "Markitdown"
+    },
+    {
+      "description": "Run your GitHub Actions locally 🚀",
+      "items": [],
+      "title": "Act"
+    },
+    {
+      "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+      "items": [],
+      "title": "Localstack"
+    },
+    {
+      "description": "A natural language interface for computers",
+      "items": [],
+      "title": "Open Interpreter"
+    },
+    {
+      "description": "Focus on prompting and generating",
+      "items": [],
+      "title": "Fooocus"
+    },
+    {
+      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "items": [],
+      "title": "Polars"
+    },
+    {
+      "description": "Convert PDF to markdown + JSON quickly with high accuracy",
+      "items": [],
+      "title": "Marker"
+    },
+    {
+      "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+      "items": [],
+      "title": "Delta"
+    },
+    {
+      "description": "🧠 Laws, Theories, Principles and Patterns for developers and technologists.",
+      "items": [],
+      "title": "Hacker Laws"
+    },
+    {
+      "description": "Data validation using Python type hints",
+      "items": [],
+      "title": "Pydantic"
+    },
+    {
+      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "items": [],
+      "title": "Pulumi"
+    },
+    {
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "items": [],
+      "title": "Vitess"
+    },
+    {
+      "description": "a Hassle-Free Python Experience",
+      "items": [],
+      "title": "Rye"
+    },
+    {
+      "description": "Structured Outputs",
+      "items": [],
+      "title": "Outlines"
+    },
+    {
+      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+      "items": [],
+      "title": "Rolldown"
+    },
+    {
+      "description": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️",
+      "items": [],
+      "title": "Git Cliff"
+    },
+    {
+      "description": "A PyTorch-based Speech Toolkit",
+      "items": [],
+      "title": "Speechbrain"
+    },
+    {
+      "description": "Modin: Scale your Pandas workflows by changing a single line of code",
+      "items": [],
+      "title": "Modin"
+    },
+    {
+      "description": "A database migration tool. Supports SQL migrations and Go functions.",
+      "items": [],
+      "title": "Goose"
+    },
+    {
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "items": [],
+      "title": "Harper"
+    },
+    {
+      "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
+      "items": [],
+      "title": "Dbgate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Typespec"
+    },
+    {
+      "description": "A proposal to add signals to JavaScript.",
+      "items": [],
+      "title": "Proposal Signals"
+    },
+    {
+      "description": "A fast, powerful type checker designed for Ruby",
+      "items": [],
+      "title": "Sorbet"
+    },
+    {
+      "description": "A linter for YAML files.",
+      "items": [],
+      "title": "Yamllint"
+    },
+    {
+      "description": "Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2",
+      "items": [],
+      "title": "Chinook Database"
+    },
+    {
+      "description": "Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS",
+      "items": [],
+      "title": "Backend Best Practices"
+    },
+    {
+      "description": "OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.",
+      "items": [],
+      "title": "Osint Cheat Sheet"
+    },
+    {
+      "description": "A huge list of great stuff you can get for free!",
+      "items": [],
+      "title": "Free For Life"
+    },
+    {
+      "description": "Growing list of apps and tools for enhancing social media experiences.",
+      "items": [],
+      "title": "Social Media Hacker List"
+    },
+    {
+      "description": "Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.",
+      "items": [],
+      "title": "Rails Pg Extras"
+    },
+    {
+      "description": "Resources related to distributed systems, system design, microservices, scalability and performance, etc",
+      "items": [],
+      "title": "System Design Patterns"
+    },
+    {
+      "description": "The MEGA interview guide, JavaSciript, Front End, Comp Sci",
+      "items": [],
+      "title": "Mega Interview Guide"
+    },
+    {
+      "description": "🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾",
+      "items": [],
+      "title": "Pgbackweb"
+    },
+    {
+      "description": "A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources. https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech",
+      "items": [],
+      "title": "Open Sustainable Technology"
+    },
+    {
+      "description": "A basic guideline on implementing auth for the web",
+      "items": [],
+      "title": "Copenhagen"
+    },
+    {
+      "description": "A proposal to bring ergonomic, inline error handling to JavaScript through a new try operator that always returns a Result.",
+      "items": [],
+      "title": "Proposal Try Operator"
+    },
+    {
+      "description": "😵 GitHub achievements that did not make the cut.",
+      "items": [],
+      "title": "Rejected Github Profile Achievements"
+    },
+    {
+      "description": "Die wichtigsten APIs Deutschlands in einem Python Paket.",
+      "items": [],
+      "title": "Deutschland"
+    },
+    {
+      "description": "Scripts that will make you go WOW!",
+      "items": [],
+      "title": "Rotten Scripts"
+    },
+    {
+      "description": "A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells",
+      "items": [],
+      "title": "Shellspec"
+    },
+    {
+      "description": "Useful CSS custom functions using the new @​function rule",
+      "items": [],
+      "title": "Css Extras"
+    },
+    {
+      "description": "Action that converts TODO comments to GitHub issues on push.",
+      "items": [],
+      "title": "Todo To Issue Action"
+    },
+    {
+      "description": "plpgsql_check is a linter tool (does source code static analyze) for the PostgreSQL language plpgsql (the native language for PostgreSQL store procedures).",
+      "items": [],
+      "title": "Plpgsql Check"
+    },
+    {
+      "description": "DBMS Concepts, SQL Queries & Schema Design for your Interviews.",
+      "items": [],
+      "title": "Cracking The Sqlinterview"
+    },
+    {
+      "description": "A curated list of awesome 🔥 TypeScript Tips 🔥",
+      "items": [],
+      "title": "Typescript Tips"
+    },
+    {
+      "description": "The Elevation of Privilege Threat Modeling Game",
+      "items": [],
+      "title": "Eop"
+    },
+    {
+      "description": "Guides for getting things done, programming well, and programming in style.",
+      "items": [],
+      "title": "Playbook"
+    },
+    {
+      "description": "Public releases for the API Parrot desktop application",
+      "items": [],
+      "title": "Apiparrot Desktop Releases"
+    },
+    {
+      "description": "All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.",
+      "items": [],
+      "title": "Recommendations For Engineers"
+    },
+    {
+      "description": "Async Context for JavaScript",
+      "items": [],
+      "title": "Proposal Async Context"
+    },
+    {
+      "description": "An engine for displaying slips, the next-gen version of slides",
+      "items": [],
+      "title": "Slipshow"
+    },
+    {
+      "description": "Track 500+ Awesome List Updates, Track it - not just star it!",
+      "items": [],
+      "title": "Trackawesomelist"
+    },
+    {
+      "description": "Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are.",
+      "items": [],
+      "title": "Metatype"
+    },
+    {
+      "description": "a community wiki for improving code quality",
+      "items": [],
+      "title": "Linters"
+    },
+    {
+      "description": "Continued development of the popular brainworkshop game",
+      "items": [],
+      "title": "Brainworkshop"
+    },
+    {
+      "description": "Your database. Inside VS Code.",
+      "items": [],
+      "title": "Public"
+    },
+    {
+      "description": "речник с грижливо подбирани преводи на често срещани понятия от света на науката, технологиите (в това число ИТ) и математиката (STEM). приемат се предложения. прочетете по-долу как можете дас е включите.",
+      "items": [],
+      "title": "En Bg Term"
+    },
+    {
+      "description": "These patterns document how to apply open source principles and practices for software development within the confines of an organization - aka InnerSource.",
+      "items": [],
+      "title": "Inner Source Patterns"
+    },
+    {
+      "description": "Playwright demos and tips such as how to run in docker, how to get code coverage, etc",
+      "items": [],
+      "title": "Playwright Adventures"
+    },
+    {
+      "description": "Weekly free datasets from global news sites",
+      "items": [],
+      "title": "Free News Datasets"
+    },
+    {
+      "description": "Solutions to AoC problems https://adventofcode.com",
+      "items": [],
+      "title": "Advent Of Code"
+    },
+    {
+      "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+      "items": [],
+      "title": "Awesome Cto"
+    },
+    {
+      "description": "Learn System Design concepts and prepare for interviews using free resources.",
+      "items": [],
+      "title": "Awesome System Design Resources"
+    },
+    {
+      "description": "A curated list of awesome warez and piracy links",
+      "items": [],
+      "title": "Awesome Piracy"
+    },
+    {
+      "description": "💅🏻 ⚒ A collection of awesome design systems",
+      "items": [],
+      "title": "Awesome Design Systems"
+    },
+    {
+      "description": "A curated list of awesome things related to shadcn/ui.",
+      "items": [],
+      "title": "Awesome Shadcn Ui"
+    },
+    {
+      "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+      "items": [],
+      "title": "Awesome Creative Coding"
+    },
+    {
+      "description": "A curated list of awesome things related to NestJS 😎",
+      "items": [],
+      "title": "Awesome Nestjs"
+    },
+    {
+      "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+      "items": [],
+      "title": "Awesome Ddd"
+    },
+    {
+      "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
+      "items": [],
+      "title": "Awesome Hacker Search Engines"
+    },
+    {
+      "description": "😎 Awesome list of tools and projects with the awesome LangChain framework",
+      "items": [],
+      "title": "Awesome Langchain"
+    },
+    {
+      "description": ":pencil: A curated list of Web Performance Optimization. Everyone can contribute here!",
+      "items": [],
+      "title": "Awesome Wpo"
+    },
+    {
+      "description": "Curated front end system design resources for interviews and learning",
+      "items": [],
+      "title": "Awesome Front End System Design"
+    },
+    {
+      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming",
+      "items": [],
+      "title": "Awesome Developer Streams"
+    },
+    {
+      "description": "Tips and resources to prepare for Behavioral interviews.",
+      "items": [],
+      "title": "Awesome Behavioral Interviews"
+    },
+    {
+      "description": "An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.",
+      "items": [],
+      "title": "Awesome Youtubers"
+    },
+    {
+      "description": "🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI",
+      "items": [],
+      "title": "Awesome Chatgpt"
+    },
+    {
+      "description": "An awesome & curated list of best LLMOps tools for developers",
+      "items": [],
+      "title": "Awesome Llmops"
+    },
+    {
+      "description": ":art: A curated contents of amazing CSS :)",
+      "items": [],
+      "title": "Awesome Css"
+    },
+    {
+      "description": "A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!",
+      "items": [],
+      "title": "Awesome Elasticsearch"
+    },
+    {
+      "description": "A list of totally open alternatives to ChatGPT",
+      "items": [],
+      "title": "Awesome Totally Open Chatgpt"
+    },
+    {
+      "description": "A list of awesome ESLint plugins, configs, etc.",
+      "items": [],
+      "title": "Awesome Eslint"
+    },
+    {
+      "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
+      "items": [],
+      "title": "Awesome Ipfs"
+    },
+    {
+      "description": "A curated list of awesome Jupyter projects, libraries and resources",
+      "items": [],
+      "title": "Awesome Jupyter"
+    },
+    {
+      "description": "Curated list of awesome things related to Deno",
+      "items": [],
+      "title": "Awesome Deno"
+    },
+    {
+      "description": ":books: A collection of useful resources for building RESTful HTTP+JSON APIs.",
+      "items": [],
+      "title": "Awesome Api Devtools"
+    },
+    {
+      "description": "A series of beautiful and practical landing page templates",
+      "items": [],
+      "title": "Awesome Landing Page"
+    },
+    {
+      "description": "A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.",
+      "items": [],
+      "title": "Awesome Api Security"
+    },
+    {
+      "description": "A curated collection of game development learning resources",
+      "items": [],
+      "title": "Awesome Learn Gamedev"
+    },
+    {
+      "description": "A collection of *arrs and related stuff.",
+      "items": [],
+      "title": "Awesome Arr"
+    },
+    {
+      "description": "Awesome Node.js Security resources",
+      "items": [],
+      "title": "Awesome Nodejs Security"
+    },
+    {
+      "description": "A curated list of GitHub Repositories full of FREE Resources.",
+      "items": [],
+      "title": "Awesome Repos"
+    },
+    {
+      "description": "Cybersecurity oriented awesome list",
+      "items": [],
+      "title": "Awesome List"
+    },
+    {
+      "description": "A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API",
+      "items": [],
+      "title": "Awesome Chat Gpt Repositories"
+    },
+    {
+      "description": "Pointers and tools for learning and day-to-day practice of engineering management & leadership.",
+      "items": [],
+      "title": "Awesome Engineering Management"
+    },
+    {
+      "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+      "items": [],
+      "title": "Awesome Scalability"
+    },
+    {
+      "description": "📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+      "items": [],
+      "title": "Awesome Cursorrules"
+    },
+    {
+      "description": "A curated list of amazingly awesome open-source sysadmin resources.",
+      "items": [],
+      "title": "Awesome Sysadmin"
+    },
+    {
+      "description": "Awesome-LLM: a curated list of Large Language Model",
+      "items": [],
+      "title": "Awesome Llm"
+    },
+    {
+      "description": "List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.",
+      "items": [],
+      "title": "Awesome Tunneling"
+    },
+    {
+      "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+      "items": [],
+      "title": "Awesome Oss Alternatives"
+    },
+    {
+      "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
+      "items": [],
+      "title": "Awesome Tensorflow"
+    },
+    {
+      "description": "🌟 Curated design resources from all over the world.",
+      "items": [],
+      "title": "Awesome Design"
+    },
+    {
+      "description": "A curated list of Site Reliability and Production Engineering resources.",
+      "items": [],
+      "title": "Awesome Sre"
+    },
+    {
+      "description": "A curated list of awesome mathematics resources",
+      "items": [],
+      "title": "Awesome Math"
+    },
+    {
+      "description": "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+      "items": [],
+      "title": "Awesome Postgres"
+    },
+    {
+      "description": "A curated list to learn about distributed systems",
+      "items": [],
+      "title": "Awesome Distributed Systems"
+    },
+    {
+      "description": "A curated list of awesome System Design (A.K.A. Distributed Systems) resources.",
+      "items": [],
+      "title": "Awesome System Design"
+    },
+    {
+      "description": "A list of learning materials to understand databases internals",
+      "items": [],
+      "title": "Awesome Database Learning"
+    },
+    {
+      "description": "📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
+      "items": [],
+      "title": "Awesome Software Architecture"
+    },
+    {
+      "description": "For when people get too hyped up about things",
+      "items": [],
+      "title": "Awesome Cold Showers"
+    },
+    {
+      "description": "🔥 Awesome list of resources on Web Development.",
+      "items": [],
+      "title": "Awesome Learning Resources"
+    },
+    {
+      "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
+      "items": [],
+      "title": "Awesome Uses"
+    },
+    {
+      "description": "This repository contains best profile readme's for your reference.",
+      "items": [],
+      "title": "Awesome Github Profile Readme Templates"
+    },
+    {
+      "description": "Awesome list of progressive web apps!",
+      "items": [],
+      "title": "Awesome Pwa"
+    },
+    {
+      "description": "A list of amazing Newsletters",
+      "items": [],
+      "title": "Awesome Newsletters"
+    },
+    {
+      "description": "A curated list of awesome Kubernetes tools and resources.",
+      "items": [],
+      "title": "Awesome K S Resources"
+    },
+    {
+      "description": "Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.",
+      "items": [],
+      "title": "Awesome Certificates"
+    },
+    {
+      "description": "Curated list of AI-powered developer tools.",
+      "items": [],
+      "title": "Awesome Ai Devtools"
+    },
+    {
+      "description": "A curated list of awesome Web Components resources.",
+      "items": [],
+      "title": "Awesome Web Components"
+    },
+    {
+      "description": "A curated list with resources about node-based UIs",
+      "items": [],
+      "title": "Awesome Node Based Uis"
+    },
+    {
+      "description": "⚡️ A curated list of awesome things related to Bun",
+      "items": [],
+      "title": "Awesome Bun"
+    },
+    {
+      "description": "A curated list of Generative AI tools, works, models, and references",
+      "items": [],
+      "title": "Awesome Generative Ai"
+    },
+    {
+      "description": "🚀 Awesome (free) web apps that work without login",
+      "items": [],
+      "title": "Awesome No Login Web Apps"
+    },
+    {
+      "description": ":memo: A curated list of awesome HTML5 resources",
+      "items": [],
+      "title": "Awesome Html"
+    },
+    {
+      "description": "A list of history's greatest software engineers and tech pioneers",
+      "items": [],
+      "title": "Awesome Programmers"
+    },
+    {
+      "description": "A collection of MCP servers.",
+      "items": [],
+      "title": "Awesome Mcp Servers"
+    },
+    {
+      "description": "A topic-centric list of HQ open datasets.",
+      "items": [],
+      "title": "Awesome Public Datasets"
+    },
+    {
+      "description": "Integrate the DeepSeek API into popular softwares",
+      "items": [],
+      "title": "Awesome Deepseek Integration"
+    },
+    {
+      "description": "😎 A curated list of awesome GitHub Profile which updates in real time",
+      "items": [],
+      "title": "Awesome Github Profile Readme"
+    },
+    {
+      "description": "A curated list of awesome actions to use on GitHub",
+      "items": [],
+      "title": "Awesome Actions"
+    },
+    {
+      "description": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
+      "items": [],
+      "title": "Awesome Privacy"
+    },
+    {
+      "description": "Everything that makes working with databases easier",
+      "items": [],
+      "title": "Awesome Db Tools"
+    },
+    {
+      "description": "[Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..",
+      "items": [],
+      "title": "Awesome Notebooks"
+    },
+    {
+      "description": "An Awesome List for getting started with web archiving",
+      "items": [],
+      "title": "Awesome Web Archiving"
+    },
+    {
+      "description": "👔 How to transition from software development to engineering management",
+      "items": [],
+      "title": "Awesome Engineering Team Management"
+    },
+    {
+      "description": "Awesome Music Projects",
+      "items": [],
+      "title": "Awesome Music"
+    },
+    {
+      "description": "🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI",
+      "items": [],
+      "title": "Awesome Whisper"
+    },
+    {
+      "description": "Curated list of fonts and everything",
+      "items": [],
+      "title": "Awesome Fonts"
+    },
+    {
+      "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
+      "items": [],
+      "title": "Awesome Dynamodb"
+    },
+    {
+      "description": "Curated list of framework component libraries for UI styles/toolkit",
+      "items": [],
+      "title": "Awesome Ui Component Library"
+    },
+    {
+      "description": "an awesome list of internet services that don't require logins or registrations",
+      "items": [],
+      "title": "Awesome Loginless"
+    },
+    {
+      "description": "Awesome materials about database development.",
+      "items": [],
+      "title": "Awesome Dbdev"
+    },
+    {
+      "description": "Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security",
+      "items": [],
+      "title": "Awesome Aws Security"
+    },
+    {
+      "description": "A curated list of awesome developer-first tools products.",
+      "items": [],
+      "title": "Awesome Developer First"
+    },
+    {
+      "description": "A list of awesome web animation libraries, books, apps etc.",
+      "items": [],
+      "title": "Awesome Web Animation"
+    },
+    {
+      "description": "A curated list for when naming things is done right.",
+      "items": [],
+      "title": "Awesome Naming"
+    },
+    {
+      "description": "A curated list of awesome tools, utils and projects using Playwright",
+      "items": [],
+      "title": "Awesome Playwright"
+    },
+    {
+      "description": "A curated list of awesome WebAudio packages and resources.",
+      "items": [],
+      "title": "Awesome Webaudio"
+    },
+    {
+      "description": "A list of resources on all things to do with Design Tokens",
+      "items": [],
+      "title": "Awesome Design Tokens"
+    },
+    {
+      "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
+      "items": [],
+      "title": "Awesome Micro Frontends"
+    },
+    {
+      "description": "A curated list of UI styleguides — 😎💄",
+      "items": [],
+      "title": "Awesome Styleguides"
+    },
+    {
+      "description": "Curated list of awesome Template Literal Types examples",
+      "items": [],
+      "title": "Awesome Template Literal Types"
+    },
+    {
+      "description": "Deploy 150+ open-source web apps with one Docker command",
+      "items": [],
+      "title": "Awesome Stacks"
+    },
+    {
+      "description": "A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.",
+      "items": [],
+      "title": "Awesome Images"
+    },
+    {
+      "description": "🕶️ A curated list of resources around the topic: visual regression testing",
+      "items": [],
+      "title": "Awesome Regression Testing"
+    },
+    {
+      "description": "A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.",
+      "items": [],
+      "title": "Awesome Ai Art Image Synthesis"
+    },
+    {
+      "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
+      "items": [],
+      "title": "Awesome Threat Modelling"
+    },
+    {
+      "description": "Curating the best DevSecOps resources and tooling.",
+      "items": [],
+      "title": "Awesome Devsecops"
+    },
+    {
+      "description": "List of GitHub profiles that have awesome customisation, that you can use for inspiration",
+      "items": [],
+      "title": "Awesome Github Profiles"
+    },
+    {
+      "description": "🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍",
+      "items": [],
+      "title": "Awesome Decentralized"
+    },
+    {
+      "description": "A curated list of resources dedicated to reinforcement learning applied to cyber security.",
+      "items": [],
+      "title": "Awesome Rl For Cybersecurity"
+    },
+    {
+      "description": "Hand-curated list of awesome and useful websites",
+      "items": [],
+      "title": "Awesome Useful Websites"
+    },
+    {
+      "description": "A curated list of sites to practice testing on",
+      "items": [],
+      "title": "Awesome Sites To Test On"
+    },
+    {
+      "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
+      "items": [],
+      "title": "Awesome Tiny Js"
+    },
+    {
+      "description": "A curated list of amazingly awesome redis and redis ecosystem resources.",
+      "items": [],
+      "title": "Awesome Redis"
+    },
+    {
+      "description": "List of Awesome Web Components Built with StencilJS",
+      "items": [],
+      "title": "Awesome Stenciljs"
+    },
+    {
+      "description": "A curated list of awesome Web Components tools, articles and resources.",
+      "items": [],
+      "title": "Awesome Webcomponents"
+    },
+    {
+      "description": "A curated list of resources and projects for working with AWS CloudFormation.",
+      "items": [],
+      "title": "Awesome Cloudformation"
+    },
+    {
+      "description": "Curated list of Creative Technology groups, companies, studios, collectives, etc.",
+      "items": [],
+      "title": "Awesome Creative Technology"
+    },
+    {
+      "description": "A list of awesome Stylelint plugins, configs, etc.",
+      "items": [],
+      "title": "Awesome Stylelint"
+    },
+    {
+      "description": "A curated list of awesome system integration software and resources.",
+      "items": [],
+      "title": "Awesome Integration"
+    },
+    {
+      "description": "Create resumes and CV with awesome-resumes. Practical tips, guidelines, guide, examples and documentation for all IT fields",
+      "items": [],
+      "title": "Awesome Resumes"
+    },
+    {
+      "description": "A curated list of information and resources about authorization.",
+      "items": [],
+      "title": "Awesome Authorization"
+    },
+    {
+      "description": "A curated list of open source tools used in analytics platforms and data engineering ecosystem",
+      "items": [],
+      "title": "Awesome Open Source Data Engineering"
+    },
+    {
+      "description": "A curated list of awesome websites",
+      "items": [],
+      "title": "Awesome Websites"
+    },
+    {
+      "description": "A curated list of awesome philosophy",
+      "items": [],
+      "title": "Awesome Philosophy"
+    },
+    {
+      "description": "A curated list of awesome company handbooks",
+      "items": [],
+      "title": "Awesome Handbooks"
+    },
+    {
+      "description": "🚀⚡ Awesome list about performance related patches/PRs.",
+      "items": [],
+      "title": "Awesome Performance Patches"
+    },
+    {
+      "description": "🔥 An awesome list of illustrations to improve your projects, posts & portfolios. Fork & add your own.",
+      "items": [],
+      "title": "Awesome Illustrations Projects"
+    },
+    {
+      "description": "A collection of bizarre, funny or obscure bugs in our software and hardware",
+      "items": [],
+      "title": "Awesome Bugs"
+    },
+    {
+      "description": "A curated list of awesome MDC files for your next vibe project.",
+      "items": [],
+      "title": "Awesome Mdc"
+    },
+    {
+      "description": "A collection of awesome things regarding Prisma ecosystem.",
+      "items": [],
+      "title": "Awesome Prisma"
+    },
+    {
+      "description": "Awesome Svelte: Useful resources for developing Svelte applications",
+      "items": [],
+      "title": "Awesome Svelte"
+    },
+    {
+      "description": "A list of resources and projects to help learn about audio",
+      "items": [],
+      "title": "Awesome Web Audio"
+    },
+    {
+      "description": "Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.",
+      "items": [],
+      "title": "Awesome Plugins"
+    },
+    {
+      "description": "Awesome list of tools for using multimedia in the network",
+      "items": [],
+      "title": "Awesome Networked Media"
+    },
+    {
+      "description": ":dragon: Personal Learning Notes - Today I Learned (TIL)",
+      "items": [],
+      "title": "Awesome Notes"
+    },
+    {
+      "description": "This repository contains links to awesome security articles.",
+      "items": [],
+      "title": "Awesome Security Articles"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:16:13.945Z",
+    "original_repository": "selfrefactor/useful-javascript-libraries",
+    "original_repository_sha": "8ab404efb4a3ad8ebff3021adc40ff194c553358",
+    "enhanced_repository": "enhansome/enhansome-useful-javascript-libraries",
+    "enhanced_repository_description": null,
+    "title": "Awesome 155 Useful Typescript libraries with stars"
+  }
+}
