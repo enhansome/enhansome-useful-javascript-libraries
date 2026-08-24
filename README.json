@@ -5,6 +5,2322 @@
       "items": [
         {
           "children": [],
+          "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 838695230,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T05:27:08Z",
+            "owner": "DavidHDev",
+            "repo": "react-bits",
+            "stars": 46082
+          },
+          "title": "React Bits"
+        },
+        {
+          "children": [],
+          "description": "AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 40772809,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T05:06:03Z",
+            "owner": "adonisjs",
+            "repo": "core",
+            "stars": 19099
+          },
+          "title": "Core"
+        },
+        {
+          "children": [],
+          "description": "Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 33568214,
+            "language": "TypeScript",
+            "last_commit": "2025-11-19T13:18:33Z",
+            "owner": "inversify",
+            "repo": "InversifyJS",
+            "stars": 12076
+          },
+          "title": "Inversify Js"
+        },
+        {
+          "children": [],
+          "description": "🧙 Valtio makes proxy-state simple for React and Vanilla",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 313443335,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:23:33Z",
+            "owner": "pmndrs",
+            "repo": "valtio",
+            "stars": 10226
+          },
+          "title": "Valtio"
+        },
+        {
+          "children": [],
+          "description": "Simple reusable React error boundary component",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 97559842,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T16:31:41Z",
+            "owner": "bvaughn",
+            "repo": "react-error-boundary",
+            "stars": 7985
+          },
+          "title": "React Error Boundary"
+        },
+        {
+          "children": [],
+          "description": "Make changes to FMHY",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 394102612,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T12:59:07Z",
+            "owner": "fmhy",
+            "repo": "edit",
+            "stars": 11335
+          },
+          "title": "Edit"
+        },
+        {
+          "children": [],
+          "description": "A collection of public resources about how software companies test their software",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 249660426,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T05:12:59Z",
+            "owner": "abhivaikar",
+            "repo": "howtheytest",
+            "stars": 6865
+          },
+          "title": "Howtheytest"
+        },
+        {
+          "children": [],
+          "description": "Tiny and powerful JavaScript full-text search engine for browser and Node",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 149144662,
+            "language": "TypeScript",
+            "last_commit": "2025-09-16T12:43:59Z",
+            "owner": "lucaong",
+            "repo": "minisearch",
+            "stars": 6104
+          },
+          "title": "Minisearch"
+        },
+        {
+          "children": [],
+          "description": "This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 636447277,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T00:09:00Z",
+            "owner": "epicweb-dev",
+            "repo": "epic-stack",
+            "stars": 5546
+          },
+          "title": "Epic Stack"
+        },
+        {
+          "children": [],
+          "description": "Simple, expected, and deterministic best-match sorting of an array in JavaScript",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 66523440,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T00:14:17Z",
+            "owner": "kentcdodds",
+            "repo": "match-sorter",
+            "stars": 4102
+          },
+          "title": "Match Sorter"
+        },
+        {
+          "children": [],
+          "description": "A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 423249525,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T22:21:49Z",
+            "owner": "AsyncBanana",
+            "repo": "microdiff",
+            "stars": 3862
+          },
+          "title": "Microdiff"
+        },
+        {
+          "children": [],
+          "description": "Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 955169955,
+            "language": "TypeScript",
+            "last_commit": "2025-12-31T12:51:05Z",
+            "owner": "imskyleen",
+            "repo": "animate-ui",
+            "stars": 4197
+          },
+          "title": "Animate Ui"
+        },
+        {
+          "children": [],
+          "description": "☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 636870455,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:55:46Z",
+            "owner": "azat-io",
+            "repo": "eslint-plugin-perfectionist",
+            "stars": 2916
+          },
+          "title": "Eslint Plugin Perfectionist"
+        },
+        {
+          "children": [],
+          "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 202890778,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T16:15:30Z",
+            "owner": "chakra-ui",
+            "repo": "chakra-ui",
+            "stars": 40590
+          },
+          "title": "Chakra Ui"
+        },
+        {
+          "children": [],
+          "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 59435364,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:21:39Z",
+            "owner": "outline",
+            "repo": "outline",
+            "stars": 40309
+          },
+          "title": "Outline"
+        },
+        {
+          "children": [],
+          "description": "The most advanced free and open-source browser fingerprinting library",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 30638861,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T21:31:31Z",
+            "owner": "fingerprintjs",
+            "repo": "fingerprintjs",
+            "stars": 28333
+          },
+          "title": "Fingerprintjs"
+        },
+        {
+          "children": [],
+          "description": "🎥 Make videos programmatically with React",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 274495425,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:34:58Z",
+            "owner": "remotion-dev",
+            "repo": "remotion",
+            "stars": 57243
+          },
+          "title": "Remotion"
+        },
+        {
+          "children": [],
+          "description": "A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 75425073,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T02:00:32Z",
+            "owner": "pubkey",
+            "repo": "rxdb",
+            "stars": 23363
+          },
+          "title": "Rxdb"
+        },
+        {
+          "children": [],
+          "description": "A beautiful yet powerful syntax highlighter",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 155288604,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T04:54:31Z",
+            "owner": "shikijs",
+            "repo": "shiki",
+            "stars": 13738
+          },
+          "title": "Shiki"
+        },
+        {
+          "children": [],
+          "description": "Build mindmaps with plain text",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 233568787,
+            "language": "TypeScript",
+            "last_commit": "2026-06-21T03:38:23Z",
+            "owner": "markmap",
+            "repo": "markmap",
+            "stars": 13069
+          },
+          "title": "Markmap"
+        },
+        {
+          "children": [],
+          "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 24233689,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T17:13:00Z",
+            "owner": "juice-shop",
+            "repo": "juice-shop",
+            "stars": 13709
+          },
+          "title": "Juice Shop"
+        },
+        {
+          "children": [],
+          "description": "A JavaScript library aimed at visualizing graphs of thousands of nodes and edges",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 3687489,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T15:27:58Z",
+            "owner": "jacomyal",
+            "repo": "sigma.js",
+            "stars": 12144
+          },
+          "title": "Sigma Js"
+        },
+        {
+          "children": [],
+          "description": "Admin Dashboard UI built with Shadcn and Vite.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 748464657,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T16:18:31Z",
+            "owner": "satnaing",
+            "repo": "shadcn-admin",
+            "stars": 14003
+          },
+          "title": "Shadcn Admin"
+        },
+        {
+          "children": [],
+          "description": "Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 262932920,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:30:02Z",
+            "owner": "47ng",
+            "repo": "nuqs",
+            "stars": 10765
+          },
+          "title": "Nuqs"
+        },
+        {
+          "children": [],
+          "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 603761805,
+            "language": "TypeScript",
+            "last_commit": "2026-04-01T13:30:54Z",
+            "owner": "mattpocock",
+            "repo": "ts-reset",
+            "stars": 8589
+          },
+          "title": "Ts Reset"
+        },
+        {
+          "children": [],
+          "description": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 97478419,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T14:12:24Z",
+            "owner": "mockoon",
+            "repo": "mockoon",
+            "stars": 8377
+          },
+          "title": "Mockoon"
+        },
+        {
+          "children": [],
+          "description": "Type-Safe Errors for JS & TypeScript",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 183857874,
+            "language": "TypeScript",
+            "last_commit": "2026-02-14T23:23:06Z",
+            "owner": "supermacro",
+            "repo": "neverthrow",
+            "stars": 7685
+          },
+          "title": "Neverthrow"
+        },
+        {
+          "children": [],
+          "description": "Connect, collaborate, and grow with a community of TypeScript developers",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 646269950,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T01:15:19Z",
+            "owner": "typehero",
+            "repo": "typehero",
+            "stars": 6638
+          },
+          "title": "Typehero"
+        },
+        {
+          "children": [],
+          "description": "A single API for all your integrations.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 254328371,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:29:35Z",
+            "owner": "NangoHQ",
+            "repo": "nango",
+            "stars": 11576
+          },
+          "title": "Nango"
+        },
+        {
+          "children": [],
+          "description": "Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 82819844,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T16:52:21Z",
+            "owner": "iconify",
+            "repo": "iconify",
+            "stars": 6276
+          },
+          "title": "Iconify"
+        },
+        {
+          "children": [],
+          "description": "Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 28627350,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T13:56:42Z",
+            "owner": "ravionhq",
+            "repo": "superjson",
+            "stars": 5279
+          },
+          "title": "Superjson"
+        },
+        {
+          "children": [],
+          "description": "Property based testing framework for JavaScript (like QuickCheck) written in TypeScript",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 108920680,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T20:42:37Z",
+            "owner": "dubzzz",
+            "repo": "fast-check",
+            "stars": 5116
+          },
+          "title": "Fast Check"
+        },
+        {
+          "children": [],
+          "description": "A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 103130316,
+            "language": "TypeScript",
+            "last_commit": "2026-05-09T09:13:21Z",
+            "owner": "KingSora",
+            "repo": "OverlayScrollbars",
+            "stars": 5195
+          },
+          "title": "Overlay Scrollbars"
+        },
+        {
+          "children": [],
+          "description": "NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 289747144,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T23:16:42Z",
+            "owner": "brocoders",
+            "repo": "nestjs-boilerplate",
+            "stars": 4376
+          },
+          "title": "Nestjs Boilerplate"
+        },
+        {
+          "children": [],
+          "description": "A tiny (~650 B) & modern library for keybindings.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 283037179,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T06:08:18Z",
+            "owner": "jamiebuilds",
+            "repo": "tinykeys",
+            "stars": 4099
+          },
+          "title": "Tinykeys"
+        },
+        {
+          "children": [],
+          "description": "Ollama JavaScript library",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 691303110,
+            "language": "TypeScript",
+            "last_commit": "2026-02-18T22:06:18Z",
+            "owner": "ollama",
+            "repo": "ollama-js",
+            "stars": 4354
+          },
+          "title": "Ollama Js"
+        },
+        {
+          "children": [],
+          "description": "A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 847167817,
+            "language": "TypeScript",
+            "last_commit": "2026-05-04T06:00:08Z",
+            "owner": "shadcnblocks",
+            "repo": "kibo",
+            "stars": 3914
+          },
+          "title": "Kibo"
+        },
+        {
+          "children": [],
+          "description": "Postgres Explain Visualizer 2",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 200599942,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T13:30:34Z",
+            "owner": "dalibo",
+            "repo": "pev2",
+            "stars": 3572
+          },
+          "title": "Pev"
+        },
+        {
+          "children": [],
+          "description": "pgTyped - Typesafe SQL in TypeScript",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 210450402,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T16:12:11Z",
+            "owner": "adelsz",
+            "repo": "pgtyped",
+            "stars": 3276
+          },
+          "title": "Pgtyped"
+        },
+        {
+          "children": [],
+          "description": "Gets the job done when JSON.stringify can't",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 124701545,
+            "language": "JavaScript",
+            "last_commit": "2026-08-20T16:45:57Z",
+            "owner": "sveltejs",
+            "repo": "devalue",
+            "stars": 2787
+          },
+          "title": "Devalue"
+        },
+        {
+          "children": [],
+          "description": "Collection of TypeScript type challenges with online judge",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 281975310,
+            "language": "TypeScript",
+            "last_commit": "2026-05-16T14:20:30Z",
+            "owner": "type-challenges",
+            "repo": "type-challenges",
+            "stars": 48457
+          },
+          "title": "Type Challenges"
+        },
+        {
+          "children": [],
+          "description": "Presentation Slides for Developers",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 361044034,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T04:52:54Z",
+            "owner": "slidevjs",
+            "repo": "slidev",
+            "stars": 48194
+          },
+          "title": "Slidev"
+        },
+        {
+          "children": [],
+          "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 280557054,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T21:58:09Z",
+            "owner": "trpc",
+            "repo": "trpc",
+            "stars": 40541
+          },
+          "title": "Trpc"
+        },
+        {
+          "children": [],
+          "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 766341786,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T05:00:04Z",
+            "owner": "HeyPuter",
+            "repo": "puter",
+            "stars": 43213
+          },
+          "title": "Puter"
+        },
+        {
+          "children": [],
+          "description": "The swiss army knife of lossless video/audio editing",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 72343657,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T09:03:12Z",
+            "owner": "mifi",
+            "repo": "lossless-cut",
+            "stars": 43166
+          },
+          "title": "Lossless Cut"
+        },
+        {
+          "children": [],
+          "description": "⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 644686905,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:22:36Z",
+            "owner": "continuedev",
+            "repo": "continue",
+            "stars": 35609
+          },
+          "title": "Continue"
+        },
+        {
+          "children": [],
+          "description": "Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 100061716,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:35:54Z",
+            "owner": "nrwl",
+            "repo": "nx",
+            "stars": 29257
+          },
+          "title": "Nx"
+        },
+        {
+          "children": [],
+          "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 190729906,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:31:06Z",
+            "owner": "Budibase",
+            "repo": "budibase",
+            "stars": 28243
+          },
+          "title": "Budibase"
+        },
+        {
+          "children": [],
+          "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 708775091,
+            "language": "TypeScript",
+            "last_commit": "2026-04-25T02:28:26Z",
+            "owner": "louislam",
+            "repo": "dockge",
+            "stars": 24140
+          },
+          "title": "Dockge"
+        },
+        {
+          "children": [],
+          "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 560299175,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:49:59Z",
+            "owner": "teableio",
+            "repo": "teable",
+            "stars": 21704
+          },
+          "title": "Teable"
+        },
+        {
+          "children": [],
+          "description": "The instant on-demand atomic CSS engine.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 412152628,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:18:05Z",
+            "owner": "unocss",
+            "repo": "unocss",
+            "stars": 18935
+          },
+          "title": "Unocss"
+        },
+        {
+          "children": [],
+          "description": "Visualize Your Ideas With Code",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 520955562,
+            "language": "TypeScript",
+            "last_commit": "2026-07-02T20:01:32Z",
+            "owner": "motion-canvas",
+            "repo": "motion-canvas",
+            "stars": 19001
+          },
+          "title": "Motion Canvas"
+        },
+        {
+          "children": [],
+          "description": "Ergonomic Framework for Humans",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 574104779,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T05:26:07Z",
+            "owner": "elysiajs",
+            "repo": "elysia",
+            "stars": 18957
+          },
+          "title": "Elysia"
+        },
+        {
+          "children": [],
+          "description": "Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 862449441,
+            "language": "TypeScript",
+            "last_commit": "2024-12-17T06:29:27Z",
+            "owner": "stackblitz",
+            "repo": "bolt.new",
+            "stars": 16523
+          },
+          "title": "Bolt New"
+        },
+        {
+          "children": [],
+          "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 720209383,
+            "language": "Rust",
+            "last_commit": "2026-08-23T15:52:13Z",
+            "owner": "CapSoftware",
+            "repo": "Cap",
+            "stars": 21157
+          },
+          "title": "Cap"
+        },
+        {
+          "children": [],
+          "description": "Generate massive amounts of fake data in the browser and node.js",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 445599288,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:25:25Z",
+            "owner": "faker-js",
+            "repo": "faker",
+            "stars": 15468
+          },
+          "title": "Faker"
+        },
+        {
+          "children": [],
+          "description": "Embeddable Postgres with real-time, reactive bindings.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 759893102,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T16:54:45Z",
+            "owner": "electric-sql",
+            "repo": "pglite",
+            "stars": 15910
+          },
+          "title": "Pglite"
+        },
+        {
+          "children": [],
+          "description": "A Minimalistic Wrapper for IndexedDB",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 17203748,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:53:14Z",
+            "owner": "dexie",
+            "repo": "Dexie.js",
+            "stars": 14545
+          },
+          "title": "Dexie Js"
+        },
+        {
+          "children": [],
+          "description": "Generate types and converters from JSON, Schema, and GraphQL",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 97062850,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T18:26:08Z",
+            "owner": "glideapps",
+            "repo": "quicktype",
+            "stars": 13843
+          },
+          "title": "Quicktype"
+        },
+        {
+          "children": [],
+          "description": "Simple peer-to-peer with WebRTC.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 7292898,
+            "language": "TypeScript",
+            "last_commit": "2026-02-27T00:49:47Z",
+            "owner": "peers",
+            "repo": "peerjs",
+            "stars": 13429
+          },
+          "title": "Peerjs"
+        },
+        {
+          "children": [],
+          "description": "A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 726082384,
+            "language": "MDX",
+            "last_commit": "2026-08-06T11:28:44Z",
+            "owner": "wasp-lang",
+            "repo": "open-saas",
+            "stars": 15610
+          },
+          "title": "Open Saas"
+        },
+        {
+          "children": [],
+          "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 572570113,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:24:01Z",
+            "owner": "triggerdotdev",
+            "repo": "trigger.dev",
+            "stars": 16107
+          },
+          "title": "Trigger Dev"
+        },
+        {
+          "children": [],
+          "description": "Enlightened library to convert HTML and CSS to SVG",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 452769633,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:48:10Z",
+            "owner": "vercel",
+            "repo": "satori",
+            "stars": 13846
+          },
+          "title": "Satori"
+        },
+        {
+          "children": [],
+          "description": "Build production-ready applications in TypeScript",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 221458136,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:24:45Z",
+            "owner": "Effect-TS",
+            "repo": "effect",
+            "stars": 15477
+          },
+          "title": "Effect"
+        },
+        {
+          "children": [],
+          "description": "The simplest and fastest way to bundle your TypeScript libraries.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 248550680,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T03:11:55Z",
+            "owner": "egoist",
+            "repo": "tsup",
+            "stars": 11290
+          },
+          "title": "Tsup"
+        },
+        {
+          "children": [],
+          "description": "Node canvas is a Cairo backed Canvas implementation for NodeJS.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 948957,
+            "language": "JavaScript",
+            "last_commit": "2026-08-20T02:11:39Z",
+            "owner": "Automattic",
+            "repo": "node-canvas",
+            "stars": 10689
+          },
+          "title": "Node Canvas"
+        },
+        {
+          "children": [],
+          "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 452269390,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T01:34:05Z",
+            "owner": "nitrojs",
+            "repo": "nitro",
+            "stars": 11139
+          },
+          "title": "Nitro"
+        },
+        {
+          "children": [],
+          "description": "Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 157318000,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:20:10Z",
+            "owner": "vercel",
+            "repo": "ncc",
+            "stars": 9836
+          },
+          "title": "Ncc"
+        },
+        {
+          "children": [],
+          "description": "Toolkit with accessible components, styles, and examples for your next web app",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 104133653,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:48:21Z",
+            "owner": "ariakit",
+            "repo": "ariakit",
+            "stars": 8601
+          },
+          "title": "Ariakit"
+        },
+        {
+          "children": [],
+          "description": "Generate TypeScript types from OpenAPI 3 specs",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 161691324,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T18:10:42Z",
+            "owner": "openapi-ts",
+            "repo": "openapi-typescript",
+            "stars": 8325
+          },
+          "title": "Openapi Typescript"
+        },
+        {
+          "children": [],
+          "description": "TypeScript's 1:1 validator, optimized from editor to runtime",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 193156479,
+            "language": "TypeScript",
+            "last_commit": "2026-07-07T20:07:53Z",
+            "owner": "arktypeio",
+            "repo": "arktype",
+            "stars": 7844
+          },
+          "title": "Arktype"
+        },
+        {
+          "children": [],
+          "description": "ESLint plugin with rules that help validate proper imports.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 32238354,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T16:57:53Z",
+            "owner": "import-js",
+            "repo": "eslint-plugin-import",
+            "stars": 5940
+          },
+          "title": "Eslint Plugin Import"
+        },
+        {
+          "children": [],
+          "description": "The GitHub ToolKit for developing GitHub Actions.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 182299236,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T18:34:11Z",
+            "owner": "actions",
+            "repo": "toolkit",
+            "stars": 5833
+          },
+          "title": "Toolkit"
+        },
+        {
+          "children": [],
+          "description": "A client-side server to build, test and share your JavaScript app",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 172116319,
+            "language": "JavaScript",
+            "last_commit": "2025-08-11T14:21:25Z",
+            "owner": "miragejs",
+            "repo": "miragejs",
+            "stars": 5529
+          },
+          "title": "Miragejs"
+        },
+        {
+          "children": [],
+          "description": "A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 930459670,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T21:40:53Z",
+            "owner": "AmanVarshney01",
+            "repo": "create-better-t-stack",
+            "stars": 5667
+          },
+          "title": "Create Better T Stack"
+        },
+        {
+          "children": [],
+          "description": "✨ A Markdown Editor",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 417477677,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T11:28:51Z",
+            "owner": "Tencent",
+            "repo": "cherry-markdown",
+            "stars": 4845
+          },
+          "title": "Cherry Markdown"
+        },
+        {
+          "children": [],
+          "description": "Positron, a next-generation data science IDE",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 495976441,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:30:23Z",
+            "owner": "posit-dev",
+            "repo": "positron",
+            "stars": 4233
+          },
+          "title": "Positron"
+        },
+        {
+          "children": [],
+          "description": "💡 A hinting engine for the web",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 82211360,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T13:56:58Z",
+            "owner": "webhintio",
+            "repo": "hint",
+            "stars": 3698
+          },
+          "title": "Hint"
+        },
+        {
+          "children": [],
+          "description": "Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 112892985,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:16:21Z",
+            "owner": "garden-io",
+            "repo": "garden",
+            "stars": 3608
+          },
+          "title": "Garden"
+        },
+        {
+          "children": [],
+          "description": "modular high-performance TypeScript framework",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 152898727,
+            "language": "TypeScript",
+            "last_commit": "2026-02-11T09:58:10Z",
+            "owner": "marcj",
+            "repo": "deepkit",
+            "stars": 3545
+          },
+          "title": "Deepkit"
+        },
+        {
+          "children": [],
+          "description": "The No-Hassle CMS for Static Sites Generators",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 732374797,
+            "language": "TypeScript",
+            "last_commit": "2026-06-23T07:33:22Z",
+            "owner": "hunvreus",
+            "repo": "pagescms",
+            "stars": 3935
+          },
+          "title": "Pages Cms"
+        },
+        {
+          "children": [],
+          "description": "A fast video processing library based on node.js (一个基于node.js的高速视频制作库)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 307274978,
+            "language": "JavaScript",
+            "last_commit": "2024-12-19T07:43:53Z",
+            "owner": "tnfe",
+            "repo": "FFCreator",
+            "stars": 3157
+          },
+          "title": "Ffcreator"
+        },
+        {
+          "children": [],
+          "description": "A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 144890632,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T09:56:59Z",
+            "owner": "stoplightio",
+            "repo": "spectral",
+            "stars": 3188
+          },
+          "title": "Spectral"
+        },
+        {
+          "children": [],
+          "description": "Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 812866687,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T05:28:15Z",
+            "owner": "codse",
+            "repo": "animata",
+            "stars": 2776
+          },
+          "title": "Animata"
+        },
+        {
+          "children": [],
+          "description": "Flipping how we define typography in CSS.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 269211843,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T05:11:30Z",
+            "owner": "seek-oss",
+            "repo": "capsize",
+            "stars": 1716
+          },
+          "title": "Capsize"
+        },
+        {
+          "children": [],
+          "description": "A JavaScript library like PyTorch, with GPU acceleration.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 764272743,
+            "language": "JavaScript",
+            "last_commit": "2024-11-15T18:32:17Z",
+            "owner": "eduardoleao052",
+            "repo": "js-pytorch",
+            "stars": 1222
+          },
+          "title": "Js Pytorch"
+        },
+        {
+          "children": [],
+          "description": "Make Prettier organize your imports using the TypeScript language service API.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 237527660,
+            "language": "JavaScript",
+            "last_commit": "2025-09-18T07:59:23Z",
+            "owner": "simonhaenisch",
+            "repo": "prettier-plugin-organize-imports",
+            "stars": 1239
+          },
+          "title": "Prettier Plugin Organize Imports"
+        },
+        {
+          "children": [],
+          "description": "CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 652905376,
+            "language": "TypeScript",
+            "last_commit": "2026-07-08T02:32:30Z",
+            "owner": "roninoss",
+            "repo": "create-expo-stack",
+            "stars": 2576
+          },
+          "title": "Create Expo Stack"
+        },
+        {
+          "children": [],
+          "description": "🧀 Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 370689096,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T00:11:03Z",
+            "owner": "unjs",
+            "repo": "magicast",
+            "stars": 2477
+          },
+          "title": "Magicast"
+        },
+        {
+          "children": [],
+          "description": "🚀 Create and publish a dynamic portfolio by just providing your GitHub username.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 398471444,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T04:47:06Z",
+            "owner": "arifszn",
+            "repo": "gitprofile",
+            "stars": 2296
+          },
+          "title": "Gitprofile"
+        },
+        {
+          "children": [],
+          "description": "High performance Node.js/PostgreSQL job queue (also suitable for getting jobs generated by PostgreSQL triggers/functions out into a different work queue)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 173332483,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T09:10:17Z",
+            "owner": "graphile",
+            "repo": "worker",
+            "stars": 2372
+          },
+          "title": "Worker"
+        },
+        {
+          "children": [],
+          "description": "Replace Copilot local AI",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 720977041,
+            "language": "TypeScript",
+            "last_commit": "2024-05-13T10:05:37Z",
+            "owner": "ex3ndr",
+            "repo": "llama-coder",
+            "stars": 2089
+          },
+          "title": "Llama Coder"
+        },
+        {
+          "children": [],
+          "description": "Async State Management without the Management. REST, GraphQL, SSE, Websockets",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 170797156,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T21:36:27Z",
+            "owner": "reactive",
+            "repo": "data-client",
+            "stars": 2034
+          },
+          "title": "Data Client"
+        },
+        {
+          "children": [],
+          "description": "Node.js \"fs\" and browser \"File System API\" adapters and in-memory implementations 👍",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 37490572,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:01:54Z",
+            "owner": "streamich",
+            "repo": "memfs",
+            "stars": 2088
+          },
+          "title": "Memfs"
+        },
+        {
+          "children": [],
+          "description": "The TypeScript implementation of Connect: Protobuf RPC that works.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 460076976,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T14:29:23Z",
+            "owner": "connectrpc",
+            "repo": "connect-es",
+            "stars": 1802
+          },
+          "title": "Connect Es"
+        },
+        {
+          "children": [],
+          "description": "Official JavaScript repository for Clerk authentication",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 438331492,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:29:05Z",
+            "owner": "clerk",
+            "repo": "javascript",
+            "stars": 1740
+          },
+          "title": "Javascript"
+        },
+        {
+          "children": [],
+          "description": "Node.js database migration management for PostgreSQL",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 17729096,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T01:04:37Z",
+            "owner": "salsita",
+            "repo": "node-pg-migrate",
+            "stars": 1475
+          },
+          "title": "Node Pg Migrate"
+        },
+        {
+          "children": [],
+          "description": "Safe and idiomatic TypeScript types to handle null, error, and async code handling: Maybe, Result, and Task types that are really nice.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 104394958,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T21:36:12Z",
+            "owner": "true-myth",
+            "repo": "true-myth",
+            "stars": 1359
+          },
+          "title": "True Myth"
+        },
+        {
+          "children": [],
+          "description": "Introduction to Functional Programming using TypeScript and fp-ts.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 233225883,
+            "language": "TypeScript",
+            "last_commit": "2025-03-11T22:12:55Z",
+            "owner": "enricopolanski",
+            "repo": "functional-programming",
+            "stars": 1293
+          },
+          "title": "Functional Programming"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 862085773,
+            "language": "TypeScript",
+            "last_commit": "2025-02-17T15:32:22Z",
+            "owner": "haystackeditor",
+            "repo": "haystack-editor",
+            "stars": 1284
+          },
+          "title": "Haystack Editor"
+        },
+        {
+          "children": [],
+          "description": ":recycle: Visual Regression Testing tool",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 95481549,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T20:54:39Z",
+            "owner": "reg-viz",
+            "repo": "reg-suit",
+            "stars": 1287
+          },
+          "title": "Reg Suit"
+        },
+        {
+          "children": [],
+          "description": "You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 370944699,
+            "language": "TypeScript",
+            "last_commit": "2024-02-19T12:13:47Z",
+            "owner": "shikijs",
+            "repo": "twoslash",
+            "stars": 1142
+          },
+          "title": "Twoslash"
+        },
+        {
+          "children": [],
+          "description": "💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 345475832,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T04:47:28Z",
+            "owner": "unjs",
+            "repo": "unstorage",
+            "stars": 2635
+          },
+          "title": "Unstorage"
+        },
+        {
+          "children": [],
+          "description": "⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 207588519,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:38:36Z",
+            "owner": "Redocly",
+            "repo": "redocly-cli",
+            "stars": 1504
+          },
+          "title": "Redocly Cli"
+        },
+        {
+          "children": [],
+          "description": "Displays test results from popular testing frameworks directly in GitHub",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 300422142,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T07:24:00Z",
+            "owner": "dorny",
+            "repo": "test-reporter",
+            "stars": 1178
+          },
+          "title": "Test Reporter"
+        },
+        {
+          "children": [],
+          "description": "A git diff component",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 102178084,
+            "language": "TypeScript",
+            "last_commit": "2026-03-30T14:43:30Z",
+            "owner": "otakustay",
+            "repo": "react-diff-view",
+            "stars": 1013
+          },
+          "title": "React Diff View"
+        },
+        {
+          "children": [],
+          "description": "ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 194648815,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T18:45:30Z",
+            "owner": "eslint-functional",
+            "repo": "eslint-plugin-functional",
+            "stars": 994
+          },
+          "title": "Eslint Plugin Functional"
+        },
+        {
+          "children": [],
+          "description": "A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 844646745,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T18:53:09Z",
+            "owner": "bloomberg",
+            "repo": "ts-blank-space",
+            "stars": 939
+          },
+          "title": "Ts Blank Space"
+        },
+        {
+          "children": [],
+          "description": "A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 822144221,
+            "language": "TypeScript",
+            "last_commit": "2026-06-08T12:50:23Z",
+            "owner": "sebastianwessel",
+            "repo": "quickjs",
+            "stars": 929
+          },
+          "title": "Quickjs"
+        },
+        {
+          "children": [],
+          "description": "🚀⚡️ Free Boilerplate and Starter kit for Next.js 16+, Supabase, Tailwind CSS 4 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️ Playwright ✍️ Commitizen 💬 Commitlint 💻 VSCode 🌪️ Vercel 🎨 PostCSS 🍃 Tailwind CSS ⚛️ React Query",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 598957673,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T20:53:16Z",
+            "owner": "imbhargav5",
+            "repo": "nextbase-nextjs-supabase-starter",
+            "stars": 811
+          },
+          "title": "Nextbase Nextjs Supabase Starter"
+        },
+        {
+          "children": [],
+          "description": "Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 209257922,
+            "language": "TypeScript",
+            "last_commit": "2026-04-08T22:13:16Z",
+            "owner": "sweepline",
+            "repo": "eslint-plugin-unused-imports",
+            "stars": 622
+          },
+          "title": "Eslint Plugin Unused Imports"
+        },
+        {
+          "children": [],
+          "description": "Hook into advanced CSS features from native inline styles.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 677538350,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T13:13:36Z",
+            "owner": "css-hooks",
+            "repo": "css-hooks",
+            "stars": 603
+          },
+          "title": "Css Hooks"
+        },
+        {
+          "children": [],
+          "description": "A unit testing framework for TypeScript backends working with inversion of control and dependency injection",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 429476841,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T17:49:31Z",
+            "owner": "suites-dev",
+            "repo": "suites",
+            "stars": 545
+          },
+          "title": "Suites"
+        },
+        {
+          "children": [],
+          "description": "Starter template for VS Code Extension",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 472978184,
+            "language": "TypeScript",
+            "last_commit": "2026-04-30T05:39:23Z",
+            "owner": "antfu",
+            "repo": "starter-vscode",
+            "stars": 537
+          },
+          "title": "Starter Vscode"
+        },
+        {
+          "children": [],
+          "description": "🥃 Functional Algebraic Data Types",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 170429491,
+            "language": "TypeScript",
+            "last_commit": "2024-06-05T15:45:57Z",
+            "owner": "rametta",
+            "repo": "pratica",
+            "stars": 490
+          },
+          "title": "Pratica"
+        },
+        {
+          "children": [],
+          "description": "ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project. Define your folder structure, file composition, advanced naming conventions, and create independent modules. react folder structure react project structure react file structure react folder structure react folder structure react folder structure native",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 672102850,
+            "language": "TypeScript",
+            "last_commit": "2026-03-26T10:54:06Z",
+            "owner": "Igorkowalski94",
+            "repo": "eslint-plugin-project-structure",
+            "stars": 501
+          },
+          "title": "Eslint Plugin Project Structure"
+        },
+        {
+          "children": [],
+          "description": "Patch fetch/XMLHttpRequest to fake a REST API server in the browser, based on JSON data.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 32814581,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T22:45:41Z",
+            "owner": "marmelab",
+            "repo": "FakeRest",
+            "stars": 456
+          },
+          "title": "Fake Rest"
+        },
+        {
+          "children": [],
+          "description": "Starter template with blog clone as project",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 330174799,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:58:40Z",
+            "owner": "rubiin",
+            "repo": "ultimate-nest",
+            "stars": 436
+          },
+          "title": "Ultimate Nest"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 379661674,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T13:51:59Z",
+            "owner": "uhyo",
+            "repo": "eslint-plugin-import-access",
+            "stars": 426
+          },
+          "title": "Eslint Plugin Import Access"
+        },
+        {
+          "children": [],
+          "description": "A curated list of advanced type level madness",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 495901060,
+            "language": "TypeScript",
+            "last_commit": "2024-01-28T13:41:18Z",
+            "owner": "anuraghazra",
+            "repo": "type-trident",
+            "stars": 357
+          },
+          "title": "Type Trident"
+        },
+        {
+          "children": [],
+          "description": "Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 521632923,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:21:28Z",
+            "owner": "mehatab",
+            "repo": "fettle",
+            "stars": 279
+          },
+          "title": "Fettle"
+        },
+        {
+          "children": [],
+          "description": "Some eslint rules for working with NestJs projects",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 374054071,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:09:59Z",
+            "owner": "darraghoriordan",
+            "repo": "eslint-plugin-nestjs-typed",
+            "stars": 225
+          },
+          "title": "Eslint Plugin Nestjs Typed"
+        },
+        {
+          "children": [],
+          "description": "Style definitions for nice terminal layouts 👄",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 517153400,
+            "language": "TypeScript",
+            "last_commit": "2025-07-05T18:07:02Z",
+            "owner": "wobsoriano",
+            "repo": "blipgloss",
+            "stars": 211
+          },
+          "title": "Blipgloss"
+        },
+        {
+          "children": [],
+          "description": "🚚 GitHub action for handling authenticated API requests, allowing you to save the data from the request into your workspace as an environment variable and a .json file.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 245163432,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:03:17Z",
+            "owner": "JamesIves",
+            "repo": "fetch-api-data-action",
+            "stars": 134
+          },
+          "title": "Fetch Api Data Action"
+        },
+        {
+          "children": [],
+          "description": "Tab component for Ink 🌈",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 104046469,
+            "language": "TypeScript",
+            "last_commit": "2025-07-04T22:03:21Z",
+            "owner": "jdeniau",
+            "repo": "ink-tab",
+            "stars": 103
+          },
+          "title": "Ink Tab"
+        },
+        {
+          "children": [],
+          "description": "Collection of essential React Hooks Utilities.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 538025867,
+            "language": "MDX",
+            "last_commit": "2026-08-21T02:29:06Z",
+            "owner": "childrentime",
+            "repo": "reactuse",
+            "stars": 1047
+          },
+          "title": "Reactuse"
+        },
+        {
+          "children": [],
+          "description": "Efficient embeddable adblocker library",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 114102066,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T04:22:45Z",
+            "owner": "ghostery",
+            "repo": "adblocker",
+            "stars": 993
+          },
+          "title": "Adblocker"
+        },
+        {
+          "children": [],
+          "description": "All in one for React Suspense",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 566850397,
+            "language": "TypeScript",
+            "last_commit": "2026-07-04T08:26:37Z",
+            "owner": "toss",
+            "repo": "suspensive",
+            "stars": 1041
+          },
+          "title": "Suspensive"
+        },
+        {
+          "children": [],
+          "description": "Jest mock for fetch",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 66015788,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T14:10:56Z",
+            "owner": "jefflau",
+            "repo": "jest-fetch-mock",
+            "stars": 893
+          },
+          "title": "Jest Fetch Mock"
+        },
+        {
+          "children": [],
+          "description": "ESLint parser, plugin, and rule set for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 292007156,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T07:07:04Z",
+            "owner": "graphql-hive",
+            "repo": "graphql-eslint",
+            "stars": 831
+          },
+          "title": "Graphql Eslint"
+        },
+        {
+          "children": [],
+          "description": "A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 462427795,
+            "language": "TypeScript",
+            "last_commit": "2024-07-08T20:03:03Z",
+            "owner": "microsoft",
+            "repo": "deoptexplorer-vscode",
+            "stars": 833
+          },
+          "title": "Deoptexplorer Vscode"
+        },
+        {
+          "children": [],
+          "description": "Eslint plugin checking architecture boundaries between elements",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 271004752,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T17:16:38Z",
+            "owner": "javierbrea",
+            "repo": "eslint-plugin-boundaries",
+            "stars": 966
+          },
+          "title": "Eslint Plugin Boundaries"
+        },
+        {
+          "children": [],
+          "description": "Commandline tool to run Amazon Lambda function on local machines.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 29405654,
+            "language": "JavaScript",
+            "last_commit": "2024-07-22T11:41:20Z",
+            "owner": "ashiina",
+            "repo": "lambda-local",
+            "stars": 753
+          },
+          "title": "Lambda Local"
+        },
+        {
+          "children": [],
+          "description": "Stringify JS values",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 597809972,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T07:50:39Z",
+            "owner": "lxsmnsyc",
+            "repo": "seroval",
+            "stars": 726
+          },
+          "title": "Seroval"
+        },
+        {
+          "children": [],
+          "description": "is a fork of that aims to provide a more performant and more lightweight version of the original plugin.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 239121486,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T09:05:23Z",
+            "owner": "un-ts",
+            "repo": "eslint-plugin-import-x",
+            "stars": 756
+          },
+          "title": "Eslint Plugin Import X"
+        },
+        {
+          "children": [],
+          "description": "🐙 Unlimited access to github API",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 562899571,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T21:03:47Z",
+            "owner": "unjs",
+            "repo": "ungh",
+            "stars": 687
+          },
+          "title": "Ungh"
+        },
+        {
+          "children": [],
+          "description": "VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 537798660,
+            "language": "TypeScript",
+            "last_commit": "2026-02-19T21:38:35Z",
+            "owner": "AykutSarac",
+            "repo": "jsoncrack-vscode",
+            "stars": 616
+          },
+          "title": "Jsoncrack Vscode"
+        },
+        {
+          "children": [],
+          "description": "JavaScript object that creates unique CSS selector for given element.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 15927843,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T20:47:06Z",
+            "owner": "fczbkk",
+            "repo": "css-selector-generator",
+            "stars": 596
+          },
+          "title": "Css Selector Generator"
+        },
+        {
+          "children": [],
+          "description": "BDD testing with Playwright runner",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 621268886,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T08:58:21Z",
+            "owner": "vitalets",
+            "repo": "playwright-bdd",
+            "stars": 765
+          },
+          "title": "Playwright Bdd"
+        },
+        {
+          "children": [],
+          "description": "Sentry for Development",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 681331591,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T14:57:04Z",
+            "owner": "getsentry",
+            "repo": "spotlight",
+            "stars": 616
+          },
+          "title": "Spotlight"
+        },
+        {
+          "children": [],
+          "description": "Universal Webfont loader - Unfonts - based on https://web.dev/optimize-webfont-loading/",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 327101647,
+            "language": "TypeScript",
+            "last_commit": "2026-04-06T13:55:21Z",
+            "owner": "cssninjaStudio",
+            "repo": "unplugin-fonts",
+            "stars": 424
+          },
+          "title": "Unplugin Fonts"
+        },
+        {
+          "children": [],
+          "description": "Browser extension for learning languages with watching movies and TV shows",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 203256724,
+            "language": "TypeScript",
+            "last_commit": "2026-07-08T20:23:16Z",
+            "owner": "Nitrino",
+            "repo": "easysubs",
+            "stars": 299
+          },
+          "title": "Easysubs"
+        },
+        {
+          "children": [],
+          "description": "JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 250373441,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:04:40Z",
+            "owner": "NodeSecure",
+            "repo": "js-x-ray",
+            "stars": 285
+          },
+          "title": "Js X Ray"
+        },
+        {
+          "children": [],
+          "description": "A set of utility and general-purpose React hooks.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 154712163,
+            "language": "TypeScript",
+            "last_commit": "2025-08-01T17:29:04Z",
+            "owner": "react-restart",
+            "repo": "hooks",
+            "stars": 235
+          },
+          "title": "Hooks"
+        },
+        {
+          "children": [],
+          "description": "Rules for consistent, readable, and valid package.json files. 🗂️",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 150714745,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T03:41:06Z",
+            "owner": "michaelfaith",
+            "repo": "eslint-plugin-package-json",
+            "stars": 255
+          },
+          "title": "Eslint Plugin Package Json"
+        },
+        {
+          "children": [],
+          "description": "Javascript Data Structure & TypeScript Data Structure. Heap, Binary Tree, Red Black Tree, Linked List, Deque, Trie, HashMap, Directed Graph, Undirected Graph, Binary Search Tree, AVL Tree, Priority Queue, Graph, Queue, Tree Multiset, Singly Linked List, Doubly Linked List, Max Heap, Max Priority Queue, Min Heap, Min Priority Queue, Stack.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 654220571,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T07:22:01Z",
+            "owner": "zrwusa",
+            "repo": "data-structure-typed",
+            "stars": 204
+          },
+          "title": "Data Structure Typed"
+        },
+        {
+          "children": [],
+          "description": "This ESLint plugin provides linting rules for YAML.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 283664588,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T18:43:33Z",
+            "owner": "ota-meshi",
+            "repo": "eslint-plugin-yml",
+            "stars": 185
+          },
+          "title": "Eslint Plugin Yml"
+        },
+        {
+          "children": [],
+          "description": "Like , but for ESM import",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 395073138,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T08:33:28Z",
+            "owner": "nodejs",
+            "repo": "import-in-the-middle",
+            "stars": 168
+          },
+          "title": "Import In The Middle"
+        },
+        {
+          "children": [],
+          "description": "CSS to TailwindCSS 3.x converter extension for Visual Studio Code",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 593418051,
+            "language": "TypeScript",
+            "last_commit": "2024-05-18T20:13:44Z",
+            "owner": "Jackardios",
+            "repo": "vscode-css-to-tailwindcss",
+            "stars": 71
+          },
+          "title": "Vscode Css To Tailwindcss"
+        },
+        {
+          "children": [],
+          "description": "A small, type-safe DI library optimized for hono.js.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 877160818,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T03:14:22Z",
+            "owner": "maou-shonen",
+            "repo": "hono-simple-DI",
+            "stars": 66
+          },
+          "title": "Hono Simple Di"
+        },
+        {
+          "children": [],
+          "description": "A simple puppeteer wrapper to enable useful plugins with ease",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 252849467,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T09:17:44Z",
+            "owner": "fast-facts",
+            "repo": "puppeteer-pro",
+            "stars": 58
+          },
+          "title": "Puppeteer Pro"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 965986209,
+            "language": "TypeScript",
+            "last_commit": "2025-10-14T07:46:18Z",
+            "owner": "TkDodo",
+            "repo": "react-query-beyond-the-basics",
+            "stars": 40
+          },
+          "title": "React Query Beyond The Basics"
+        },
+        {
+          "children": [],
+          "description": "A Vite plugin for seamless integration with ngrok, allowing you to easily share your local development server with anyone, anywhere.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 728473108,
+            "language": "TypeScript",
+            "last_commit": "2026-01-23T04:02:11Z",
+            "owner": "aphex",
+            "repo": "vite-plugin-ngrok",
+            "stars": 39
+          },
+          "title": "Vite Plugin Ngrok"
+        },
+        {
+          "children": [],
+          "description": "This is the cloud function that powers the core of building, minifying and gzipping of packages in bundlephobia",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 102655779,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:23:40Z",
+            "owner": "pastelsky",
+            "repo": "package-build-stats",
+            "stars": 105
+          },
+          "title": "Package Build Stats"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
           "description": "I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.",
           "node_type": "item",
           "repo_info": {
@@ -44,7 +2360,7 @@
             "last_commit": "2026-08-20T23:26:16Z",
             "owner": "h5bp",
             "repo": "html5-boilerplate",
-            "stars": 57603
+            "stars": 57601
           },
           "title": "Html Boilerplate"
         },
@@ -56,10 +2372,10 @@
             "archived": false,
             "id": 545508308,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:42:11Z",
+            "last_commit": "2026-08-24T13:40:15Z",
             "owner": "webpro-nl",
             "repo": "knip",
-            "stars": 12099
+            "stars": 12101
           },
           "title": "Knip"
         },
@@ -89,7 +2405,7 @@
             "last_commit": "2026-07-30T12:45:50Z",
             "owner": "ai",
             "repo": "size-limit",
-            "stars": 6939
+            "stars": 6940
           },
           "title": "Size Limit"
         },
@@ -104,7 +2420,7 @@
             "last_commit": "2026-04-19T13:29:13Z",
             "owner": "css-doodle",
             "repo": "css-doodle",
-            "stars": 6028
+            "stars": 6029
           },
           "title": "Css Doodle"
         },
@@ -239,7 +2555,7 @@
             "last_commit": "2026-07-28T22:39:46Z",
             "owner": "loggerhead",
             "repo": "json4u",
-            "stars": 3228
+            "stars": 3227
           },
           "title": "Json U"
         },
@@ -254,7 +2570,7 @@
             "last_commit": "2026-08-22T16:43:10Z",
             "owner": "lowdefy",
             "repo": "lowdefy",
-            "stars": 2999
+            "stars": 3000
           },
           "title": "Lowdefy"
         },
@@ -296,10 +2612,10 @@
             "archived": false,
             "id": 108761645,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T07:44:05Z",
+            "last_commit": "2026-08-24T12:59:39Z",
             "owner": "nocodb",
             "repo": "nocodb",
-            "stars": 64691
+            "stars": 64703
           },
           "title": "Nocodb"
         },
@@ -311,10 +2627,10 @@
             "archived": false,
             "id": 327089870,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:36:59Z",
+            "last_commit": "2026-08-24T12:47:04Z",
             "owner": "payloadcms",
             "repo": "payload",
-            "stars": 44364
+            "stars": 44373
           },
           "title": "Payload"
         },
@@ -326,10 +2642,10 @@
             "archived": false,
             "id": 542284380,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T12:39:35Z",
+            "last_commit": "2026-08-24T11:50:01Z",
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 46502
+            "stars": 46523
           },
           "title": "Bruno"
         },
@@ -341,10 +2657,10 @@
             "archived": false,
             "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:45:48Z",
+            "last_commit": "2026-08-24T10:59:41Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40730
+            "stars": 40733
           },
           "title": "Appsmith"
         },
@@ -359,7 +2675,7 @@
             "last_commit": "2026-08-21T15:14:51Z",
             "owner": "Dokploy",
             "repo": "dokploy",
-            "stars": 36823
+            "stars": 36834
           },
           "title": "Dokploy"
         },
@@ -386,10 +2702,10 @@
             "archived": false,
             "id": 521655652,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:44:53Z",
+            "last_commit": "2026-08-24T14:36:09Z",
             "owner": "Infisical",
             "repo": "infisical",
-            "stars": 28917
+            "stars": 28924
           },
           "title": "Infisical"
         },
@@ -401,10 +2717,10 @@
             "archived": false,
             "id": 198484780,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T07:11:11Z",
+            "last_commit": "2026-08-24T14:30:08Z",
             "owner": "beekeeper-studio",
             "repo": "beekeeper-studio",
-            "stars": 23501
+            "stars": 23503
           },
           "title": "Beekeeper Studio"
         },
@@ -416,10 +2732,10 @@
             "archived": false,
             "id": 679280065,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T05:02:08Z",
+            "last_commit": "2026-08-24T12:31:09Z",
             "owner": "scalar",
             "repo": "scalar",
-            "stars": 15970
+            "stars": 15979
           },
           "title": "Scalar"
         },
@@ -434,7 +2750,7 @@
             "last_commit": "2026-05-01T15:03:32Z",
             "owner": "ConardLi",
             "repo": "easy-dataset",
-            "stars": 14820
+            "stars": 14822
           },
           "title": "Easy Dataset"
         },
@@ -446,10 +2762,10 @@
             "archived": false,
             "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:17:52Z",
+            "last_commit": "2026-08-24T12:00:24Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14448
+            "stars": 14455
           },
           "title": "Logto"
         },
@@ -461,10 +2777,10 @@
             "archived": false,
             "id": 690825026,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T00:27:22Z",
+            "last_commit": "2026-08-24T14:35:02Z",
             "owner": "hyperdxio",
             "repo": "hyperdx",
-            "stars": 9856
+            "stars": 9860
           },
           "title": "Hyperdx"
         },
@@ -479,7 +2795,7 @@
             "last_commit": "2026-08-18T15:04:08Z",
             "owner": "TanStack",
             "repo": "virtual",
-            "stars": 7083
+            "stars": 7085
           },
           "title": "Virtual"
         },
@@ -509,7 +2825,7 @@
             "last_commit": "2026-08-23T21:43:44Z",
             "owner": "evidence-dev",
             "repo": "evidence",
-            "stars": 6877
+            "stars": 6876
           },
           "title": "Evidence"
         },
@@ -536,7 +2852,7 @@
             "archived": false,
             "id": 537167055,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T00:12:44Z",
+            "last_commit": "2026-08-24T12:09:28Z",
             "owner": "OhMyGuus",
             "repo": "I-Still-Dont-Care-About-Cookies",
             "stars": 4230
@@ -566,10 +2882,10 @@
             "archived": false,
             "id": 358226004,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:22:29Z",
+            "last_commit": "2026-08-24T14:37:18Z",
             "owner": "pollinations",
             "repo": "pollinations",
-            "stars": 4982
+            "stars": 4983
           },
           "title": "Pollinations"
         },
@@ -599,7 +2915,7 @@
             "last_commit": "2026-08-23T16:16:21Z",
             "owner": "ezshine",
             "repo": "AwesomeSites",
-            "stars": 2007
+            "stars": 2008
           },
           "title": "Awesome Sites"
         },
@@ -626,7 +2942,7 @@
             "archived": false,
             "id": 897892563,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T23:37:17Z",
+            "last_commit": "2026-08-24T11:36:06Z",
             "owner": "aidenybai",
             "repo": "bippy",
             "stars": 1365
@@ -644,7 +2960,7 @@
             "last_commit": "2026-08-20T23:38:15Z",
             "owner": "eslint-community",
             "repo": "eslint-plugin-security",
-            "stars": 2370
+            "stars": 2371
           },
           "title": "Eslint Plugin Security"
         },
@@ -689,7 +3005,7 @@
             "last_commit": "2026-08-17T07:18:59Z",
             "owner": "bahmutov",
             "repo": "start-server-and-test",
-            "stars": 1580
+            "stars": 1581
           },
           "title": "Start Server And Test"
         },
@@ -761,10 +3077,10 @@
             "archived": false,
             "id": 146194503,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T03:31:32Z",
+            "last_commit": "2026-08-24T12:31:52Z",
             "owner": "sunny9577",
             "repo": "proxy-scraper",
-            "stars": 587
+            "stars": 588
           },
           "title": "Proxy Scraper"
         },
@@ -971,7 +3287,7 @@
             "archived": false,
             "id": 816709809,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T12:55:34Z",
+            "last_commit": "2026-08-24T14:33:46Z",
             "owner": "portabletext",
             "repo": "editor",
             "stars": 268
@@ -1085,7 +3401,7 @@
             "last_commit": "2025-11-17T18:57:19Z",
             "owner": "upgundecha",
             "repo": "howtheysre",
-            "stars": 9801
+            "stars": 9802
           },
           "title": "Howtheysre"
         },
@@ -1115,7 +3431,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14177
+            "stars": 14180
           },
           "title": "Mind Expanding Books"
         },
@@ -1157,10 +3473,10 @@
             "archived": false,
             "id": 190206784,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:51:27Z",
+            "last_commit": "2026-08-24T07:59:48Z",
             "owner": "autobase-tech",
             "repo": "autobase",
-            "stars": 4343
+            "stars": 4344
           },
           "title": "Autobase"
         },
@@ -1172,7 +3488,7 @@
             "archived": false,
             "id": 37448451,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:14:56Z",
+            "last_commit": "2026-08-24T14:37:53Z",
             "owner": "mattermost",
             "repo": "mattermost",
             "stars": 38889
@@ -1190,7 +3506,7 @@
             "last_commit": "2026-08-02T05:24:28Z",
             "owner": "responsively-org",
             "repo": "responsively-app",
-            "stars": 25131
+            "stars": 25132
           },
           "title": "Responsively App"
         },
@@ -1220,7 +3536,7 @@
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73621
+            "stars": 73665
           },
           "title": "Front End Checklist"
         },
@@ -1235,7 +3551,7 @@
             "last_commit": "2026-07-15T15:55:09Z",
             "owner": "charlax",
             "repo": "professional-programming",
-            "stars": 51444
+            "stars": 51443
           },
           "title": "Professional Programming"
         },
@@ -1250,7 +3566,7 @@
             "last_commit": "2026-07-29T00:31:28Z",
             "owner": "spacedriveapp",
             "repo": "spacedrive",
-            "stars": 38834
+            "stars": 38839
           },
           "title": "Spacedrive"
         },
@@ -1295,7 +3611,7 @@
             "last_commit": "2026-08-04T07:18:33Z",
             "owner": "255kb",
             "repo": "stack-on-a-budget",
-            "stars": 12390
+            "stars": 12391
           },
           "title": "Stack On A Budget"
         },
@@ -1355,7 +3671,7 @@
             "last_commit": "2026-08-16T08:16:11Z",
             "owner": "greatfrontend",
             "repo": "top-javascript-interview-questions",
-            "stars": 9946
+            "stars": 9949
           },
           "title": "Top Javascript Interview Questions"
         },
@@ -1385,7 +3701,7 @@
             "last_commit": "2026-08-02T17:14:29Z",
             "owner": "Evavic44",
             "repo": "portfolio-ideas",
-            "stars": 6302
+            "stars": 6303
           },
           "title": "Portfolio Ideas"
         },
@@ -1400,7 +3716,7 @@
             "last_commit": "2024-09-26T16:56:07Z",
             "owner": "APIs-guru",
             "repo": "graphql-apis",
-            "stars": 4690
+            "stars": 4691
           },
           "title": "Graphql Apis"
         },
@@ -1460,7 +3776,7 @@
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87472
+            "stars": 87491
           },
           "title": "System Design"
         },
@@ -1487,10 +3803,10 @@
             "archived": false,
             "id": 586920414,
             "language": "Rust",
-            "last_commit": "2026-08-24T04:18:36Z",
+            "last_commit": "2026-08-24T14:27:31Z",
             "owner": "jdx",
             "repo": "mise",
-            "stars": 32891
+            "stars": 32928
           },
           "title": "Mise"
         },
@@ -1505,7 +3821,7 @@
             "last_commit": "2026-08-23T09:59:28Z",
             "owner": "subframe7536",
             "repo": "maple-font",
-            "stars": 28385
+            "stars": 28394
           },
           "title": "Maple Font"
         },
@@ -1520,7 +3836,7 @@
             "last_commit": "2026-04-15T17:10:28Z",
             "owner": "openai",
             "repo": "swarm",
-            "stars": 21918
+            "stars": 21919
           },
           "title": "Swarm"
         },
@@ -1535,7 +3851,7 @@
             "last_commit": "2026-08-11T14:09:34Z",
             "owner": "magicuidesign",
             "repo": "magicui",
-            "stars": 22049
+            "stars": 22054
           },
           "title": "Magicui"
         },
@@ -1550,7 +3866,7 @@
             "last_commit": "2025-06-27T01:51:16Z",
             "owner": "mikeroyal",
             "repo": "Self-Hosting-Guide",
-            "stars": 22579
+            "stars": 22586
           },
           "title": "Self Hosting Guide"
         },
@@ -1580,7 +3896,7 @@
             "last_commit": "2026-08-14T09:03:57Z",
             "owner": "asciinema",
             "repo": "asciinema",
-            "stars": 17716
+            "stars": 17719
           },
           "title": "Asciinema"
         },
@@ -1610,7 +3926,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14082
+            "stars": 14085
           },
           "title": "Open Clip"
         },
@@ -1625,7 +3941,7 @@
             "last_commit": "2026-08-22T09:03:05Z",
             "owner": "casdoor",
             "repo": "casdoor",
-            "stars": 14257
+            "stars": 14262
           },
           "title": "Casdoor"
         },
@@ -1670,7 +3986,7 @@
             "last_commit": "2024-08-29T04:56:02Z",
             "owner": "The-Cool-Coders",
             "repo": "Project-Ideas-And-Resources",
-            "stars": 16339
+            "stars": 16341
           },
           "title": "Project Ideas And Resources"
         },
@@ -1682,10 +3998,10 @@
             "archived": false,
             "id": 598667202,
             "language": "Zig",
-            "last_commit": "2026-08-24T03:51:03Z",
+            "last_commit": "2026-08-24T13:51:19Z",
             "owner": "lightpanda-io",
             "repo": "browser",
-            "stars": 34211
+            "stars": 34219
           },
           "title": "Browser"
         },
@@ -1727,7 +4043,7 @@
             "archived": false,
             "id": 694161442,
             "language": "Rust",
-            "last_commit": "2026-08-23T04:00:02Z",
+            "last_commit": "2026-08-24T13:47:31Z",
             "owner": "awslabs",
             "repo": "llrt",
             "stars": 8790
@@ -1742,7 +4058,7 @@
             "archived": false,
             "id": 278862095,
             "language": "Vue",
-            "last_commit": "2026-07-22T04:18:00Z",
+            "last_commit": "2026-08-24T07:15:09Z",
             "owner": "antfu-collective",
             "repo": "icones",
             "stars": 7441
@@ -1805,7 +4121,7 @@
             "last_commit": "2026-07-17T11:45:41Z",
             "owner": "ombharatiya",
             "repo": "FAANG-Coding-Interview-Questions",
-            "stars": 5789
+            "stars": 5793
           },
           "title": "Faang Coding Interview Questions"
         },
@@ -1850,7 +4166,7 @@
             "last_commit": "2026-08-24T04:18:34Z",
             "owner": "antfu",
             "repo": "node-modules-inspector",
-            "stars": 2930
+            "stars": 2929
           },
           "title": "Node Modules Inspector"
         },
@@ -1880,7 +4196,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365651
+            "stars": 365727
           },
           "title": "System Design Primer"
         },
@@ -1895,7 +4211,7 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162165
+            "stars": 162158
           },
           "title": "The Art Of Command Line"
         },
@@ -1910,7 +4226,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164628
+            "stars": 164633
           },
           "title": "Stable Diffusion Webui"
         },
@@ -1922,10 +4238,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-24T04:11:05Z",
+            "last_commit": "2026-08-24T14:07:06Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164379
+            "stars": 164393
           },
           "title": "Transformers"
         },
@@ -1940,7 +4256,7 @@
             "last_commit": "2026-08-21T21:34:35Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110504
+            "stars": 110521
           },
           "title": "Tauri"
         },
@@ -1955,7 +4271,7 @@
             "last_commit": "2026-08-19T19:36:22Z",
             "owner": "microsoft",
             "repo": "markitdown",
-            "stars": 175808
+            "stars": 175942
           },
           "title": "Markitdown"
         },
@@ -1970,7 +4286,7 @@
             "last_commit": "2026-08-09T22:50:11Z",
             "owner": "nektos",
             "repo": "act",
-            "stars": 71613
+            "stars": 71618
           },
           "title": "Act"
         },
@@ -2000,7 +4316,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68125
+            "stars": 68131
           },
           "title": "Open Interpreter"
         },
@@ -2015,7 +4331,7 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52501
+            "stars": 52508
           },
           "title": "Fooocus"
         },
@@ -2027,10 +4343,10 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-23T20:08:24Z",
+            "last_commit": "2026-08-24T14:19:08Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39461
+            "stars": 39468
           },
           "title": "Polars"
         },
@@ -2045,7 +4361,7 @@
             "last_commit": "2026-08-07T06:33:06Z",
             "owner": "datalab-to",
             "repo": "marker",
-            "stars": 39096
+            "stars": 39145
           },
           "title": "Marker"
         },
@@ -2060,7 +4376,7 @@
             "last_commit": "2026-08-02T00:01:16Z",
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 31842
+            "stars": 31846
           },
           "title": "Delta"
         },
@@ -2075,7 +4391,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27263
+            "stars": 27266
           },
           "title": "Hacker Laws"
         },
@@ -2087,10 +4403,10 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-21T06:14:01Z",
+            "last_commit": "2026-08-24T14:20:17Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28600
+            "stars": 28605
           },
           "title": "Pydantic"
         },
@@ -2102,7 +4418,7 @@
             "archived": false,
             "id": 72477752,
             "language": "Go",
-            "last_commit": "2026-08-23T15:47:28Z",
+            "last_commit": "2026-08-24T14:35:57Z",
             "owner": "pulumi",
             "repo": "pulumi",
             "stars": 25605
@@ -2117,10 +4433,10 @@
             "archived": false,
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-24T03:32:08Z",
+            "last_commit": "2026-08-24T14:10:57Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21242
+            "stars": 21243
           },
           "title": "Vitess"
         },
@@ -2135,7 +4451,7 @@
             "last_commit": "2026-02-05T00:39:05Z",
             "owner": "astral-sh",
             "repo": "rye",
-            "stars": 14165
+            "stars": 14164
           },
           "title": "Rye"
         },
@@ -2147,10 +4463,10 @@
             "archived": false,
             "id": 615403340,
             "language": "Python",
-            "last_commit": "2026-08-24T02:25:36Z",
+            "last_commit": "2026-08-24T14:21:15Z",
             "owner": "dottxt-ai",
             "repo": "outlines",
-            "stars": 15676
+            "stars": 15679
           },
           "title": "Outlines"
         },
@@ -2162,10 +4478,10 @@
             "archived": false,
             "id": 693187866,
             "language": "Rust",
-            "last_commit": "2026-08-24T04:05:49Z",
+            "last_commit": "2026-08-24T10:54:09Z",
             "owner": "rolldown",
             "repo": "rolldown",
-            "stars": 13906
+            "stars": 13911
           },
           "title": "Rolldown"
         },
@@ -2180,7 +4496,7 @@
             "last_commit": "2026-08-22T21:56:26Z",
             "owner": "orhun",
             "repo": "git-cliff",
-            "stars": 12154
+            "stars": 12157
           },
           "title": "Git Cliff"
         },
@@ -2195,7 +4511,7 @@
             "last_commit": "2026-06-15T11:24:25Z",
             "owner": "speechbrain",
             "repo": "speechbrain",
-            "stars": 11772
+            "stars": 11773
           },
           "title": "Speechbrain"
         },
@@ -2225,7 +4541,7 @@
             "last_commit": "2026-08-22T00:23:03Z",
             "owner": "pressly",
             "repo": "goose",
-            "stars": 11354
+            "stars": 11355
           },
           "title": "Goose"
         },
@@ -2240,7 +4556,7 @@
             "last_commit": "2026-08-24T01:19:50Z",
             "owner": "Automattic",
             "repo": "harper",
-            "stars": 14703
+            "stars": 14710
           },
           "title": "Harper"
         },
@@ -2252,10 +4568,10 @@
             "archived": false,
             "id": 229959677,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T11:25:35Z",
+            "last_commit": "2026-08-24T12:08:28Z",
             "owner": "dbgate",
             "repo": "dbgate",
-            "stars": 7275
+            "stars": 7276
           },
           "title": "Dbgate"
         },
@@ -2267,10 +4583,10 @@
             "archived": false,
             "id": 381857226,
             "language": "Java",
-            "last_commit": "2026-08-22T00:22:53Z",
+            "last_commit": "2026-08-24T12:47:01Z",
             "owner": "microsoft",
             "repo": "typespec",
-            "stars": 5826
+            "stars": 5827
           },
           "title": "Typespec"
         },
@@ -2285,7 +4601,7 @@
             "last_commit": "2026-01-25T20:23:21Z",
             "owner": "tc39",
             "repo": "proposal-signals",
-            "stars": 4170
+            "stars": 4171
           },
           "title": "Proposal Signals"
         },
@@ -2360,7 +4676,7 @@
             "last_commit": "2026-08-19T19:31:10Z",
             "owner": "Jieyab89",
             "repo": "OSINT-Cheat-sheet",
-            "stars": 2175
+            "stars": 2178
           },
           "title": "Osint Cheat Sheet"
         },
@@ -2387,10 +4703,10 @@
             "archived": false,
             "id": 300975564,
             "language": "Rust",
-            "last_commit": "2026-08-20T20:48:08Z",
+            "last_commit": "2026-08-24T07:51:45Z",
             "owner": "MobileFirstLLC",
             "repo": "social-media-hacker-list",
-            "stars": 2286
+            "stars": 2285
           },
           "title": "Social Media Hacker List"
         },
@@ -2615,7 +4931,7 @@
             "last_commit": "2026-05-15T10:14:51Z",
             "owner": "xoraus",
             "repo": "CrackingTheSQLInterview",
-            "stars": 871
+            "stars": 872
           },
           "title": "Cracking The Sqlinterview"
         },
@@ -2720,7 +5036,7 @@
             "last_commit": "2026-08-22T11:53:23Z",
             "owner": "panglesd",
             "repo": "slipshow",
-            "stars": 883
+            "stars": 885
           },
           "title": "Slipshow"
         },
@@ -2732,7 +5048,7 @@
             "archived": false,
             "id": 531038347,
             "language": null,
-            "last_commit": "2026-08-24T01:57:00Z",
+            "last_commit": "2026-08-24T13:12:43Z",
             "owner": "trackawesomelist",
             "repo": "trackawesomelist",
             "stars": 666
@@ -2780,7 +5096,7 @@
             "last_commit": "2025-04-22T17:25:20Z",
             "owner": "brain-workshop",
             "repo": "brainworkshop",
-            "stars": 352
+            "stars": 353
           },
           "title": "Brainworkshop"
         },
@@ -2792,7 +5108,7 @@
             "archived": false,
             "id": 756618641,
             "language": null,
-            "last_commit": "2026-08-23T05:23:28Z",
+            "last_commit": "2026-08-24T12:48:23Z",
             "owner": "dbcodeio",
             "repo": "public",
             "stars": 335
@@ -2891,7 +5207,7 @@
             "last_commit": "2026-03-02T12:50:21Z",
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35369
+            "stars": 35371
           },
           "title": "Awesome Cto"
         },
@@ -2906,7 +5222,7 @@
             "last_commit": "2026-02-16T18:32:29Z",
             "owner": "ashishps1",
             "repo": "awesome-system-design-resources",
-            "stars": 40874
+            "stars": 40882
           },
           "title": "Awesome System Design Resources"
         },
@@ -2921,7 +5237,7 @@
             "last_commit": "2023-06-18T22:05:28Z",
             "owner": "Igglybuff",
             "repo": "awesome-piracy",
-            "stars": 26923
+            "stars": 26924
           },
           "title": "Awesome Piracy"
         },
@@ -2936,7 +5252,7 @@
             "last_commit": "2026-04-28T16:03:25Z",
             "owner": "alexpate",
             "repo": "awesome-design-systems",
-            "stars": 25773
+            "stars": 25775
           },
           "title": "Awesome Design Systems"
         },
@@ -2951,7 +5267,7 @@
             "last_commit": "2026-08-24T03:57:40Z",
             "owner": "birobirobiro",
             "repo": "awesome-shadcn-ui",
-            "stars": 20371
+            "stars": 20370
           },
           "title": "Awesome Shadcn Ui"
         },
@@ -2966,7 +5282,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15238
+            "stars": 15240
           },
           "title": "Awesome Creative Coding"
         },
@@ -2981,7 +5297,7 @@
             "last_commit": "2026-08-16T19:35:18Z",
             "owner": "nestjs",
             "repo": "awesome-nestjs",
-            "stars": 13113
+            "stars": 13114
           },
           "title": "Awesome Nestjs"
         },
@@ -3011,7 +5327,7 @@
             "last_commit": "2026-08-10T08:44:41Z",
             "owner": "edoardottt",
             "repo": "awesome-hacker-search-engines",
-            "stars": 11073
+            "stars": 11077
           },
           "title": "Awesome Hacker Search Engines"
         },
@@ -3026,7 +5342,7 @@
             "last_commit": "2026-08-11T04:36:24Z",
             "owner": "kyrolabs",
             "repo": "awesome-langchain",
-            "stars": 9504
+            "stars": 9507
           },
           "title": "Awesome Langchain"
         },
@@ -3041,7 +5357,7 @@
             "last_commit": "2026-07-28T02:18:16Z",
             "owner": "davidsonfellipe",
             "repo": "awesome-wpo",
-            "stars": 9048
+            "stars": 9049
           },
           "title": "Awesome Wpo"
         },
@@ -3056,7 +5372,7 @@
             "last_commit": "2026-03-03T13:55:49Z",
             "owner": "greatfrontend",
             "repo": "awesome-front-end-system-design",
-            "stars": 8444
+            "stars": 8447
           },
           "title": "Awesome Front End System Design"
         },
@@ -3071,7 +5387,7 @@
             "last_commit": "2026-01-01T15:56:37Z",
             "owner": "bnb",
             "repo": "awesome-developer-streams",
-            "stars": 8020
+            "stars": 8021
           },
           "title": "Awesome Developer Streams"
         },
@@ -3086,7 +5402,7 @@
             "last_commit": "2025-08-19T03:49:26Z",
             "owner": "ashishps1",
             "repo": "awesome-behavioral-interviews",
-            "stars": 8739
+            "stars": 8742
           },
           "title": "Awesome Behavioral Interviews"
         },
@@ -3101,7 +5417,7 @@
             "last_commit": "2026-08-05T18:42:59Z",
             "owner": "JoseDeFreitas",
             "repo": "awesome-youtubers",
-            "stars": 7746
+            "stars": 7747
           },
           "title": "Awesome Youtubers"
         },
@@ -3116,7 +5432,7 @@
             "last_commit": "2026-02-15T18:05:30Z",
             "owner": "sindresorhus",
             "repo": "awesome-chatgpt",
-            "stars": 6385
+            "stars": 6386
           },
           "title": "Awesome Chatgpt"
         },
@@ -3131,7 +5447,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5918
+            "stars": 5919
           },
           "title": "Awesome Llmops"
         },
@@ -3146,7 +5462,7 @@
             "last_commit": "2024-10-30T07:00:24Z",
             "owner": "awesome-css-group",
             "repo": "awesome-css",
-            "stars": 5616
+            "stars": 5618
           },
           "title": "Awesome Css"
         },
@@ -3236,7 +5552,7 @@
             "last_commit": "2026-08-14T00:57:28Z",
             "owner": "denolib",
             "repo": "awesome-deno",
-            "stars": 4409
+            "stars": 4408
           },
           "title": "Awesome Deno"
         },
@@ -3266,7 +5582,7 @@
             "last_commit": "2022-01-02T03:44:33Z",
             "owner": "nordicgiant2",
             "repo": "awesome-landing-page",
-            "stars": 3816
+            "stars": 3817
           },
           "title": "Awesome Landing Page"
         },
@@ -3281,7 +5597,7 @@
             "last_commit": "2026-05-01T18:32:56Z",
             "owner": "arainho",
             "repo": "awesome-api-security",
-            "stars": 3859
+            "stars": 3860
           },
           "title": "Awesome Api Security"
         },
@@ -3311,7 +5627,7 @@
             "last_commit": "2026-08-16T16:08:47Z",
             "owner": "Ravencentric",
             "repo": "awesome-arr",
-            "stars": 4229
+            "stars": 4230
           },
           "title": "Awesome Arr"
         },
@@ -3356,7 +5672,7 @@
             "last_commit": "2026-08-20T17:55:01Z",
             "owner": "0xor0ne",
             "repo": "awesome-list",
-            "stars": 4006
+            "stars": 4007
           },
           "title": "Awesome List"
         },
@@ -3371,7 +5687,7 @@
             "last_commit": "2026-08-21T15:24:17Z",
             "owner": "taishi-i",
             "repo": "awesome-ChatGPT-repositories",
-            "stars": 3209
+            "stars": 3210
           },
           "title": "Awesome Chat Gpt Repositories"
         },
@@ -3401,7 +5717,7 @@
             "last_commit": "2026-01-04T03:51:47Z",
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73490
+            "stars": 73497
           },
           "title": "Awesome Scalability"
         },
@@ -3416,7 +5732,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40652
+            "stars": 40657
           },
           "title": "Awesome Cursorrules"
         },
@@ -3431,7 +5747,7 @@
             "last_commit": "2026-08-19T09:58:40Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34976
+            "stars": 34978
           },
           "title": "Awesome Sysadmin"
         },
@@ -3446,7 +5762,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27276
+            "stars": 27279
           },
           "title": "Awesome Llm"
         },
@@ -3461,7 +5777,7 @@
             "last_commit": "2026-08-11T01:13:17Z",
             "owner": "anderspitman",
             "repo": "awesome-tunneling",
-            "stars": 21649
+            "stars": 21651
           },
           "title": "Awesome Tunneling"
         },
@@ -3476,7 +5792,7 @@
             "last_commit": "2025-09-03T17:43:01Z",
             "owner": "RunaCapital",
             "repo": "awesome-oss-alternatives",
-            "stars": 19535
+            "stars": 19536
           },
           "title": "Awesome Oss Alternatives"
         },
@@ -3491,7 +5807,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17553
+            "stars": 17552
           },
           "title": "Awesome Tensorflow"
         },
@@ -3506,7 +5822,7 @@
             "last_commit": "2024-07-04T18:17:39Z",
             "owner": "gztchan",
             "repo": "awesome-design",
-            "stars": 17446
+            "stars": 17449
           },
           "title": "Awesome Design"
         },
@@ -3536,7 +5852,7 @@
             "last_commit": "2026-08-14T08:36:36Z",
             "owner": "rossant",
             "repo": "awesome-math",
-            "stars": 16151
+            "stars": 16161
           },
           "title": "Awesome Math"
         },
@@ -3551,7 +5867,7 @@
             "last_commit": "2026-05-21T14:10:48Z",
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12056
+            "stars": 12058
           },
           "title": "Awesome Postgres"
         },
@@ -3566,7 +5882,7 @@
             "last_commit": "2025-01-10T15:39:37Z",
             "owner": "theanalyst",
             "repo": "awesome-distributed-systems",
-            "stars": 12316
+            "stars": 12318
           },
           "title": "Awesome Distributed Systems"
         },
@@ -3581,7 +5897,7 @@
             "last_commit": "2026-02-27T13:35:34Z",
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12429
+            "stars": 12432
           },
           "title": "Awesome System Design"
         },
@@ -3596,7 +5912,7 @@
             "last_commit": "2024-08-29T02:14:04Z",
             "owner": "pingcap",
             "repo": "awesome-database-learning",
-            "stars": 10971
+            "stars": 10973
           },
           "title": "Awesome Database Learning"
         },
@@ -3611,7 +5927,7 @@
             "last_commit": "2026-07-16T11:04:37Z",
             "owner": "mehdihadeli",
             "repo": "awesome-software-architecture",
-            "stars": 11585
+            "stars": 11586
           },
           "title": "Awesome Software Architecture"
         },
@@ -3626,7 +5942,7 @@
             "last_commit": "2024-01-05T01:14:55Z",
             "owner": "hwayne",
             "repo": "awesome-cold-showers",
-            "stars": 7344
+            "stars": 7345
           },
           "title": "Awesome Cold Showers"
         },
@@ -3641,7 +5957,7 @@
             "last_commit": "2025-07-16T10:29:00Z",
             "owner": "lauragift21",
             "repo": "awesome-learning-resources",
-            "stars": 5760
+            "stars": 5762
           },
           "title": "Awesome Learning Resources"
         },
@@ -3686,7 +6002,7 @@
             "last_commit": "2026-08-10T05:18:51Z",
             "owner": "hemanth",
             "repo": "awesome-pwa",
-            "stars": 4900
+            "stars": 4899
           },
           "title": "Awesome Pwa"
         },
@@ -3701,7 +6017,7 @@
             "last_commit": "2026-04-17T18:23:06Z",
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4452
+            "stars": 4453
           },
           "title": "Awesome Newsletters"
         },
@@ -3731,7 +6047,7 @@
             "last_commit": "2026-06-30T15:46:25Z",
             "owner": "PanXProject",
             "repo": "awesome-certificates",
-            "stars": 5583
+            "stars": 5589
           },
           "title": "Awesome Certificates"
         },
@@ -3761,7 +6077,7 @@
             "last_commit": "2026-08-17T10:42:44Z",
             "owner": "web-padawan",
             "repo": "awesome-web-components",
-            "stars": 3563
+            "stars": 3564
           },
           "title": "Awesome Web Components"
         },
@@ -3791,7 +6107,7 @@
             "last_commit": "2025-07-20T10:01:29Z",
             "owner": "oven-sh",
             "repo": "awesome-bun",
-            "stars": 3647
+            "stars": 3648
           },
           "title": "Awesome Bun"
         },
@@ -3806,7 +6122,7 @@
             "last_commit": "2025-12-18T07:31:25Z",
             "owner": "filipecalegario",
             "repo": "awesome-generative-ai",
-            "stars": 3525
+            "stars": 3526
           },
           "title": "Awesome Generative Ai"
         },
@@ -3836,7 +6152,7 @@
             "last_commit": "2023-09-26T08:12:13Z",
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2802
+            "stars": 2803
           },
           "title": "Awesome Html"
         },
@@ -3851,7 +6167,7 @@
             "last_commit": "2021-05-11T19:07:37Z",
             "owner": "rekihattori",
             "repo": "awesome-programmers",
-            "stars": 2567
+            "stars": 2566
           },
           "title": "Awesome Programmers"
         },
@@ -3866,7 +6182,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92727
+            "stars": 92740
           },
           "title": "Awesome Mcp Servers"
         },
@@ -3881,7 +6197,7 @@
             "last_commit": "2026-08-23T23:52:17Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78561
+            "stars": 78583
           },
           "title": "Awesome Public Datasets"
         },
@@ -3896,7 +6212,7 @@
             "last_commit": "2026-02-23T16:27:47Z",
             "owner": "deepseek-ai",
             "repo": "awesome-deepseek-integration",
-            "stars": 38934
+            "stars": 38940
           },
           "title": "Awesome Deepseek Integration"
         },
@@ -3911,7 +6227,7 @@
             "last_commit": "2026-03-03T07:35:24Z",
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30907
+            "stars": 30910
           },
           "title": "Awesome Github Profile Readme"
         },
@@ -3926,7 +6242,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28158
+            "stars": 28162
           },
           "title": "Awesome Actions"
         },
@@ -3941,7 +6257,7 @@
             "last_commit": "2026-07-15T12:14:09Z",
             "owner": "pluja",
             "repo": "awesome-privacy",
-            "stars": 19590
+            "stars": 19594
           },
           "title": "Awesome Privacy"
         },
@@ -3956,7 +6272,7 @@
             "last_commit": "2026-05-21T15:18:32Z",
             "owner": "mgramin",
             "repo": "awesome-db-tools",
-            "stars": 5275
+            "stars": 5276
           },
           "title": "Awesome Db Tools"
         },
@@ -3986,7 +6302,7 @@
             "last_commit": "2026-08-17T01:52:22Z",
             "owner": "iipc",
             "repo": "awesome-web-archiving",
-            "stars": 2621
+            "stars": 2622
           },
           "title": "Awesome Web Archiving"
         },
@@ -4001,7 +6317,7 @@
             "last_commit": "2026-08-14T09:09:00Z",
             "owner": "kdeldycke",
             "repo": "awesome-engineering-team-management",
-            "stars": 2582
+            "stars": 2584
           },
           "title": "Awesome Engineering Team Management"
         },
@@ -4016,7 +6332,7 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2479
+            "stars": 2480
           },
           "title": "Awesome Music"
         },
@@ -4046,7 +6362,7 @@
             "last_commit": "2026-07-26T05:01:07Z",
             "owner": "brabadu",
             "repo": "awesome-fonts",
-            "stars": 2052
+            "stars": 2053
           },
           "title": "Awesome Fonts"
         },
@@ -4091,7 +6407,7 @@
             "last_commit": "2022-01-08T00:34:06Z",
             "owner": "fiatjaf",
             "repo": "awesome-loginless",
-            "stars": 1628
+            "stars": 1629
           },
           "title": "Awesome Loginless"
         },
@@ -4136,7 +6452,7 @@
             "last_commit": "2026-08-22T21:31:26Z",
             "owner": "agamm",
             "repo": "awesome-developer-first",
-            "stars": 1786
+            "stars": 1787
           },
           "title": "Awesome Developer First"
         },
@@ -4301,7 +6617,7 @@
             "last_commit": "2026-05-27T21:49:39Z",
             "owner": "mojoaxel",
             "repo": "awesome-regression-testing",
-            "stars": 2414
+            "stars": 2413
           },
           "title": "Awesome Regression Testing"
         },
@@ -4331,7 +6647,7 @@
             "last_commit": "2024-08-02T19:02:17Z",
             "owner": "hysnsec",
             "repo": "awesome-threat-modelling",
-            "stars": 1796
+            "stars": 1797
           },
           "title": "Awesome Threat Modelling"
         },
@@ -4346,7 +6662,7 @@
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1716
+            "stars": 1717
           },
           "title": "Awesome Devsecops"
         },
@@ -4421,7 +6737,7 @@
             "last_commit": "2026-08-17T09:14:33Z",
             "owner": "BMayhew",
             "repo": "awesome-sites-to-test-on",
-            "stars": 1095
+            "stars": 1094
           },
           "title": "Awesome Sites To Test On"
         },
@@ -4748,7 +7064,7 @@
             "archived": false,
             "id": 637639667,
             "language": "JSON",
-            "last_commit": "2026-08-24T01:19:53Z",
+            "last_commit": "2026-08-24T14:32:36Z",
             "owner": "targed",
             "repo": "Awesome-Plugins",
             "stars": 152
@@ -4820,7 +7136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:22:56.438Z",
+    "last_updated": "2026-08-24T14:38:08.450Z",
     "original_repository": "selfrefactor/useful-javascript-libraries",
     "original_repository_id": 155415164,
     "original_repository_sha": "8ab404efb4a3ad8ebff3021adc40ff194c553358",
