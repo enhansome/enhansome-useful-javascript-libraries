@@ -14,9 +14,10 @@
             "last_commit": "2026-08-27T08:54:48Z",
             "owner": "DavidHDev",
             "repo": "react-bits",
-            "stars": 46249
+            "stars": 46319
           },
-          "title": "React Bits"
+          "title": "React Bits",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -29,9 +30,10 @@
             "last_commit": "2026-08-27T11:43:59Z",
             "owner": "adonisjs",
             "repo": "core",
-            "stars": 19101
+            "stars": 19102
           },
-          "title": "Core"
+          "title": "Core",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -44,9 +46,10 @@
             "last_commit": "2025-11-19T13:18:33Z",
             "owner": "inversify",
             "repo": "InversifyJS",
-            "stars": 12076
+            "stars": 12075
           },
-          "title": "Inversify Js"
+          "title": "Inversify Js",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -59,9 +62,10 @@
             "last_commit": "2026-08-12T23:23:33Z",
             "owner": "pmndrs",
             "repo": "valtio",
-            "stars": 10228
+            "stars": 10229
           },
-          "title": "Valtio"
+          "title": "Valtio",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -76,7 +80,8 @@
             "repo": "react-error-boundary",
             "stars": 7985
           },
-          "title": "React Error Boundary"
+          "title": "React Error Boundary",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -89,9 +94,10 @@
             "last_commit": "2026-08-27T08:24:58Z",
             "owner": "fmhy",
             "repo": "edit",
-            "stars": 11381
+            "stars": 11398
           },
-          "title": "Edit"
+          "title": "Edit",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -106,7 +112,8 @@
             "repo": "howtheytest",
             "stars": 6866
           },
-          "title": "Howtheytest"
+          "title": "Howtheytest",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -119,9 +126,10 @@
             "last_commit": "2025-09-16T12:43:59Z",
             "owner": "lucaong",
             "repo": "minisearch",
-            "stars": 6110
+            "stars": 6115
           },
-          "title": "Minisearch"
+          "title": "Minisearch",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -134,9 +142,10 @@
             "last_commit": "2026-08-24T00:09:00Z",
             "owner": "epicweb-dev",
             "repo": "epic-stack",
-            "stars": 5545
+            "stars": 5544
           },
-          "title": "Epic Stack"
+          "title": "Epic Stack",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -151,7 +160,8 @@
             "repo": "match-sorter",
             "stars": 4105
           },
-          "title": "Match Sorter"
+          "title": "Match Sorter",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -166,7 +176,8 @@
             "repo": "microdiff",
             "stars": 3865
           },
-          "title": "Microdiff"
+          "title": "Microdiff",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -179,9 +190,10 @@
             "last_commit": "2025-12-31T12:51:05Z",
             "owner": "imskyleen",
             "repo": "animate-ui",
-            "stars": 4216
+            "stars": 4226
           },
-          "title": "Animate Ui"
+          "title": "Animate Ui",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -196,7 +208,8 @@
             "repo": "eslint-plugin-perfectionist",
             "stars": 2916
           },
-          "title": "Eslint Plugin Perfectionist"
+          "title": "Eslint Plugin Perfectionist",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -206,12 +219,13 @@
             "archived": false,
             "id": 202890778,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:07:26Z",
+            "last_commit": "2026-08-28T09:56:39Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
             "stars": 40597
           },
-          "title": "Chakra Ui"
+          "title": "Chakra Ui",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -221,12 +235,13 @@
             "archived": false,
             "id": 59435364,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T02:16:44Z",
+            "last_commit": "2026-08-28T04:49:47Z",
             "owner": "outline",
             "repo": "outline",
-            "stars": 40353
+            "stars": 40361
           },
-          "title": "Outline"
+          "title": "Outline",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -239,9 +254,10 @@
             "last_commit": "2026-08-09T21:31:31Z",
             "owner": "fingerprintjs",
             "repo": "fingerprintjs",
-            "stars": 28359
+            "stars": 28364
           },
-          "title": "Fingerprintjs"
+          "title": "Fingerprintjs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -251,12 +267,13 @@
             "archived": false,
             "id": 274495425,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:28:51Z",
+            "last_commit": "2026-08-28T15:20:12Z",
             "owner": "remotion-dev",
             "repo": "remotion",
-            "stars": 57499
+            "stars": 57610
           },
-          "title": "Remotion"
+          "title": "Remotion",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -266,12 +283,13 @@
             "archived": false,
             "id": 75425073,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:42:57Z",
+            "last_commit": "2026-08-27T17:09:40Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23369
+            "stars": 23370
           },
-          "title": "Rxdb"
+          "title": "Rxdb",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -284,9 +302,10 @@
             "last_commit": "2026-08-10T04:54:31Z",
             "owner": "shikijs",
             "repo": "shiki",
-            "stars": 13752
+            "stars": 13755
           },
-          "title": "Shiki"
+          "title": "Shiki",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -299,9 +318,10 @@
             "last_commit": "2026-06-21T03:38:23Z",
             "owner": "markmap",
             "repo": "markmap",
-            "stars": 13072
+            "stars": 13077
           },
-          "title": "Markmap"
+          "title": "Markmap",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -314,9 +334,10 @@
             "last_commit": "2026-08-24T19:36:23Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13728
+            "stars": 13732
           },
-          "title": "Juice Shop"
+          "title": "Juice Shop",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -329,9 +350,10 @@
             "last_commit": "2026-08-20T15:27:58Z",
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12146
+            "stars": 12148
           },
-          "title": "Sigma Js"
+          "title": "Sigma Js",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -344,9 +366,10 @@
             "last_commit": "2026-07-21T16:18:31Z",
             "owner": "satnaing",
             "repo": "shadcn-admin",
-            "stars": 14034
+            "stars": 14048
           },
-          "title": "Shadcn Admin"
+          "title": "Shadcn Admin",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -356,12 +379,13 @@
             "archived": false,
             "id": 262932920,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:31:33Z",
+            "last_commit": "2026-08-28T07:21:04Z",
             "owner": "47ng",
             "repo": "nuqs",
-            "stars": 10768
+            "stars": 10771
           },
-          "title": "Nuqs"
+          "title": "Nuqs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -374,9 +398,10 @@
             "last_commit": "2026-04-01T13:30:54Z",
             "owner": "mattpocock",
             "repo": "ts-reset",
-            "stars": 8592
+            "stars": 8594
           },
-          "title": "Ts Reset"
+          "title": "Ts Reset",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -389,9 +414,10 @@
             "last_commit": "2026-08-26T14:41:08Z",
             "owner": "mockoon",
             "repo": "mockoon",
-            "stars": 8381
+            "stars": 8382
           },
-          "title": "Mockoon"
+          "title": "Mockoon",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -404,9 +430,10 @@
             "last_commit": "2026-02-14T23:23:06Z",
             "owner": "supermacro",
             "repo": "neverthrow",
-            "stars": 7692
+            "stars": 7691
           },
-          "title": "Neverthrow"
+          "title": "Neverthrow",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -421,7 +448,8 @@
             "repo": "typehero",
             "stars": 6640
           },
-          "title": "Typehero"
+          "title": "Typehero",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -431,12 +459,13 @@
             "archived": false,
             "id": 254328371,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:25:32Z",
+            "last_commit": "2026-08-28T15:06:28Z",
             "owner": "NangoHQ",
             "repo": "nango",
-            "stars": 11616
+            "stars": 11627
           },
-          "title": "Nango"
+          "title": "Nango",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -446,12 +475,13 @@
             "archived": false,
             "id": 82819844,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:04:54Z",
+            "last_commit": "2026-08-28T07:52:21Z",
             "owner": "iconify",
             "repo": "iconify",
             "stars": 6280
           },
-          "title": "Iconify"
+          "title": "Iconify",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -466,7 +496,8 @@
             "repo": "superjson",
             "stars": 5280
           },
-          "title": "Superjson"
+          "title": "Superjson",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -476,12 +507,13 @@
             "archived": false,
             "id": 108920680,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T01:48:22Z",
+            "last_commit": "2026-08-27T19:02:32Z",
             "owner": "dubzzz",
             "repo": "fast-check",
-            "stars": 5119
+            "stars": 5121
           },
-          "title": "Fast Check"
+          "title": "Fast Check",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -494,9 +526,10 @@
             "last_commit": "2026-05-09T09:13:21Z",
             "owner": "KingSora",
             "repo": "OverlayScrollbars",
-            "stars": 5194
+            "stars": 5195
           },
-          "title": "Overlay Scrollbars"
+          "title": "Overlay Scrollbars",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -506,12 +539,13 @@
             "archived": false,
             "id": 289747144,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T01:10:50Z",
+            "last_commit": "2026-08-27T19:52:58Z",
             "owner": "brocoders",
             "repo": "nestjs-boilerplate",
             "stars": 4384
           },
-          "title": "Nestjs Boilerplate"
+          "title": "Nestjs Boilerplate",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -524,9 +558,10 @@
             "last_commit": "2026-05-26T06:08:18Z",
             "owner": "jamiebuilds",
             "repo": "tinykeys",
-            "stars": 4100
+            "stars": 4101
           },
-          "title": "Tinykeys"
+          "title": "Tinykeys",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -539,9 +574,10 @@
             "last_commit": "2026-02-18T22:06:18Z",
             "owner": "ollama",
             "repo": "ollama-js",
-            "stars": 4357
+            "stars": 4355
           },
-          "title": "Ollama Js"
+          "title": "Ollama Js",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -556,7 +592,8 @@
             "repo": "kibo",
             "stars": 3916
           },
-          "title": "Kibo"
+          "title": "Kibo",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -566,12 +603,13 @@
             "archived": false,
             "id": 200599942,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:09:53Z",
+            "last_commit": "2026-08-28T12:04:39Z",
             "owner": "dalibo",
             "repo": "pev2",
             "stars": 3575
           },
-          "title": "Pev"
+          "title": "Pev",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -581,12 +619,13 @@
             "archived": false,
             "id": 210450402,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:52:30Z",
+            "last_commit": "2026-08-28T10:30:50Z",
             "owner": "adelsz",
             "repo": "pgtyped",
             "stars": 3276
           },
-          "title": "Pgtyped"
+          "title": "Pgtyped",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -601,7 +640,8 @@
             "repo": "devalue",
             "stars": 2789
           },
-          "title": "Devalue"
+          "title": "Devalue",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -614,9 +654,10 @@
             "last_commit": "2026-05-16T14:20:30Z",
             "owner": "type-challenges",
             "repo": "type-challenges",
-            "stars": 48477
+            "stars": 48480
           },
-          "title": "Type Challenges"
+          "title": "Type Challenges",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -629,9 +670,10 @@
             "last_commit": "2026-08-25T00:42:02Z",
             "owner": "slidevjs",
             "repo": "slidev",
-            "stars": 48299
+            "stars": 48317
           },
-          "title": "Slidev"
+          "title": "Slidev",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -644,9 +686,10 @@
             "last_commit": "2026-08-13T21:58:09Z",
             "owner": "trpc",
             "repo": "trpc",
-            "stars": 40551
+            "stars": 40554
           },
-          "title": "Trpc"
+          "title": "Trpc",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -656,12 +699,13 @@
             "archived": false,
             "id": 766341786,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:30:43Z",
+            "last_commit": "2026-08-27T23:14:25Z",
             "owner": "HeyPuter",
             "repo": "puter",
-            "stars": 43280
+            "stars": 43294
           },
-          "title": "Puter"
+          "title": "Puter",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -674,9 +718,10 @@
             "last_commit": "2026-08-21T09:03:12Z",
             "owner": "mifi",
             "repo": "lossless-cut",
-            "stars": 43238
+            "stars": 43263
           },
-          "title": "Lossless Cut"
+          "title": "Lossless Cut",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -686,12 +731,13 @@
             "archived": false,
             "id": 644686905,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:11:02Z",
+            "last_commit": "2026-08-28T10:05:03Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35645
+            "stars": 35664
           },
-          "title": "Continue"
+          "title": "Continue",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -701,12 +747,13 @@
             "archived": false,
             "id": 100061716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:21:13Z",
+            "last_commit": "2026-08-28T15:15:59Z",
             "owner": "nrwl",
             "repo": "nx",
-            "stars": 29272
+            "stars": 29275
           },
-          "title": "Nx"
+          "title": "Nx",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -716,12 +763,13 @@
             "archived": false,
             "id": 190729906,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:29:47Z",
+            "last_commit": "2026-08-28T11:42:24Z",
             "owner": "Budibase",
             "repo": "budibase",
-            "stars": 28245
+            "stars": 28246
           },
-          "title": "Budibase"
+          "title": "Budibase",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -734,9 +782,10 @@
             "last_commit": "2026-04-25T02:28:26Z",
             "owner": "louislam",
             "repo": "dockge",
-            "stars": 24184
+            "stars": 24194
           },
-          "title": "Dockge"
+          "title": "Dockge",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -746,12 +795,13 @@
             "archived": false,
             "id": 560299175,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:14:07Z",
+            "last_commit": "2026-08-28T08:32:40Z",
             "owner": "teableio",
             "repo": "teable",
-            "stars": 21723
+            "stars": 21730
           },
-          "title": "Teable"
+          "title": "Teable",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -761,12 +811,13 @@
             "archived": false,
             "id": 412152628,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:22:53Z",
+            "last_commit": "2026-08-28T07:58:19Z",
             "owner": "unocss",
             "repo": "unocss",
-            "stars": 18944
+            "stars": 18943
           },
-          "title": "Unocss"
+          "title": "Unocss",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -779,9 +830,10 @@
             "last_commit": "2026-07-02T20:01:32Z",
             "owner": "motion-canvas",
             "repo": "motion-canvas",
-            "stars": 19016
+            "stars": 19019
           },
-          "title": "Motion Canvas"
+          "title": "Motion Canvas",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -791,12 +843,13 @@
             "archived": false,
             "id": 574104779,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:23:21Z",
+            "last_commit": "2026-08-27T21:02:25Z",
             "owner": "elysiajs",
             "repo": "elysia",
-            "stars": 18984
+            "stars": 19008
           },
-          "title": "Elysia"
+          "title": "Elysia",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -809,9 +862,10 @@
             "last_commit": "2024-12-17T06:29:27Z",
             "owner": "stackblitz",
             "repo": "bolt.new",
-            "stars": 16524
+            "stars": 16525
           },
-          "title": "Bolt New"
+          "title": "Bolt New",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -821,12 +875,13 @@
             "archived": false,
             "id": 720209383,
             "language": "Rust",
-            "last_commit": "2026-08-27T12:10:55Z",
+            "last_commit": "2026-08-28T09:23:35Z",
             "owner": "CapSoftware",
             "repo": "Cap",
-            "stars": 21274
+            "stars": 21301
           },
-          "title": "Cap"
+          "title": "Cap",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -841,7 +896,8 @@
             "repo": "faker",
             "stars": 15476
           },
-          "title": "Faker"
+          "title": "Faker",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -854,9 +910,10 @@
             "last_commit": "2026-08-26T18:35:11Z",
             "owner": "electric-sql",
             "repo": "pglite",
-            "stars": 15927
+            "stars": 15930
           },
-          "title": "Pglite"
+          "title": "Pglite",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -869,9 +926,10 @@
             "last_commit": "2026-08-24T12:53:14Z",
             "owner": "dexie",
             "repo": "Dexie.js",
-            "stars": 14551
+            "stars": 14553
           },
-          "title": "Dexie Js"
+          "title": "Dexie Js",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -881,12 +939,13 @@
             "archived": false,
             "id": 97062850,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T18:26:08Z",
+            "last_commit": "2026-08-28T15:34:24Z",
             "owner": "glideapps",
             "repo": "quicktype",
-            "stars": 13843
+            "stars": 13845
           },
-          "title": "Quicktype"
+          "title": "Quicktype",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -901,7 +960,8 @@
             "repo": "peerjs",
             "stars": 13431
           },
-          "title": "Peerjs"
+          "title": "Peerjs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -914,9 +974,10 @@
             "last_commit": "2026-08-06T11:28:44Z",
             "owner": "wasp-lang",
             "repo": "open-saas",
-            "stars": 15646
+            "stars": 15654
           },
-          "title": "Open Saas"
+          "title": "Open Saas",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -926,12 +987,13 @@
             "archived": false,
             "id": 572570113,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:30:05Z",
+            "last_commit": "2026-08-28T15:35:21Z",
             "owner": "triggerdotdev",
             "repo": "trigger.dev",
-            "stars": 16139
+            "stars": 16149
           },
-          "title": "Trigger Dev"
+          "title": "Trigger Dev",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -944,9 +1006,10 @@
             "last_commit": "2026-08-24T12:48:10Z",
             "owner": "vercel",
             "repo": "satori",
-            "stars": 13860
+            "stars": 13866
           },
-          "title": "Satori"
+          "title": "Satori",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -956,12 +1019,13 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:47:35Z",
+            "last_commit": "2026-08-28T12:48:29Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15524
+            "stars": 15547
           },
-          "title": "Effect"
+          "title": "Effect",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -976,7 +1040,8 @@
             "repo": "tsup",
             "stars": 11291
           },
-          "title": "Tsup"
+          "title": "Tsup",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -989,9 +1054,10 @@
             "last_commit": "2026-08-24T16:00:31Z",
             "owner": "Automattic",
             "repo": "node-canvas",
-            "stars": 10689
+            "stars": 10690
           },
-          "title": "Node Canvas"
+          "title": "Node Canvas",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1001,12 +1067,13 @@
             "archived": false,
             "id": 452269390,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:47:58Z",
+            "last_commit": "2026-08-28T14:04:21Z",
             "owner": "nitrojs",
             "repo": "nitro",
-            "stars": 11149
+            "stars": 11152
           },
-          "title": "Nitro"
+          "title": "Nitro",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1021,7 +1088,8 @@
             "repo": "ncc",
             "stars": 9837
           },
-          "title": "Ncc"
+          "title": "Ncc",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1031,12 +1099,13 @@
             "archived": false,
             "id": 104133653,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:14:31Z",
+            "last_commit": "2026-08-28T06:07:07Z",
             "owner": "ariakit",
             "repo": "ariakit",
             "stars": 8607
           },
-          "title": "Ariakit"
+          "title": "Ariakit",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1049,9 +1118,10 @@
             "last_commit": "2026-08-26T14:16:19Z",
             "owner": "openapi-ts",
             "repo": "openapi-typescript",
-            "stars": 8336
+            "stars": 8337
           },
-          "title": "Openapi Typescript"
+          "title": "Openapi Typescript",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1064,9 +1134,10 @@
             "last_commit": "2026-07-07T20:07:53Z",
             "owner": "arktypeio",
             "repo": "arktype",
-            "stars": 7848
+            "stars": 7849
           },
-          "title": "Arktype"
+          "title": "Arktype",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1081,7 +1152,8 @@
             "repo": "eslint-plugin-import",
             "stars": 5941
           },
-          "title": "Eslint Plugin Import"
+          "title": "Eslint Plugin Import",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1094,9 +1166,10 @@
             "last_commit": "2026-08-05T18:34:11Z",
             "owner": "actions",
             "repo": "toolkit",
-            "stars": 5834
+            "stars": 5836
           },
-          "title": "Toolkit"
+          "title": "Toolkit",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1111,7 +1184,8 @@
             "repo": "miragejs",
             "stars": 5530
           },
-          "title": "Miragejs"
+          "title": "Miragejs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1121,12 +1195,13 @@
             "archived": false,
             "id": 930459670,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T07:14:50Z",
+            "last_commit": "2026-08-28T15:25:20Z",
             "owner": "AmanVarshney01",
             "repo": "create-better-t-stack",
-            "stars": 5674
+            "stars": 5677
           },
-          "title": "Create Better T Stack"
+          "title": "Create Better T Stack",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1139,9 +1214,10 @@
             "last_commit": "2026-08-27T08:32:51Z",
             "owner": "Tencent",
             "repo": "cherry-markdown",
-            "stars": 4854
+            "stars": 4855
           },
-          "title": "Cherry Markdown"
+          "title": "Cherry Markdown",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1151,12 +1227,13 @@
             "archived": false,
             "id": 495976441,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:57:28Z",
+            "last_commit": "2026-08-28T15:23:33Z",
             "owner": "posit-dev",
             "repo": "positron",
-            "stars": 4238
+            "stars": 4239
           },
-          "title": "Positron"
+          "title": "Positron",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1171,7 +1248,8 @@
             "repo": "hint",
             "stars": 3698
           },
-          "title": "Hint"
+          "title": "Hint",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1184,9 +1262,10 @@
             "last_commit": "2026-08-24T10:16:21Z",
             "owner": "garden-io",
             "repo": "garden",
-            "stars": 3609
+            "stars": 3611
           },
-          "title": "Garden"
+          "title": "Garden",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1201,7 +1280,8 @@
             "repo": "deepkit",
             "stars": 3546
           },
-          "title": "Deepkit"
+          "title": "Deepkit",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1214,9 +1294,10 @@
             "last_commit": "2026-06-23T07:33:22Z",
             "owner": "hunvreus",
             "repo": "pagescms",
-            "stars": 3946
+            "stars": 3949
           },
-          "title": "Pages Cms"
+          "title": "Pages Cms",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1231,7 +1312,8 @@
             "repo": "FFCreator",
             "stars": 3158
           },
-          "title": "Ffcreator"
+          "title": "Ffcreator",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1241,12 +1323,13 @@
             "archived": false,
             "id": 144890632,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:17:41Z",
+            "last_commit": "2026-08-28T11:39:15Z",
             "owner": "stoplightio",
             "repo": "spectral",
             "stars": 3189
           },
-          "title": "Spectral"
+          "title": "Spectral",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1259,9 +1342,10 @@
             "last_commit": "2026-08-05T05:28:15Z",
             "owner": "codse",
             "repo": "animata",
-            "stars": 2778
+            "stars": 2779
           },
-          "title": "Animata"
+          "title": "Animata",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1274,9 +1358,10 @@
             "last_commit": "2026-08-12T05:11:30Z",
             "owner": "seek-oss",
             "repo": "capsize",
-            "stars": 1716
+            "stars": 1717
           },
-          "title": "Capsize"
+          "title": "Capsize",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1291,7 +1376,8 @@
             "repo": "js-pytorch",
             "stars": 1222
           },
-          "title": "Js Pytorch"
+          "title": "Js Pytorch",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1306,7 +1392,8 @@
             "repo": "prettier-plugin-organize-imports",
             "stars": 1238
           },
-          "title": "Prettier Plugin Organize Imports"
+          "title": "Prettier Plugin Organize Imports",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1321,7 +1408,8 @@
             "repo": "create-expo-stack",
             "stars": 2574
           },
-          "title": "Create Expo Stack"
+          "title": "Create Expo Stack",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1331,12 +1419,13 @@
             "archived": false,
             "id": 370689096,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:55:38Z",
+            "last_commit": "2026-08-28T00:44:36Z",
             "owner": "unjs",
             "repo": "magicast",
             "stars": 2477
           },
-          "title": "Magicast"
+          "title": "Magicast",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1346,12 +1435,13 @@
             "archived": false,
             "id": 398471444,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T04:47:06Z",
+            "last_commit": "2026-08-27T18:44:07Z",
             "owner": "arifszn",
             "repo": "gitprofile",
             "stars": 2299
           },
-          "title": "Gitprofile"
+          "title": "Gitprofile",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1366,7 +1456,8 @@
             "repo": "worker",
             "stars": 2379
           },
-          "title": "Worker"
+          "title": "Worker",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1381,7 +1472,8 @@
             "repo": "llama-coder",
             "stars": 2089
           },
-          "title": "Llama Coder"
+          "title": "Llama Coder",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1391,12 +1483,13 @@
             "archived": false,
             "id": 170797156,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:50:25Z",
+            "last_commit": "2026-08-28T13:14:56Z",
             "owner": "reactive",
             "repo": "data-client",
             "stars": 2034
           },
-          "title": "Data Client"
+          "title": "Data Client",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1411,7 +1504,8 @@
             "repo": "memfs",
             "stars": 2089
           },
-          "title": "Memfs"
+          "title": "Memfs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1421,12 +1515,13 @@
             "archived": false,
             "id": 460076976,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:20:46Z",
+            "last_commit": "2026-08-28T11:25:25Z",
             "owner": "connectrpc",
             "repo": "connect-es",
             "stars": 1803
           },
-          "title": "Connect Es"
+          "title": "Connect Es",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1436,12 +1531,13 @@
             "archived": false,
             "id": 438331492,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:10:30Z",
+            "last_commit": "2026-08-28T15:03:50Z",
             "owner": "clerk",
             "repo": "javascript",
-            "stars": 1744
+            "stars": 1746
           },
-          "title": "Javascript"
+          "title": "Javascript",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1451,12 +1547,13 @@
             "archived": false,
             "id": 17729096,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T05:51:44Z",
+            "last_commit": "2026-08-27T19:16:32Z",
             "owner": "salsita",
             "repo": "node-pg-migrate",
             "stars": 1477
           },
-          "title": "Node Pg Migrate"
+          "title": "Node Pg Migrate",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1471,7 +1568,8 @@
             "repo": "true-myth",
             "stars": 1361
           },
-          "title": "True Myth"
+          "title": "True Myth",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1486,7 +1584,8 @@
             "repo": "functional-programming",
             "stars": 1293
           },
-          "title": "Functional Programming"
+          "title": "Functional Programming",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1501,7 +1600,8 @@
             "repo": "haystack-editor",
             "stars": 1284
           },
-          "title": "Haystack Editor"
+          "title": "Haystack Editor",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1516,7 +1616,8 @@
             "repo": "reg-suit",
             "stars": 1287
           },
-          "title": "Reg Suit"
+          "title": "Reg Suit",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1531,7 +1632,8 @@
             "repo": "twoslash",
             "stars": 1142
           },
-          "title": "Twoslash"
+          "title": "Twoslash",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1541,12 +1643,13 @@
             "archived": false,
             "id": 345475832,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:06:35Z",
+            "last_commit": "2026-08-28T09:39:47Z",
             "owner": "unjs",
             "repo": "unstorage",
             "stars": 2638
           },
-          "title": "Unstorage"
+          "title": "Unstorage",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1556,12 +1659,13 @@
             "archived": false,
             "id": 207588519,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:30:40Z",
+            "last_commit": "2026-08-28T13:30:54Z",
             "owner": "Redocly",
             "repo": "redocly-cli",
             "stars": 1506
           },
-          "title": "Redocly Cli"
+          "title": "Redocly Cli",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1576,7 +1680,8 @@
             "repo": "test-reporter",
             "stars": 1179
           },
-          "title": "Test Reporter"
+          "title": "Test Reporter",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1591,7 +1696,8 @@
             "repo": "react-diff-view",
             "stars": 1013
           },
-          "title": "React Diff View"
+          "title": "React Diff View",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1601,12 +1707,13 @@
             "archived": false,
             "id": 194648815,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:02:20Z",
+            "last_commit": "2026-08-27T21:28:42Z",
             "owner": "eslint-functional",
             "repo": "eslint-plugin-functional",
             "stars": 994
           },
-          "title": "Eslint Plugin Functional"
+          "title": "Eslint Plugin Functional",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1619,9 +1726,10 @@
             "last_commit": "2026-08-09T18:53:09Z",
             "owner": "bloomberg",
             "repo": "ts-blank-space",
-            "stars": 939
+            "stars": 938
           },
-          "title": "Ts Blank Space"
+          "title": "Ts Blank Space",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1634,9 +1742,10 @@
             "last_commit": "2026-06-08T12:50:23Z",
             "owner": "sebastianwessel",
             "repo": "quickjs",
-            "stars": 930
+            "stars": 931
           },
-          "title": "Quickjs"
+          "title": "Quickjs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1651,7 +1760,8 @@
             "repo": "nextbase-nextjs-supabase-starter",
             "stars": 811
           },
-          "title": "Nextbase Nextjs Supabase Starter"
+          "title": "Nextbase Nextjs Supabase Starter",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1666,7 +1776,8 @@
             "repo": "eslint-plugin-unused-imports",
             "stars": 622
           },
-          "title": "Eslint Plugin Unused Imports"
+          "title": "Eslint Plugin Unused Imports",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1681,7 +1792,8 @@
             "repo": "css-hooks",
             "stars": 604
           },
-          "title": "Css Hooks"
+          "title": "Css Hooks",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1696,7 +1808,8 @@
             "repo": "suites",
             "stars": 546
           },
-          "title": "Suites"
+          "title": "Suites",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1711,7 +1824,8 @@
             "repo": "starter-vscode",
             "stars": 537
           },
-          "title": "Starter Vscode"
+          "title": "Starter Vscode",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1726,7 +1840,8 @@
             "repo": "pratica",
             "stars": 490
           },
-          "title": "Pratica"
+          "title": "Pratica",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1739,9 +1854,10 @@
             "last_commit": "2026-03-26T10:54:06Z",
             "owner": "Igorkowalski94",
             "repo": "eslint-plugin-project-structure",
-            "stars": 501
+            "stars": 502
           },
-          "title": "Eslint Plugin Project Structure"
+          "title": "Eslint Plugin Project Structure",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1756,7 +1872,8 @@
             "repo": "FakeRest",
             "stars": 456
           },
-          "title": "Fake Rest"
+          "title": "Fake Rest",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1771,7 +1888,8 @@
             "repo": "ultimate-nest",
             "stars": 437
           },
-          "title": "Ultimate Nest"
+          "title": "Ultimate Nest",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1786,7 +1904,8 @@
             "repo": "eslint-plugin-import-access",
             "stars": 426
           },
-          "title": "Eslint Plugin Import Access"
+          "title": "Eslint Plugin Import Access",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1801,7 +1920,8 @@
             "repo": "type-trident",
             "stars": 357
           },
-          "title": "Type Trident"
+          "title": "Type Trident",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1811,12 +1931,13 @@
             "archived": false,
             "id": 521632923,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T05:27:11Z",
+            "last_commit": "2026-08-28T07:23:29Z",
             "owner": "mehatab",
             "repo": "fettle",
             "stars": 280
           },
-          "title": "Fettle"
+          "title": "Fettle",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1826,12 +1947,13 @@
             "archived": false,
             "id": 374054071,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:14:49Z",
+            "last_commit": "2026-08-28T12:54:35Z",
             "owner": "darraghoriordan",
             "repo": "eslint-plugin-nestjs-typed",
             "stars": 225
           },
-          "title": "Eslint Plugin Nestjs Typed"
+          "title": "Eslint Plugin Nestjs Typed",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1846,7 +1968,8 @@
             "repo": "blipgloss",
             "stars": 211
           },
-          "title": "Blipgloss"
+          "title": "Blipgloss",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1861,7 +1984,8 @@
             "repo": "fetch-api-data-action",
             "stars": 134
           },
-          "title": "Fetch Api Data Action"
+          "title": "Fetch Api Data Action",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1876,7 +2000,8 @@
             "repo": "ink-tab",
             "stars": 103
           },
-          "title": "Ink Tab"
+          "title": "Ink Tab",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1891,7 +2016,8 @@
             "repo": "reactuse",
             "stars": 1045
           },
-          "title": "Reactuse"
+          "title": "Reactuse",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1901,12 +2027,13 @@
             "archived": false,
             "id": 114102066,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:31:32Z",
+            "last_commit": "2026-08-28T04:06:50Z",
             "owner": "ghostery",
             "repo": "adblocker",
             "stars": 995
           },
-          "title": "Adblocker"
+          "title": "Adblocker",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1921,7 +2048,8 @@
             "repo": "suspensive",
             "stars": 1043
           },
-          "title": "Suspensive"
+          "title": "Suspensive",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1936,7 +2064,8 @@
             "repo": "jest-fetch-mock",
             "stars": 893
           },
-          "title": "Jest Fetch Mock"
+          "title": "Jest Fetch Mock",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1951,7 +2080,8 @@
             "repo": "graphql-eslint",
             "stars": 831
           },
-          "title": "Graphql Eslint"
+          "title": "Graphql Eslint",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1966,7 +2096,8 @@
             "repo": "deoptexplorer-vscode",
             "stars": 833
           },
-          "title": "Deoptexplorer Vscode"
+          "title": "Deoptexplorer Vscode",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1976,12 +2107,13 @@
             "archived": false,
             "id": 271004752,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:45:00Z",
+            "last_commit": "2026-08-27T20:18:10Z",
             "owner": "javierbrea",
             "repo": "eslint-plugin-boundaries",
             "stars": 969
           },
-          "title": "Eslint Plugin Boundaries"
+          "title": "Eslint Plugin Boundaries",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -1996,7 +2128,8 @@
             "repo": "lambda-local",
             "stars": 753
           },
-          "title": "Lambda Local"
+          "title": "Lambda Local",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2006,12 +2139,13 @@
             "archived": false,
             "id": 597809972,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T06:44:36Z",
+            "last_commit": "2026-08-28T06:44:39Z",
             "owner": "lxsmnsyc",
             "repo": "seroval",
             "stars": 726
           },
-          "title": "Seroval"
+          "title": "Seroval",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2024,9 +2158,10 @@
             "last_commit": "2026-08-14T09:05:23Z",
             "owner": "un-ts",
             "repo": "eslint-plugin-import-x",
-            "stars": 758
+            "stars": 759
           },
-          "title": "Eslint Plugin Import X"
+          "title": "Eslint Plugin Import X",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2036,12 +2171,13 @@
             "archived": false,
             "id": 562899571,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:41:33Z",
+            "last_commit": "2026-08-27T18:47:11Z",
             "owner": "unjs",
             "repo": "ungh",
             "stars": 687
           },
-          "title": "Ungh"
+          "title": "Ungh",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2056,7 +2192,8 @@
             "repo": "jsoncrack-vscode",
             "stars": 616
           },
-          "title": "Jsoncrack Vscode"
+          "title": "Jsoncrack Vscode",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2069,9 +2206,10 @@
             "last_commit": "2026-08-07T20:47:06Z",
             "owner": "fczbkk",
             "repo": "css-selector-generator",
-            "stars": 596
+            "stars": 597
           },
-          "title": "Css Selector Generator"
+          "title": "Css Selector Generator",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2084,9 +2222,10 @@
             "last_commit": "2026-08-27T11:28:08Z",
             "owner": "vitalets",
             "repo": "playwright-bdd",
-            "stars": 769
+            "stars": 770
           },
-          "title": "Playwright Bdd"
+          "title": "Playwright Bdd",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2101,7 +2240,8 @@
             "repo": "spotlight",
             "stars": 616
           },
-          "title": "Spotlight"
+          "title": "Spotlight",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2116,7 +2256,8 @@
             "repo": "unplugin-fonts",
             "stars": 424
           },
-          "title": "Unplugin Fonts"
+          "title": "Unplugin Fonts",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2129,9 +2270,10 @@
             "last_commit": "2026-07-08T20:23:16Z",
             "owner": "Nitrino",
             "repo": "easysubs",
-            "stars": 299
+            "stars": 300
           },
-          "title": "Easysubs"
+          "title": "Easysubs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2144,9 +2286,10 @@
             "last_commit": "2026-08-24T09:04:40Z",
             "owner": "NodeSecure",
             "repo": "js-x-ray",
-            "stars": 286
+            "stars": 287
           },
-          "title": "Js X Ray"
+          "title": "Js X Ray",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2161,7 +2304,8 @@
             "repo": "hooks",
             "stars": 235
           },
-          "title": "Hooks"
+          "title": "Hooks",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2171,12 +2315,13 @@
             "archived": false,
             "id": 150714745,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:53:12Z",
+            "last_commit": "2026-08-28T09:19:48Z",
             "owner": "michaelfaith",
             "repo": "eslint-plugin-package-json",
-            "stars": 256
+            "stars": 257
           },
-          "title": "Eslint Plugin Package Json"
+          "title": "Eslint Plugin Package Json",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2191,7 +2336,8 @@
             "repo": "data-structure-typed",
             "stars": 204
           },
-          "title": "Data Structure Typed"
+          "title": "Data Structure Typed",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2206,7 +2352,8 @@
             "repo": "eslint-plugin-yml",
             "stars": 185
           },
-          "title": "Eslint Plugin Yml"
+          "title": "Eslint Plugin Yml",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2216,12 +2363,13 @@
             "archived": false,
             "id": 395073138,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T08:33:28Z",
+            "last_commit": "2026-08-28T14:25:57Z",
             "owner": "nodejs",
             "repo": "import-in-the-middle",
-            "stars": 168
+            "stars": 169
           },
-          "title": "Import In The Middle"
+          "title": "Import In The Middle",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2236,7 +2384,8 @@
             "repo": "vscode-css-to-tailwindcss",
             "stars": 71
           },
-          "title": "Vscode Css To Tailwindcss"
+          "title": "Vscode Css To Tailwindcss",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2246,12 +2395,13 @@
             "archived": false,
             "id": 877160818,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:08:18Z",
+            "last_commit": "2026-08-27T23:01:09Z",
             "owner": "maou-shonen",
             "repo": "hono-simple-DI",
             "stars": 66
           },
-          "title": "Hono Simple Di"
+          "title": "Hono Simple Di",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2261,12 +2411,13 @@
             "archived": false,
             "id": 252849467,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T05:58:30Z",
+            "last_commit": "2026-08-28T10:41:50Z",
             "owner": "fast-facts",
             "repo": "puppeteer-pro",
-            "stars": 58
+            "stars": 59
           },
-          "title": "Puppeteer Pro"
+          "title": "Puppeteer Pro",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2281,7 +2432,8 @@
             "repo": "react-query-beyond-the-basics",
             "stars": 40
           },
-          "title": "React Query Beyond The Basics"
+          "title": "React Query Beyond The Basics",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2296,7 +2448,8 @@
             "repo": "vite-plugin-ngrok",
             "stars": 39
           },
-          "title": "Vite Plugin Ngrok"
+          "title": "Vite Plugin Ngrok",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2311,7 +2464,8 @@
             "repo": "package-build-stats",
             "stars": 105
           },
-          "title": "Package Build Stats"
+          "title": "Package Build Stats",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         }
       ],
       "title": "Overview"
@@ -2330,9 +2484,10 @@
             "last_commit": "2026-08-24T21:45:34Z",
             "owner": "Pradumnasaraf",
             "repo": "DevOps",
-            "stars": 3258
+            "stars": 3259
           },
-          "title": "Dev Ops"
+          "title": "Dev Ops",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2345,9 +2500,10 @@
             "last_commit": "2025-12-08T18:46:47Z",
             "owner": "github",
             "repo": "github-elements",
-            "stars": 2906
+            "stars": 2905
           },
-          "title": "Github Elements"
+          "title": "Github Elements",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2360,9 +2516,10 @@
             "last_commit": "2026-08-20T23:26:16Z",
             "owner": "h5bp",
             "repo": "html5-boilerplate",
-            "stars": 57604
+            "stars": 57608
           },
-          "title": "Html Boilerplate"
+          "title": "Html Boilerplate",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2372,12 +2529,13 @@
             "archived": false,
             "id": 545508308,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:04:34Z",
+            "last_commit": "2026-08-28T13:21:59Z",
             "owner": "webpro-nl",
             "repo": "knip",
-            "stars": 12124
+            "stars": 12131
           },
-          "title": "Knip"
+          "title": "Knip",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2390,9 +2548,10 @@
             "last_commit": "2025-01-19T12:36:20Z",
             "owner": "TahaSh",
             "repo": "swapy",
-            "stars": 8509
+            "stars": 8508
           },
-          "title": "Swapy"
+          "title": "Swapy",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2405,9 +2564,10 @@
             "last_commit": "2026-07-30T12:45:50Z",
             "owner": "ai",
             "repo": "size-limit",
-            "stars": 6941
+            "stars": 6942
           },
-          "title": "Size Limit"
+          "title": "Size Limit",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2422,7 +2582,8 @@
             "repo": "css-doodle",
             "stars": 6030
           },
-          "title": "Css Doodle"
+          "title": "Css Doodle",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2435,9 +2596,10 @@
             "last_commit": "2026-07-23T21:39:48Z",
             "owner": "orestbida",
             "repo": "cookieconsent",
-            "stars": 5642
+            "stars": 5644
           },
-          "title": "Cookieconsent"
+          "title": "Cookieconsent",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2452,7 +2614,8 @@
             "repo": "codetour",
             "stars": 4569
           },
-          "title": "Codetour"
+          "title": "Codetour",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2467,7 +2630,8 @@
             "repo": "reactour",
             "stars": 4086
           },
-          "title": "Reactour"
+          "title": "Reactour",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2477,12 +2641,13 @@
             "archived": false,
             "id": 99244740,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:42:01Z",
+            "last_commit": "2026-08-28T01:59:58Z",
             "owner": "middyjs",
             "repo": "middy",
             "stars": 3904
           },
-          "title": "Middy"
+          "title": "Middy",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2495,9 +2660,10 @@
             "last_commit": "2026-08-20T02:56:38Z",
             "owner": "fastify",
             "repo": "fast-json-stringify",
-            "stars": 3703
+            "stars": 3704
           },
-          "title": "Fast Json Stringify"
+          "title": "Fast Json Stringify",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2512,7 +2678,8 @@
             "repo": "GhostText",
             "stars": 3636
           },
-          "title": "Ghost Text"
+          "title": "Ghost Text",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2527,7 +2694,8 @@
             "repo": "flyde",
             "stars": 3508
           },
-          "title": "Flyde"
+          "title": "Flyde",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2542,7 +2710,8 @@
             "repo": "gluon",
             "stars": 3052
           },
-          "title": "Gluon"
+          "title": "Gluon",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2555,9 +2724,10 @@
             "last_commit": "2026-07-28T22:39:46Z",
             "owner": "loggerhead",
             "repo": "json4u",
-            "stars": 3228
+            "stars": 3230
           },
-          "title": "Json U"
+          "title": "Json U",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2567,12 +2737,13 @@
             "archived": false,
             "id": 300252678,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T08:25:44Z",
+            "last_commit": "2026-08-28T14:48:30Z",
             "owner": "lowdefy",
             "repo": "lowdefy",
-            "stars": 3004
+            "stars": 3005
           },
-          "title": "Lowdefy"
+          "title": "Lowdefy",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2585,9 +2756,10 @@
             "last_commit": "2026-08-26T13:09:24Z",
             "owner": "yahoo",
             "repo": "serialize-javascript",
-            "stars": 2922
+            "stars": 2923
           },
-          "title": "Serialize Javascript"
+          "title": "Serialize Javascript",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2602,7 +2774,8 @@
             "repo": "undb",
             "stars": 2975
           },
-          "title": "Undb"
+          "title": "Undb",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2612,12 +2785,13 @@
             "archived": false,
             "id": 108761645,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:08:03Z",
+            "last_commit": "2026-08-28T13:51:56Z",
             "owner": "nocodb",
             "repo": "nocodb",
-            "stars": 64757
+            "stars": 64773
           },
-          "title": "Nocodb"
+          "title": "Nocodb",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2627,12 +2801,13 @@
             "archived": false,
             "id": 327089870,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:41:29Z",
+            "last_commit": "2026-08-28T15:12:12Z",
             "owner": "payloadcms",
             "repo": "payload",
-            "stars": 44432
+            "stars": 44457
           },
-          "title": "Payload"
+          "title": "Payload",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2642,12 +2817,13 @@
             "archived": false,
             "id": 542284380,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:30:29Z",
+            "last_commit": "2026-08-28T12:24:37Z",
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 46583
+            "stars": 46611
           },
-          "title": "Bruno"
+          "title": "Bruno",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2657,12 +2833,13 @@
             "archived": false,
             "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:01:20Z",
+            "last_commit": "2026-08-28T14:55:05Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40758
+            "stars": 40773
           },
-          "title": "Appsmith"
+          "title": "Appsmith",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2672,12 +2849,13 @@
             "archived": false,
             "id": 788847937,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:47:19Z",
+            "last_commit": "2026-08-27T16:49:59Z",
             "owner": "Dokploy",
             "repo": "dokploy",
-            "stars": 36902
+            "stars": 36927
           },
-          "title": "Dokploy"
+          "title": "Dokploy",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2690,9 +2868,10 @@
             "last_commit": "2026-06-02T22:03:55Z",
             "owner": "voideditor",
             "repo": "void",
-            "stars": 28822
+            "stars": 28821
           },
-          "title": "Void"
+          "title": "Void",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2702,12 +2881,13 @@
             "archived": false,
             "id": 521655652,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:30:27Z",
+            "last_commit": "2026-08-28T14:37:09Z",
             "owner": "Infisical",
             "repo": "infisical",
-            "stars": 28991
+            "stars": 29008
           },
-          "title": "Infisical"
+          "title": "Infisical",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2717,12 +2897,13 @@
             "archived": false,
             "id": 198484780,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:17:23Z",
+            "last_commit": "2026-08-28T15:34:47Z",
             "owner": "beekeeper-studio",
             "repo": "beekeeper-studio",
-            "stars": 23520
+            "stars": 23524
           },
-          "title": "Beekeeper Studio"
+          "title": "Beekeeper Studio",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2732,12 +2913,13 @@
             "archived": false,
             "id": 679280065,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:52:19Z",
+            "last_commit": "2026-08-28T11:32:13Z",
             "owner": "scalar",
             "repo": "scalar",
-            "stars": 16003
+            "stars": 16007
           },
-          "title": "Scalar"
+          "title": "Scalar",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2750,9 +2932,10 @@
             "last_commit": "2026-05-01T15:03:32Z",
             "owner": "ConardLi",
             "repo": "easy-dataset",
-            "stars": 14843
+            "stars": 14846
           },
-          "title": "Easy Dataset"
+          "title": "Easy Dataset",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2762,12 +2945,13 @@
             "archived": false,
             "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:07:45Z",
+            "last_commit": "2026-08-28T10:43:46Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14471
+            "stars": 14474
           },
-          "title": "Logto"
+          "title": "Logto",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2777,12 +2961,13 @@
             "archived": false,
             "id": 690825026,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:43:52Z",
+            "last_commit": "2026-08-28T15:30:51Z",
             "owner": "hyperdxio",
             "repo": "hyperdx",
-            "stars": 9866
+            "stars": 9870
           },
-          "title": "Hyperdx"
+          "title": "Hyperdx",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2797,7 +2982,8 @@
             "repo": "virtual",
             "stars": 7090
           },
-          "title": "Virtual"
+          "title": "Virtual",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2812,7 +2998,8 @@
             "repo": "ts-morph",
             "stars": 6165
           },
-          "title": "Ts Morph"
+          "title": "Ts Morph",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2825,9 +3012,10 @@
             "last_commit": "2026-08-26T20:45:13Z",
             "owner": "evidence-dev",
             "repo": "evidence",
-            "stars": 6885
+            "stars": 6891
           },
-          "title": "Evidence"
+          "title": "Evidence",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2840,9 +3028,10 @@
             "last_commit": "2026-08-08T03:59:23Z",
             "owner": "opentypejs",
             "repo": "opentype.js",
-            "stars": 5012
+            "stars": 5011
           },
-          "title": "Opentype Js"
+          "title": "Opentype Js",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2852,12 +3041,13 @@
             "archived": false,
             "id": 537167055,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T09:07:38Z",
+            "last_commit": "2026-08-28T09:11:33Z",
             "owner": "OhMyGuus",
             "repo": "I-Still-Dont-Care-About-Cookies",
             "stars": 4232
           },
-          "title": "I Still Dont Care About Cookies"
+          "title": "I Still Dont Care About Cookies",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2867,12 +3057,13 @@
             "archived": false,
             "id": 61366800,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:30:00Z",
+            "last_commit": "2026-08-28T08:20:44Z",
             "owner": "lukeautry",
             "repo": "tsoa",
-            "stars": 3970
+            "stars": 3969
           },
-          "title": "Tsoa"
+          "title": "Tsoa",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2882,12 +3073,13 @@
             "archived": false,
             "id": 358226004,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:31:22Z",
+            "last_commit": "2026-08-28T15:23:25Z",
             "owner": "pollinations",
             "repo": "pollinations",
-            "stars": 5000
+            "stars": 5003
           },
-          "title": "Pollinations"
+          "title": "Pollinations",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2897,12 +3089,13 @@
             "archived": false,
             "id": 599414918,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:00:00Z",
+            "last_commit": "2026-08-28T09:31:57Z",
             "owner": "rocicorp",
             "repo": "mono",
-            "stars": 3371
+            "stars": 3372
           },
-          "title": "Mono"
+          "title": "Mono",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2912,12 +3105,13 @@
             "archived": false,
             "id": 498940433,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T16:42:22Z",
+            "last_commit": "2026-08-28T00:42:24Z",
             "owner": "ezshine",
             "repo": "AwesomeSites",
-            "stars": 2008
+            "stars": 2009
           },
-          "title": "Awesome Sites"
+          "title": "Awesome Sites",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2932,7 +3126,8 @@
             "repo": "eslint-plugin-react-you-might-not-need-an-effect",
             "stars": 1908
           },
-          "title": "Eslint Plugin React You Might Not Need An Effect"
+          "title": "Eslint Plugin React You Might Not Need An Effect",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2942,12 +3137,13 @@
             "archived": false,
             "id": 897892563,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:36:06Z",
+            "last_commit": "2026-08-28T08:56:33Z",
             "owner": "aidenybai",
             "repo": "bippy",
-            "stars": 1367
+            "stars": 1368
           },
-          "title": "Bippy"
+          "title": "Bippy",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2962,7 +3158,8 @@
             "repo": "eslint-plugin-security",
             "stars": 2372
           },
-          "title": "Eslint Plugin Security"
+          "title": "Eslint Plugin Security",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2977,7 +3174,8 @@
             "repo": "create-chrome-ext",
             "stars": 2127
           },
-          "title": "Create Chrome Ext"
+          "title": "Create Chrome Ext",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -2992,7 +3190,8 @@
             "repo": "csstree",
             "stars": 2118
           },
-          "title": "Csstree"
+          "title": "Csstree",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3007,7 +3206,8 @@
             "repo": "start-server-and-test",
             "stars": 1581
           },
-          "title": "Start Server And Test"
+          "title": "Start Server And Test",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3022,7 +3222,8 @@
             "repo": "eslint-plugin-jsdoc",
             "stars": 1227
           },
-          "title": "Eslint Plugin Jsdoc"
+          "title": "Eslint Plugin Jsdoc",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3032,12 +3233,13 @@
             "archived": false,
             "id": 159849469,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T20:00:58Z",
+            "last_commit": "2026-08-28T12:12:15Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 796
           },
-          "title": "Putout"
+          "title": "Putout",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3052,7 +3254,8 @@
             "repo": "fast-diff",
             "stars": 715
           },
-          "title": "Fast Diff"
+          "title": "Fast Diff",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3067,7 +3270,8 @@
             "repo": "eslint-config-canonical",
             "stars": 625
           },
-          "title": "Eslint Config Canonical"
+          "title": "Eslint Config Canonical",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3077,12 +3281,13 @@
             "archived": false,
             "id": 146194503,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T12:31:46Z",
+            "last_commit": "2026-08-28T15:31:56Z",
             "owner": "sunny9577",
             "repo": "proxy-scraper",
             "stars": 589
           },
-          "title": "Proxy Scraper"
+          "title": "Proxy Scraper",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3097,7 +3302,8 @@
             "repo": "kuto",
             "stars": 526
           },
-          "title": "Kuto"
+          "title": "Kuto",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3112,7 +3318,8 @@
             "repo": "proposal-throw-expressions",
             "stars": 531
           },
-          "title": "Proposal Throw Expressions"
+          "title": "Proposal Throw Expressions",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3127,7 +3334,8 @@
             "repo": "framework-benchmarks",
             "stars": 473
           },
-          "title": "Framework Benchmarks"
+          "title": "Framework Benchmarks",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3142,7 +3350,8 @@
             "repo": "top-user-agents",
             "stars": 365
           },
-          "title": "Top User Agents"
+          "title": "Top User Agents",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3157,7 +3366,8 @@
             "repo": "folderslint",
             "stars": 197
           },
-          "title": "Folderslint"
+          "title": "Folderslint",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3172,7 +3382,8 @@
             "repo": "skott",
             "stars": 870
           },
-          "title": "Skott"
+          "title": "Skott",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3185,9 +3396,10 @@
             "last_commit": "2026-02-16T10:35:19Z",
             "owner": "klis87",
             "repo": "normy",
-            "stars": 610
+            "stars": 609
           },
-          "title": "Normy"
+          "title": "Normy",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3202,7 +3414,8 @@
             "repo": "light-my-request",
             "stars": 420
           },
-          "title": "Light My Request"
+          "title": "Light My Request",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3217,7 +3430,8 @@
             "repo": "vitale",
             "stars": 258
           },
-          "title": "Vitale"
+          "title": "Vitale",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3232,7 +3446,8 @@
             "repo": "proposal-composites",
             "stars": 286
           },
-          "title": "Proposal Composites"
+          "title": "Proposal Composites",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3247,7 +3462,8 @@
             "repo": "play-sound",
             "stars": 223
           },
-          "title": "Play Sound"
+          "title": "Play Sound",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3262,7 +3478,8 @@
             "repo": "telescope",
             "stars": 303
           },
-          "title": "Telescope"
+          "title": "Telescope",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3277,7 +3494,8 @@
             "repo": "vscode-css-variables",
             "stars": 196
           },
-          "title": "Vscode Css Variables"
+          "title": "Vscode Css Variables",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3287,12 +3505,13 @@
             "archived": false,
             "id": 816709809,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:01:05Z",
+            "last_commit": "2026-08-28T13:45:19Z",
             "owner": "portabletext",
             "repo": "editor",
             "stars": 269
           },
-          "title": "Editor"
+          "title": "Editor",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3307,7 +3526,8 @@
             "repo": "github-helpers",
             "stars": 41
           },
-          "title": "Github Helpers"
+          "title": "Github Helpers",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3322,7 +3542,8 @@
             "repo": "handsfree",
             "stars": 23
           },
-          "title": "Handsfree"
+          "title": "Handsfree",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3332,12 +3553,13 @@
             "archived": false,
             "id": 268045345,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T19:56:12Z",
+            "last_commit": "2026-08-27T22:49:23Z",
             "owner": "agiledigital-labs",
             "repo": "eslint-plugin-total-functions",
             "stars": 92
           },
-          "title": "Eslint Plugin Total Functions"
+          "title": "Eslint Plugin Total Functions",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3352,7 +3574,8 @@
             "repo": "eslint-plugin-json-schema-validator",
             "stars": 97
           },
-          "title": "Eslint Plugin Json Schema Validator"
+          "title": "Eslint Plugin Json Schema Validator",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3367,7 +3590,8 @@
             "repo": "eslint-plugin-eslint-comments",
             "stars": 98
           },
-          "title": "Eslint Plugin Eslint Comments"
+          "title": "Eslint Plugin Eslint Comments",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3382,7 +3606,8 @@
             "repo": "itertools-ts",
             "stars": 92
           },
-          "title": "Itertools Ts"
+          "title": "Itertools Ts",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         }
       ],
       "title": "71 Useful Javascript libraries"
@@ -3403,7 +3628,8 @@
             "repo": "howtheysre",
             "stars": 9802
           },
-          "title": "Howtheysre"
+          "title": "Howtheysre",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3416,9 +3642,10 @@
             "last_commit": "2026-03-27T02:54:28Z",
             "owner": "Tencent",
             "repo": "omi",
-            "stars": 13259
+            "stars": 13260
           },
-          "title": "Omi"
+          "title": "Omi",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3431,9 +3658,10 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14187
+            "stars": 14188
           },
-          "title": "Mind Expanding Books"
+          "title": "Mind Expanding Books",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3448,7 +3676,8 @@
             "repo": "TypeChat",
             "stars": 8680
           },
-          "title": "Type Chat"
+          "title": "Type Chat",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3458,12 +3687,13 @@
             "archived": false,
             "id": 813564769,
             "language": "Go",
-            "last_commit": "2026-08-27T05:05:07Z",
+            "last_commit": "2026-08-28T05:58:06Z",
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5015
+            "stars": 5016
           },
-          "title": "Whodb"
+          "title": "Whodb",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3473,12 +3703,13 @@
             "archived": false,
             "id": 190206784,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:25:10Z",
+            "last_commit": "2026-08-28T10:48:53Z",
             "owner": "autobase-tech",
             "repo": "autobase",
-            "stars": 4347
+            "stars": 4348
           },
-          "title": "Autobase"
+          "title": "Autobase",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3488,12 +3719,13 @@
             "archived": false,
             "id": 37448451,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:29:51Z",
+            "last_commit": "2026-08-28T15:33:07Z",
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38917
+            "stars": 38931
           },
-          "title": "Mattermost"
+          "title": "Mattermost",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3506,9 +3738,10 @@
             "last_commit": "2026-08-02T05:24:28Z",
             "owner": "responsively-org",
             "repo": "responsively-app",
-            "stars": 25138
+            "stars": 25141
           },
-          "title": "Responsively App"
+          "title": "Responsively App",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3521,9 +3754,10 @@
             "last_commit": "2025-08-27T18:02:36Z",
             "owner": "tc39",
             "repo": "proposal-type-annotations",
-            "stars": 4386
+            "stars": 4385
           },
-          "title": "Proposal Type Annotations"
+          "title": "Proposal Type Annotations",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3536,9 +3770,10 @@
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73906
+            "stars": 73928
           },
-          "title": "Front End Checklist"
+          "title": "Front End Checklist",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3551,9 +3786,10 @@
             "last_commit": "2026-07-15T15:55:09Z",
             "owner": "charlax",
             "repo": "professional-programming",
-            "stars": 51450
+            "stars": 51453
           },
-          "title": "Professional Programming"
+          "title": "Professional Programming",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3566,9 +3802,10 @@
             "last_commit": "2026-07-29T00:31:28Z",
             "owner": "spacedriveapp",
             "repo": "spacedrive",
-            "stars": 38862
+            "stars": 38868
           },
-          "title": "Spacedrive"
+          "title": "Spacedrive",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3581,9 +3818,10 @@
             "last_commit": "2025-03-23T17:55:46Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Performance-Checklist",
-            "stars": 17333
+            "stars": 17332
           },
-          "title": "Front End Performance Checklist"
+          "title": "Front End Performance Checklist",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3593,12 +3831,13 @@
             "archived": false,
             "id": 48246447,
             "language": "Rust",
-            "last_commit": "2026-06-10T13:06:01Z",
+            "last_commit": "2026-08-28T15:22:08Z",
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14751
+            "stars": 14752
           },
-          "title": "Static Analysis"
+          "title": "Static Analysis",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3611,9 +3850,10 @@
             "last_commit": "2026-08-04T07:18:33Z",
             "owner": "255kb",
             "repo": "stack-on-a-budget",
-            "stars": 12434
+            "stars": 12440
           },
-          "title": "Stack On A Budget"
+          "title": "Stack On A Budget",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3628,7 +3868,8 @@
             "repo": "MidJourney-Styles-and-Keywords-Reference",
             "stars": 12290
           },
-          "title": "Mid Journey Styles And Keywords Reference"
+          "title": "Mid Journey Styles And Keywords Reference",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3641,9 +3882,10 @@
             "last_commit": "2026-06-22T04:52:28Z",
             "owner": "danluu",
             "repo": "post-mortems",
-            "stars": 12275
+            "stars": 12279
           },
-          "title": "Post Mortems"
+          "title": "Post Mortems",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3656,9 +3898,10 @@
             "last_commit": "2026-08-27T11:11:04Z",
             "owner": "matheusfelipeog",
             "repo": "beautiful-docs",
-            "stars": 9522
+            "stars": 9524
           },
-          "title": "Beautiful Docs"
+          "title": "Beautiful Docs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3671,9 +3914,10 @@
             "last_commit": "2026-08-16T08:16:11Z",
             "owner": "greatfrontend",
             "repo": "top-javascript-interview-questions",
-            "stars": 9956
+            "stars": 9958
           },
-          "title": "Top Javascript Interview Questions"
+          "title": "Top Javascript Interview Questions",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3688,7 +3932,8 @@
             "repo": "DevSecOps",
             "stars": 6855
           },
-          "title": "Dev Sec Ops"
+          "title": "Dev Sec Ops",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3703,7 +3948,8 @@
             "repo": "portfolio-ideas",
             "stars": 6308
           },
-          "title": "Portfolio Ideas"
+          "title": "Portfolio Ideas",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3716,9 +3962,10 @@
             "last_commit": "2024-09-26T16:56:07Z",
             "owner": "APIs-guru",
             "repo": "graphql-apis",
-            "stars": 4692
+            "stars": 4693
           },
-          "title": "Graphql Apis"
+          "title": "Graphql Apis",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3731,9 +3978,10 @@
             "last_commit": "2025-02-02T14:26:58Z",
             "owner": "cheatsnake",
             "repo": "backend-cheats",
-            "stars": 5059
+            "stars": 5060
           },
-          "title": "Backend Cheats"
+          "title": "Backend Cheats",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3748,7 +3996,8 @@
             "repo": "nodejs-cli-apps-best-practices",
             "stars": 4111
           },
-          "title": "Nodejs Cli Apps Best Practices"
+          "title": "Nodejs Cli Apps Best Practices",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3761,9 +4010,10 @@
             "last_commit": "2026-06-30T07:21:35Z",
             "owner": "webpro",
             "repo": "programming-principles",
-            "stars": 3094
+            "stars": 3095
           },
-          "title": "Programming Principles"
+          "title": "Programming Principles",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3776,9 +4026,10 @@
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87669
+            "stars": 87690
           },
-          "title": "System Design"
+          "title": "System Design",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3791,9 +4042,10 @@
             "last_commit": "2026-08-12T06:35:57Z",
             "owner": "Ebazhanov",
             "repo": "linkedin-skill-assessments-quizzes",
-            "stars": 28811
+            "stars": 28810
           },
-          "title": "Linkedin Skill Assessments Quizzes"
+          "title": "Linkedin Skill Assessments Quizzes",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3803,12 +4055,13 @@
             "archived": false,
             "id": 586920414,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:27:11Z",
+            "last_commit": "2026-08-28T15:35:17Z",
             "owner": "jdx",
             "repo": "mise",
-            "stars": 33112
+            "stars": 33168
           },
-          "title": "Mise"
+          "title": "Mise",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3821,9 +4074,10 @@
             "last_commit": "2026-08-23T09:59:28Z",
             "owner": "subframe7536",
             "repo": "maple-font",
-            "stars": 28460
+            "stars": 28492
           },
-          "title": "Maple Font"
+          "title": "Maple Font",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3836,9 +4090,10 @@
             "last_commit": "2026-04-15T17:10:28Z",
             "owner": "openai",
             "repo": "swarm",
-            "stars": 21926
+            "stars": 21929
           },
-          "title": "Swarm"
+          "title": "Swarm",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3851,9 +4106,10 @@
             "last_commit": "2026-08-11T14:09:34Z",
             "owner": "magicuidesign",
             "repo": "magicui",
-            "stars": 22084
+            "stars": 22091
           },
-          "title": "Magicui"
+          "title": "Magicui",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3866,9 +4122,10 @@
             "last_commit": "2025-06-27T01:51:16Z",
             "owner": "mikeroyal",
             "repo": "Self-Hosting-Guide",
-            "stars": 22630
+            "stars": 22641
           },
-          "title": "Self Hosting Guide"
+          "title": "Self Hosting Guide",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3881,9 +4138,10 @@
             "last_commit": "2026-03-27T23:10:14Z",
             "owner": "githubnext",
             "repo": "monaspace",
-            "stars": 19586
+            "stars": 19590
           },
-          "title": "Monaspace"
+          "title": "Monaspace",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3896,9 +4154,10 @@
             "last_commit": "2026-08-14T09:03:57Z",
             "owner": "asciinema",
             "repo": "asciinema",
-            "stars": 17738
+            "stars": 17743
           },
-          "title": "Asciinema"
+          "title": "Asciinema",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3913,7 +4172,8 @@
             "repo": "flair",
             "stars": 14384
           },
-          "title": "Flair"
+          "title": "Flair",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3923,12 +4183,13 @@
             "archived": false,
             "id": 390536799,
             "language": "Python",
-            "last_commit": "2026-08-23T20:06:40Z",
+            "last_commit": "2026-08-28T03:43:52Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14096
+            "stars": 14101
           },
-          "title": "Open Clip"
+          "title": "Open Clip",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3938,12 +4199,13 @@
             "archived": false,
             "id": 306366900,
             "language": "Go",
-            "last_commit": "2026-08-27T14:15:25Z",
+            "last_commit": "2026-08-28T13:40:52Z",
             "owner": "casdoor",
             "repo": "casdoor",
-            "stars": 14281
+            "stars": 14284
           },
-          "title": "Casdoor"
+          "title": "Casdoor",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3956,9 +4218,10 @@
             "last_commit": "2026-05-31T01:26:41Z",
             "owner": "The-Pocket",
             "repo": "PocketFlow-Tutorial-Codebase-Knowledge",
-            "stars": 12632
+            "stars": 12633
           },
-          "title": "Pocket Flow Tutorial Codebase Knowledge"
+          "title": "Pocket Flow Tutorial Codebase Knowledge",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3973,7 +4236,8 @@
             "repo": "cognitive-load",
             "stars": 12490
           },
-          "title": "Cognitive Load"
+          "title": "Cognitive Load",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3986,9 +4250,10 @@
             "last_commit": "2024-08-29T04:56:02Z",
             "owner": "The-Cool-Coders",
             "repo": "Project-Ideas-And-Resources",
-            "stars": 16369
+            "stars": 16378
           },
-          "title": "Project Ideas And Resources"
+          "title": "Project Ideas And Resources",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -3998,12 +4263,13 @@
             "archived": false,
             "id": 598667202,
             "language": "Zig",
-            "last_commit": "2026-08-27T14:10:24Z",
+            "last_commit": "2026-08-28T15:07:00Z",
             "owner": "lightpanda-io",
             "repo": "browser",
-            "stars": 34274
+            "stars": 34291
           },
-          "title": "Browser"
+          "title": "Browser",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4018,7 +4284,8 @@
             "repo": "lucia",
             "stars": 10450
           },
-          "title": "Lucia"
+          "title": "Lucia",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4031,9 +4298,10 @@
             "last_commit": "2026-07-15T09:47:26Z",
             "owner": "ai-collection",
             "repo": "ai-collection",
-            "stars": 9129
+            "stars": 9133
           },
-          "title": "Ai Collection"
+          "title": "Ai Collection",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4048,7 +4316,8 @@
             "repo": "llrt",
             "stars": 8793
           },
-          "title": "Llrt"
+          "title": "Llrt",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4063,7 +4332,8 @@
             "repo": "icones",
             "stars": 7442
           },
-          "title": "Icones"
+          "title": "Icones",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4078,7 +4348,8 @@
             "repo": "serge",
             "stars": 5714
           },
-          "title": "Serge"
+          "title": "Serge",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4093,7 +4364,8 @@
             "repo": "Clipboard",
             "stars": 5891
           },
-          "title": "Clipboard"
+          "title": "Clipboard",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4108,7 +4380,8 @@
             "repo": "markwhen",
             "stars": 4870
           },
-          "title": "Markwhen"
+          "title": "Markwhen",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4121,9 +4394,10 @@
             "last_commit": "2026-08-24T20:39:08Z",
             "owner": "ombharatiya",
             "repo": "FAANG-Coding-Interview-Questions",
-            "stars": 5819
+            "stars": 5826
           },
-          "title": "Faang Coding Interview Questions"
+          "title": "Faang Coding Interview Questions",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4136,9 +4410,10 @@
             "last_commit": "2026-03-03T14:22:47Z",
             "owner": "hunvreus",
             "repo": "devpush",
-            "stars": 4744
+            "stars": 4746
           },
-          "title": "Devpush"
+          "title": "Devpush",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4151,9 +4426,10 @@
             "last_commit": "2026-07-14T22:13:19Z",
             "owner": "vercel",
             "repo": "geist-font",
-            "stars": 3602
+            "stars": 3603
           },
-          "title": "Geist Font"
+          "title": "Geist Font",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4168,7 +4444,8 @@
             "repo": "node-modules-inspector",
             "stars": 2930
           },
-          "title": "Node Modules Inspector"
+          "title": "Node Modules Inspector",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4183,7 +4460,8 @@
             "repo": "proposal-record-tuple",
             "stars": 2528
           },
-          "title": "Proposal Record Tuple"
+          "title": "Proposal Record Tuple",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4196,9 +4474,10 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366342
+            "stars": 366530
           },
-          "title": "System Design Primer"
+          "title": "System Design Primer",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4211,9 +4490,10 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162177
+            "stars": 162176
           },
-          "title": "The Art Of Command Line"
+          "title": "The Art Of Command Line",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4226,9 +4506,10 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164685
+            "stars": 164700
           },
-          "title": "Stable Diffusion Webui"
+          "title": "Stable Diffusion Webui",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4238,12 +4519,13 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-27T14:29:38Z",
+            "last_commit": "2026-08-28T15:22:03Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164503
+            "stars": 164561
           },
-          "title": "Transformers"
+          "title": "Transformers",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4253,12 +4535,13 @@
             "archived": false,
             "id": 196701619,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:53:37Z",
+            "last_commit": "2026-08-27T16:39:08Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110597
+            "stars": 110621
           },
-          "title": "Tauri"
+          "title": "Tauri",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4271,9 +4554,10 @@
             "last_commit": "2026-08-19T19:36:22Z",
             "owner": "microsoft",
             "repo": "markitdown",
-            "stars": 176593
+            "stars": 176805
           },
-          "title": "Markitdown"
+          "title": "Markitdown",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4286,9 +4570,10 @@
             "last_commit": "2026-08-09T22:50:11Z",
             "owner": "nektos",
             "repo": "act",
-            "stars": 71660
+            "stars": 71680
           },
-          "title": "Act"
+          "title": "Act",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4301,9 +4586,10 @@
             "last_commit": "2026-03-23T08:52:01Z",
             "owner": "localstack",
             "repo": "localstack",
-            "stars": 65142
+            "stars": 65143
           },
-          "title": "Localstack"
+          "title": "Localstack",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4316,9 +4602,10 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68162
+            "stars": 68175
           },
-          "title": "Open Interpreter"
+          "title": "Open Interpreter",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4331,9 +4618,10 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52558
+            "stars": 52582
           },
-          "title": "Fooocus"
+          "title": "Fooocus",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4343,12 +4631,13 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:00:46Z",
+            "last_commit": "2026-08-28T13:43:09Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39515
+            "stars": 39527
           },
-          "title": "Polars"
+          "title": "Polars",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4361,9 +4650,10 @@
             "last_commit": "2026-08-27T05:17:52Z",
             "owner": "datalab-to",
             "repo": "marker",
-            "stars": 39316
+            "stars": 39342
           },
-          "title": "Marker"
+          "title": "Marker",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4376,9 +4666,10 @@
             "last_commit": "2026-08-02T00:01:16Z",
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 31873
+            "stars": 31893
           },
-          "title": "Delta"
+          "title": "Delta",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4391,9 +4682,10 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27270
+            "stars": 27272
           },
-          "title": "Hacker Laws"
+          "title": "Hacker Laws",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4403,12 +4695,13 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-27T14:22:00Z",
+            "last_commit": "2026-08-28T14:05:46Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28638
+            "stars": 28658
           },
-          "title": "Pydantic"
+          "title": "Pydantic",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4418,12 +4711,13 @@
             "archived": false,
             "id": 72477752,
             "language": "Go",
-            "last_commit": "2026-08-27T14:19:31Z",
+            "last_commit": "2026-08-28T15:32:41Z",
             "owner": "pulumi",
             "repo": "pulumi",
-            "stars": 25616
+            "stars": 25622
           },
-          "title": "Pulumi"
+          "title": "Pulumi",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4433,12 +4727,13 @@
             "archived": false,
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-27T13:38:19Z",
+            "last_commit": "2026-08-28T14:53:59Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21264
+            "stars": 21271
           },
-          "title": "Vitess"
+          "title": "Vitess",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4453,7 +4748,8 @@
             "repo": "rye",
             "stars": 14164
           },
-          "title": "Rye"
+          "title": "Rye",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4463,12 +4759,13 @@
             "archived": false,
             "id": 615403340,
             "language": "Python",
-            "last_commit": "2026-08-27T08:06:21Z",
+            "last_commit": "2026-08-28T12:53:04Z",
             "owner": "dottxt-ai",
             "repo": "outlines",
-            "stars": 15702
+            "stars": 15706
           },
-          "title": "Outlines"
+          "title": "Outlines",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4478,12 +4775,13 @@
             "archived": false,
             "id": 693187866,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:26:03Z",
+            "last_commit": "2026-08-28T10:24:54Z",
             "owner": "rolldown",
             "repo": "rolldown",
-            "stars": 13915
+            "stars": 13918
           },
-          "title": "Rolldown"
+          "title": "Rolldown",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4496,9 +4794,10 @@
             "last_commit": "2026-08-22T21:56:26Z",
             "owner": "orhun",
             "repo": "git-cliff",
-            "stars": 12164
+            "stars": 12167
           },
-          "title": "Git Cliff"
+          "title": "Git Cliff",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4511,9 +4810,10 @@
             "last_commit": "2026-08-27T13:48:19Z",
             "owner": "speechbrain",
             "repo": "speechbrain",
-            "stars": 11785
+            "stars": 11788
           },
-          "title": "Speechbrain"
+          "title": "Speechbrain",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4526,9 +4826,10 @@
             "last_commit": "2026-02-10T20:52:42Z",
             "owner": "modin-project",
             "repo": "modin",
-            "stars": 10391
+            "stars": 10392
           },
-          "title": "Modin"
+          "title": "Modin",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4541,9 +4842,10 @@
             "last_commit": "2026-08-22T00:23:03Z",
             "owner": "pressly",
             "repo": "goose",
-            "stars": 11368
+            "stars": 11377
           },
-          "title": "Goose"
+          "title": "Goose",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4553,12 +4855,13 @@
             "archived": false,
             "id": 708266011,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:22:42Z",
+            "last_commit": "2026-08-28T14:39:22Z",
             "owner": "Automattic",
             "repo": "harper",
-            "stars": 14746
+            "stars": 14764
           },
-          "title": "Harper"
+          "title": "Harper",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4568,12 +4871,13 @@
             "archived": false,
             "id": 229959677,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:47:28Z",
+            "last_commit": "2026-08-28T12:15:21Z",
             "owner": "dbgate",
             "repo": "dbgate",
             "stars": 7287
           },
-          "title": "Dbgate"
+          "title": "Dbgate",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4583,12 +4887,13 @@
             "archived": false,
             "id": 381857226,
             "language": "Java",
-            "last_commit": "2026-08-27T13:22:51Z",
+            "last_commit": "2026-08-28T15:16:35Z",
             "owner": "microsoft",
             "repo": "typespec",
-            "stars": 5836
+            "stars": 5837
           },
-          "title": "Typespec"
+          "title": "Typespec",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4601,9 +4906,10 @@
             "last_commit": "2026-01-25T20:23:21Z",
             "owner": "tc39",
             "repo": "proposal-signals",
-            "stars": 4174
+            "stars": 4175
           },
-          "title": "Proposal Signals"
+          "title": "Proposal Signals",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4613,12 +4919,13 @@
             "archived": false,
             "id": 138776049,
             "language": "C++",
-            "last_commit": "2026-08-27T01:14:37Z",
+            "last_commit": "2026-08-28T01:25:18Z",
             "owner": "sorbet",
             "repo": "sorbet",
             "stars": 3799
           },
-          "title": "Sorbet"
+          "title": "Sorbet",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4631,9 +4938,10 @@
             "last_commit": "2026-08-19T09:40:38Z",
             "owner": "adrienverge",
             "repo": "yamllint",
-            "stars": 3450
+            "stars": 3451
           },
-          "title": "Yamllint"
+          "title": "Yamllint",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4646,9 +4954,10 @@
             "last_commit": "2025-10-05T23:25:42Z",
             "owner": "lerocha",
             "repo": "chinook-database",
-            "stars": 2589
+            "stars": 2590
           },
-          "title": "Chinook Database"
+          "title": "Chinook Database",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4663,7 +4972,8 @@
             "repo": "backend-best-practices",
             "stars": 2368
           },
-          "title": "Backend Best Practices"
+          "title": "Backend Best Practices",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4676,9 +4986,10 @@
             "last_commit": "2026-08-25T10:47:31Z",
             "owner": "Jieyab89",
             "repo": "OSINT-Cheat-sheet",
-            "stars": 2182
+            "stars": 2187
           },
-          "title": "Osint Cheat Sheet"
+          "title": "Osint Cheat Sheet",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4688,12 +4999,13 @@
             "archived": false,
             "id": 594366298,
             "language": "HTML",
-            "last_commit": "2026-08-27T13:07:11Z",
+            "last_commit": "2026-08-27T19:15:55Z",
             "owner": "wdhdev",
             "repo": "free-for-life",
-            "stars": 1695
+            "stars": 1698
           },
-          "title": "Free For Life"
+          "title": "Free For Life",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4703,12 +5015,13 @@
             "archived": false,
             "id": 300975564,
             "language": "Rust",
-            "last_commit": "2026-08-24T19:53:59Z",
+            "last_commit": "2026-08-27T23:49:45Z",
             "owner": "MobileFirstLLC",
             "repo": "social-media-hacker-list",
-            "stars": 2289
+            "stars": 2290
           },
-          "title": "Social Media Hacker List"
+          "title": "Social Media Hacker List",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4723,7 +5036,8 @@
             "repo": "rails-pg-extras",
             "stars": 1247
           },
-          "title": "Rails Pg Extras"
+          "title": "Rails Pg Extras",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4738,7 +5052,8 @@
             "repo": "system-design-patterns",
             "stars": 1261
           },
-          "title": "System Design Patterns"
+          "title": "System Design Patterns",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4753,7 +5068,8 @@
             "repo": "mega-interview-guide",
             "stars": 1103
           },
-          "title": "Mega Interview Guide"
+          "title": "Mega Interview Guide",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4763,12 +5079,13 @@
             "archived": false,
             "id": 831205985,
             "language": "Go",
-            "last_commit": "2025-11-21T23:53:15Z",
+            "last_commit": "2026-08-28T06:40:54Z",
             "owner": "eduardolat",
             "repo": "pgbackweb",
-            "stars": 2623
+            "stars": 2621
           },
-          "title": "Pgbackweb"
+          "title": "Pgbackweb",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4778,12 +5095,13 @@
             "archived": false,
             "id": 296566912,
             "language": null,
-            "last_commit": "2026-08-23T17:34:13Z",
+            "last_commit": "2026-08-28T07:26:23Z",
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
             "stars": 2545
           },
-          "title": "Open Sustainable Technology"
+          "title": "Open Sustainable Technology",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4798,7 +5116,8 @@
             "repo": "copenhagen",
             "stars": 2119
           },
-          "title": "Copenhagen"
+          "title": "Copenhagen",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4811,9 +5130,10 @@
             "last_commit": "2026-04-02T01:36:15Z",
             "owner": "arthurfiorette",
             "repo": "proposal-try-operator",
-            "stars": 2036
+            "stars": 2037
           },
-          "title": "Proposal Try Operator"
+          "title": "Proposal Try Operator",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4828,7 +5148,8 @@
             "repo": "rejected-github-profile-achievements",
             "stars": 1553
           },
-          "title": "Rejected Github Profile Achievements"
+          "title": "Rejected Github Profile Achievements",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4843,7 +5164,8 @@
             "repo": "deutschland",
             "stars": 1416
           },
-          "title": "Deutschland"
+          "title": "Deutschland",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4858,7 +5180,8 @@
             "repo": "Rotten-Scripts",
             "stars": 1546
           },
-          "title": "Rotten Scripts"
+          "title": "Rotten Scripts",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4873,7 +5196,8 @@
             "repo": "shellspec",
             "stars": 1393
           },
-          "title": "Shellspec"
+          "title": "Shellspec",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4888,7 +5212,8 @@
             "repo": "css-extras",
             "stars": 974
           },
-          "title": "Css Extras"
+          "title": "Css Extras",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4903,7 +5228,8 @@
             "repo": "todo-to-issue-action",
             "stars": 800
           },
-          "title": "Todo To Issue Action"
+          "title": "Todo To Issue Action",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4918,7 +5244,8 @@
             "repo": "plpgsql_check",
             "stars": 777
           },
-          "title": "Plpgsql Check"
+          "title": "Plpgsql Check",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4931,9 +5258,10 @@
             "last_commit": "2026-05-15T10:14:51Z",
             "owner": "xoraus",
             "repo": "CrackingTheSQLInterview",
-            "stars": 873
+            "stars": 874
           },
-          "title": "Cracking The Sqlinterview"
+          "title": "Cracking The Sqlinterview",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4946,9 +5274,10 @@
             "last_commit": "2026-08-17T05:31:10Z",
             "owner": "jellydn",
             "repo": "typescript-tips",
-            "stars": 439
+            "stars": 440
           },
-          "title": "Typescript Tips"
+          "title": "Typescript Tips",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4963,7 +5292,8 @@
             "repo": "eop",
             "stars": 360
           },
-          "title": "Eop"
+          "title": "Eop",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4978,7 +5308,8 @@
             "repo": "playbook",
             "stars": 266
           },
-          "title": "Playbook"
+          "title": "Playbook",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -4993,7 +5324,8 @@
             "repo": "apiparrot-desktop-releases",
             "stars": 244
           },
-          "title": "Apiparrot Desktop Releases"
+          "title": "Apiparrot Desktop Releases",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5008,7 +5340,8 @@
             "repo": "recommendations-for-engineers",
             "stars": 163
           },
-          "title": "Recommendations For Engineers"
+          "title": "Recommendations For Engineers",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5023,7 +5356,8 @@
             "repo": "proposal-async-context",
             "stars": 874
           },
-          "title": "Proposal Async Context"
+          "title": "Proposal Async Context",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5033,12 +5367,13 @@
             "archived": false,
             "id": 223722037,
             "language": "OCaml",
-            "last_commit": "2026-08-27T12:27:43Z",
+            "last_commit": "2026-08-28T14:25:14Z",
             "owner": "panglesd",
             "repo": "slipshow",
             "stars": 887
           },
-          "title": "Slipshow"
+          "title": "Slipshow",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5048,12 +5383,13 @@
             "archived": false,
             "id": 531038347,
             "language": null,
-            "last_commit": "2026-08-27T09:41:14Z",
+            "last_commit": "2026-08-28T11:21:29Z",
             "owner": "trackawesomelist",
             "repo": "trackawesomelist",
             "stars": 668
           },
-          "title": "Trackawesomelist"
+          "title": "Trackawesomelist",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5068,7 +5404,8 @@
             "repo": "metatype",
             "stars": 407
           },
-          "title": "Metatype"
+          "title": "Metatype",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5083,7 +5420,8 @@
             "repo": "linters",
             "stars": 351
           },
-          "title": "Linters"
+          "title": "Linters",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5098,7 +5436,8 @@
             "repo": "brainworkshop",
             "stars": 353
           },
-          "title": "Brainworkshop"
+          "title": "Brainworkshop",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5108,12 +5447,13 @@
             "archived": false,
             "id": 756618641,
             "language": null,
-            "last_commit": "2026-08-27T10:54:29Z",
+            "last_commit": "2026-08-28T04:29:04Z",
             "owner": "dbcodeio",
             "repo": "public",
-            "stars": 338
+            "stars": 340
           },
-          "title": "Public"
+          "title": "Public",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5128,7 +5468,8 @@
             "repo": "en2bg4term",
             "stars": 217
           },
-          "title": "En Bg Term"
+          "title": "En Bg Term",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5143,7 +5484,8 @@
             "repo": "InnerSourcePatterns",
             "stars": 850
           },
-          "title": "Inner Source Patterns"
+          "title": "Inner Source Patterns",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5158,7 +5500,8 @@
             "repo": "playwright-adventures",
             "stars": 60
           },
-          "title": "Playwright Adventures"
+          "title": "Playwright Adventures",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5173,7 +5516,8 @@
             "repo": "free-news-datasets",
             "stars": 51
           },
-          "title": "Free News Datasets"
+          "title": "Free News Datasets",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5188,7 +5532,8 @@
             "repo": "advent-of-code",
             "stars": 1
           },
-          "title": "Advent Of Code"
+          "title": "Advent Of Code",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         }
       ],
       "title": "112 Other libraries and resources"
@@ -5207,9 +5552,10 @@
             "last_commit": "2026-03-02T12:50:21Z",
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35375
+            "stars": 35381
           },
-          "title": "Awesome Cto"
+          "title": "Awesome Cto",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5222,9 +5568,10 @@
             "last_commit": "2026-02-16T18:32:29Z",
             "owner": "ashishps1",
             "repo": "awesome-system-design-resources",
-            "stars": 40980
+            "stars": 41004
           },
-          "title": "Awesome System Design Resources"
+          "title": "Awesome System Design Resources",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5237,9 +5584,10 @@
             "last_commit": "2023-06-18T22:05:28Z",
             "owner": "Igglybuff",
             "repo": "awesome-piracy",
-            "stars": 26923
+            "stars": 26920
           },
-          "title": "Awesome Piracy"
+          "title": "Awesome Piracy",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5252,9 +5600,10 @@
             "last_commit": "2026-04-28T16:03:25Z",
             "owner": "alexpate",
             "repo": "awesome-design-systems",
-            "stars": 25799
+            "stars": 25814
           },
-          "title": "Awesome Design Systems"
+          "title": "Awesome Design Systems",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5267,9 +5616,10 @@
             "last_commit": "2026-08-24T03:57:40Z",
             "owner": "birobirobiro",
             "repo": "awesome-shadcn-ui",
-            "stars": 20390
+            "stars": 20400
           },
-          "title": "Awesome Shadcn Ui"
+          "title": "Awesome Shadcn Ui",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5282,9 +5632,10 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15241
+            "stars": 15248
           },
-          "title": "Awesome Creative Coding"
+          "title": "Awesome Creative Coding",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5294,12 +5645,13 @@
             "archived": false,
             "id": 104957153,
             "language": null,
-            "last_commit": "2026-08-25T00:05:20Z",
+            "last_commit": "2026-08-27T14:48:41Z",
             "owner": "nestjs",
             "repo": "awesome-nestjs",
-            "stars": 13118
+            "stars": 13120
           },
-          "title": "Awesome Nestjs"
+          "title": "Awesome Nestjs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5312,9 +5664,10 @@
             "last_commit": "2026-08-26T22:19:46Z",
             "owner": "heynickc",
             "repo": "awesome-ddd",
-            "stars": 12345
+            "stars": 12346
           },
-          "title": "Awesome Ddd"
+          "title": "Awesome Ddd",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5327,9 +5680,10 @@
             "last_commit": "2026-08-10T08:44:41Z",
             "owner": "edoardottt",
             "repo": "awesome-hacker-search-engines",
-            "stars": 11091
+            "stars": 11099
           },
-          "title": "Awesome Hacker Search Engines"
+          "title": "Awesome Hacker Search Engines",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5342,9 +5696,10 @@
             "last_commit": "2026-08-11T04:36:24Z",
             "owner": "kyrolabs",
             "repo": "awesome-langchain",
-            "stars": 9509
+            "stars": 9510
           },
-          "title": "Awesome Langchain"
+          "title": "Awesome Langchain",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5359,7 +5714,8 @@
             "repo": "awesome-wpo",
             "stars": 9053
           },
-          "title": "Awesome Wpo"
+          "title": "Awesome Wpo",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5372,9 +5728,10 @@
             "last_commit": "2026-03-03T13:55:49Z",
             "owner": "greatfrontend",
             "repo": "awesome-front-end-system-design",
-            "stars": 8451
+            "stars": 8452
           },
-          "title": "Awesome Front End System Design"
+          "title": "Awesome Front End System Design",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5389,7 +5746,8 @@
             "repo": "awesome-developer-streams",
             "stars": 8021
           },
-          "title": "Awesome Developer Streams"
+          "title": "Awesome Developer Streams",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5402,9 +5760,10 @@
             "last_commit": "2025-08-19T03:49:26Z",
             "owner": "ashishps1",
             "repo": "awesome-behavioral-interviews",
-            "stars": 8749
+            "stars": 8753
           },
-          "title": "Awesome Behavioral Interviews"
+          "title": "Awesome Behavioral Interviews",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5417,9 +5776,10 @@
             "last_commit": "2026-08-05T18:42:59Z",
             "owner": "JoseDeFreitas",
             "repo": "awesome-youtubers",
-            "stars": 7755
+            "stars": 7757
           },
-          "title": "Awesome Youtubers"
+          "title": "Awesome Youtubers",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5432,9 +5792,10 @@
             "last_commit": "2026-02-15T18:05:30Z",
             "owner": "sindresorhus",
             "repo": "awesome-chatgpt",
-            "stars": 6387
+            "stars": 6390
           },
-          "title": "Awesome Chatgpt"
+          "title": "Awesome Chatgpt",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5447,9 +5808,10 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5921
+            "stars": 5922
           },
-          "title": "Awesome Llmops"
+          "title": "Awesome Llmops",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5462,9 +5824,10 @@
             "last_commit": "2024-10-30T07:00:24Z",
             "owner": "awesome-css-group",
             "repo": "awesome-css",
-            "stars": 5619
+            "stars": 5620
           },
-          "title": "Awesome Css"
+          "title": "Awesome Css",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5477,9 +5840,10 @@
             "last_commit": "2025-05-07T23:28:38Z",
             "owner": "dzharii",
             "repo": "awesome-elasticsearch",
-            "stars": 5055
+            "stars": 5056
           },
-          "title": "Awesome Elasticsearch"
+          "title": "Awesome Elasticsearch",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5492,9 +5856,10 @@
             "last_commit": "2023-05-03T02:45:22Z",
             "owner": "nichtdax",
             "repo": "awesome-totally-open-chatgpt",
-            "stars": 4785
+            "stars": 4787
           },
-          "title": "Awesome Totally Open Chatgpt"
+          "title": "Awesome Totally Open Chatgpt",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5509,7 +5874,8 @@
             "repo": "awesome-eslint",
             "stars": 4751
           },
-          "title": "Awesome Eslint"
+          "title": "Awesome Eslint",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5522,9 +5888,10 @@
             "last_commit": "2025-11-13T12:41:43Z",
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4606
+            "stars": 4607
           },
-          "title": "Awesome Ipfs"
+          "title": "Awesome Ipfs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5534,12 +5901,13 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-27T01:03:19Z",
+            "last_commit": "2026-08-28T02:24:47Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4662
+            "stars": 4663
           },
-          "title": "Awesome Jupyter"
+          "title": "Awesome Jupyter",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5554,7 +5922,8 @@
             "repo": "awesome-deno",
             "stars": 4407
           },
-          "title": "Awesome Deno"
+          "title": "Awesome Deno",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5569,7 +5938,8 @@
             "repo": "awesome-api-devtools",
             "stars": 4016
           },
-          "title": "Awesome Api Devtools"
+          "title": "Awesome Api Devtools",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5584,7 +5954,8 @@
             "repo": "awesome-landing-page",
             "stars": 3816
           },
-          "title": "Awesome Landing Page"
+          "title": "Awesome Landing Page",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5597,9 +5968,10 @@
             "last_commit": "2026-05-01T18:32:56Z",
             "owner": "arainho",
             "repo": "awesome-api-security",
-            "stars": 3861
+            "stars": 3862
           },
-          "title": "Awesome Api Security"
+          "title": "Awesome Api Security",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5612,9 +5984,10 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3529
+            "stars": 3532
           },
-          "title": "Awesome Learn Gamedev"
+          "title": "Awesome Learn Gamedev",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5627,9 +6000,10 @@
             "last_commit": "2026-08-16T16:08:47Z",
             "owner": "Ravencentric",
             "repo": "awesome-arr",
-            "stars": 4238
+            "stars": 4241
           },
-          "title": "Awesome Arr"
+          "title": "Awesome Arr",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5642,9 +6016,10 @@
             "last_commit": "2026-08-14T17:07:08Z",
             "owner": "lirantal",
             "repo": "awesome-nodejs-security",
-            "stars": 3028
+            "stars": 3030
           },
-          "title": "Awesome Nodejs Security"
+          "title": "Awesome Nodejs Security",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5657,9 +6032,10 @@
             "last_commit": "2025-08-20T12:06:17Z",
             "owner": "pawelborkar",
             "repo": "awesome-repos",
-            "stars": 3226
+            "stars": 3227
           },
-          "title": "Awesome Repos"
+          "title": "Awesome Repos",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5672,9 +6048,10 @@
             "last_commit": "2026-08-26T20:19:14Z",
             "owner": "0xor0ne",
             "repo": "awesome-list",
-            "stars": 4069
+            "stars": 4074
           },
-          "title": "Awesome List"
+          "title": "Awesome List",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5687,9 +6064,10 @@
             "last_commit": "2026-08-26T18:19:36Z",
             "owner": "taishi-i",
             "repo": "awesome-ChatGPT-repositories",
-            "stars": 3214
+            "stars": 3217
           },
-          "title": "Awesome Chat Gpt Repositories"
+          "title": "Awesome Chat Gpt Repositories",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5702,9 +6080,10 @@
             "last_commit": "2026-08-05T15:19:48Z",
             "owner": "engineering-management",
             "repo": "awesome-engineering-management",
-            "stars": 2760
+            "stars": 2759
           },
-          "title": "Awesome Engineering Management"
+          "title": "Awesome Engineering Management",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5717,9 +6096,10 @@
             "last_commit": "2026-01-04T03:51:47Z",
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73552
+            "stars": 73571
           },
-          "title": "Awesome Scalability"
+          "title": "Awesome Scalability",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5732,9 +6112,10 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40668
+            "stars": 40674
           },
-          "title": "Awesome Cursorrules"
+          "title": "Awesome Cursorrules",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5744,12 +6125,13 @@
             "archived": false,
             "id": 28387406,
             "language": null,
-            "last_commit": "2026-08-19T09:58:40Z",
+            "last_commit": "2026-08-27T15:09:19Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34997
+            "stars": 35012
           },
-          "title": "Awesome Sysadmin"
+          "title": "Awesome Sysadmin",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5762,9 +6144,10 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27293
+            "stars": 27295
           },
-          "title": "Awesome Llm"
+          "title": "Awesome Llm",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5777,9 +6160,10 @@
             "last_commit": "2026-08-11T01:13:17Z",
             "owner": "anderspitman",
             "repo": "awesome-tunneling",
-            "stars": 21666
+            "stars": 21674
           },
-          "title": "Awesome Tunneling"
+          "title": "Awesome Tunneling",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5792,9 +6176,10 @@
             "last_commit": "2025-09-03T17:43:01Z",
             "owner": "RunaCapital",
             "repo": "awesome-oss-alternatives",
-            "stars": 19569
+            "stars": 19581
           },
-          "title": "Awesome Oss Alternatives"
+          "title": "Awesome Oss Alternatives",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5809,7 +6194,8 @@
             "repo": "awesome-tensorflow",
             "stars": 17550
           },
-          "title": "Awesome Tensorflow"
+          "title": "Awesome Tensorflow",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5822,9 +6208,10 @@
             "last_commit": "2024-07-04T18:17:39Z",
             "owner": "gztchan",
             "repo": "awesome-design",
-            "stars": 17455
+            "stars": 17460
           },
-          "title": "Awesome Design"
+          "title": "Awesome Design",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5837,9 +6224,10 @@
             "last_commit": "2025-08-28T14:43:14Z",
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13462
+            "stars": 13464
           },
-          "title": "Awesome Sre"
+          "title": "Awesome Sre",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5852,9 +6240,10 @@
             "last_commit": "2026-08-14T08:36:36Z",
             "owner": "rossant",
             "repo": "awesome-math",
-            "stars": 16185
+            "stars": 16191
           },
-          "title": "Awesome Math"
+          "title": "Awesome Math",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5867,9 +6256,10 @@
             "last_commit": "2026-05-21T14:10:48Z",
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12063
+            "stars": 12064
           },
-          "title": "Awesome Postgres"
+          "title": "Awesome Postgres",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5882,9 +6272,10 @@
             "last_commit": "2025-01-10T15:39:37Z",
             "owner": "theanalyst",
             "repo": "awesome-distributed-systems",
-            "stars": 12332
+            "stars": 12335
           },
-          "title": "Awesome Distributed Systems"
+          "title": "Awesome Distributed Systems",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5897,9 +6288,10 @@
             "last_commit": "2026-02-27T13:35:34Z",
             "owner": "madd86",
             "repo": "awesome-system-design",
-            "stars": 12434
+            "stars": 12436
           },
-          "title": "Awesome System Design"
+          "title": "Awesome System Design",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5912,9 +6304,10 @@
             "last_commit": "2024-08-29T02:14:04Z",
             "owner": "pingcap",
             "repo": "awesome-database-learning",
-            "stars": 10980
+            "stars": 10987
           },
-          "title": "Awesome Database Learning"
+          "title": "Awesome Database Learning",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5927,9 +6320,10 @@
             "last_commit": "2026-07-16T11:04:37Z",
             "owner": "mehdihadeli",
             "repo": "awesome-software-architecture",
-            "stars": 11599
+            "stars": 11600
           },
-          "title": "Awesome Software Architecture"
+          "title": "Awesome Software Architecture",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5944,7 +6338,8 @@
             "repo": "awesome-cold-showers",
             "stars": 7345
           },
-          "title": "Awesome Cold Showers"
+          "title": "Awesome Cold Showers",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5959,7 +6354,8 @@
             "repo": "awesome-learning-resources",
             "stars": 5765
           },
-          "title": "Awesome Learning Resources"
+          "title": "Awesome Learning Resources",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5974,7 +6370,8 @@
             "repo": "awesome-uses",
             "stars": 5299
           },
-          "title": "Awesome Uses"
+          "title": "Awesome Uses",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -5989,7 +6386,8 @@
             "repo": "awesome-github-profile-readme-templates",
             "stars": 5311
           },
-          "title": "Awesome Github Profile Readme Templates"
+          "title": "Awesome Github Profile Readme Templates",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6002,9 +6400,10 @@
             "last_commit": "2026-08-10T05:18:51Z",
             "owner": "hemanth",
             "repo": "awesome-pwa",
-            "stars": 4898
+            "stars": 4900
           },
-          "title": "Awesome Pwa"
+          "title": "Awesome Pwa",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6017,9 +6416,10 @@
             "last_commit": "2026-04-17T18:23:06Z",
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4454
+            "stars": 4455
           },
-          "title": "Awesome Newsletters"
+          "title": "Awesome Newsletters",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6034,7 +6434,8 @@
             "repo": "awesome-k8s-resources",
             "stars": 4211
           },
-          "title": "Awesome K S Resources"
+          "title": "Awesome K S Resources",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6047,9 +6448,10 @@
             "last_commit": "2026-06-30T15:46:25Z",
             "owner": "PanXProject",
             "repo": "awesome-certificates",
-            "stars": 5606
+            "stars": 5611
           },
-          "title": "Awesome Certificates"
+          "title": "Awesome Certificates",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6059,12 +6461,13 @@
             "archived": false,
             "id": 674164679,
             "language": null,
-            "last_commit": "2026-07-11T19:10:35Z",
+            "last_commit": "2026-08-27T15:25:27Z",
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3921
+            "stars": 3920
           },
-          "title": "Awesome Ai Devtools"
+          "title": "Awesome Ai Devtools",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6077,9 +6480,10 @@
             "last_commit": "2026-08-27T07:56:10Z",
             "owner": "web-padawan",
             "repo": "awesome-web-components",
-            "stars": 3566
+            "stars": 3567
           },
-          "title": "Awesome Web Components"
+          "title": "Awesome Web Components",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6094,7 +6498,8 @@
             "repo": "awesome-node-based-uis",
             "stars": 3663
           },
-          "title": "Awesome Node Based Uis"
+          "title": "Awesome Node Based Uis",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6107,9 +6512,10 @@
             "last_commit": "2025-07-20T10:01:29Z",
             "owner": "oven-sh",
             "repo": "awesome-bun",
-            "stars": 3648
+            "stars": 3646
           },
-          "title": "Awesome Bun"
+          "title": "Awesome Bun",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6122,9 +6528,10 @@
             "last_commit": "2025-12-18T07:31:25Z",
             "owner": "filipecalegario",
             "repo": "awesome-generative-ai",
-            "stars": 3528
+            "stars": 3529
           },
-          "title": "Awesome Generative Ai"
+          "title": "Awesome Generative Ai",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6137,9 +6544,10 @@
             "last_commit": "2024-04-30T13:40:36Z",
             "owner": "aviaryan",
             "repo": "awesome-no-login-web-apps",
-            "stars": 3333
+            "stars": 3336
           },
-          "title": "Awesome No Login Web Apps"
+          "title": "Awesome No Login Web Apps",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6152,9 +6560,10 @@
             "last_commit": "2023-09-26T08:12:13Z",
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2804
+            "stars": 2806
           },
-          "title": "Awesome Html"
+          "title": "Awesome Html",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6169,7 +6578,8 @@
             "repo": "awesome-programmers",
             "stars": 2568
           },
-          "title": "Awesome Programmers"
+          "title": "Awesome Programmers",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6179,12 +6589,13 @@
             "archived": false,
             "id": 896335270,
             "language": null,
-            "last_commit": "2026-08-26T20:37:13Z",
+            "last_commit": "2026-08-27T21:09:23Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92879
+            "stars": 92959
           },
-          "title": "Awesome Mcp Servers"
+          "title": "Awesome Mcp Servers",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6194,12 +6605,13 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-26T21:15:40Z",
+            "last_commit": "2026-08-28T15:35:24Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78674
+            "stars": 78688
           },
-          "title": "Awesome Public Datasets"
+          "title": "Awesome Public Datasets",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6212,9 +6624,10 @@
             "last_commit": "2026-02-23T16:27:47Z",
             "owner": "deepseek-ai",
             "repo": "awesome-deepseek-integration",
-            "stars": 38975
+            "stars": 38989
           },
-          "title": "Awesome Deepseek Integration"
+          "title": "Awesome Deepseek Integration",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6227,9 +6640,10 @@
             "last_commit": "2026-03-03T07:35:24Z",
             "owner": "abhisheknaiidu",
             "repo": "awesome-github-profile-readme",
-            "stars": 30934
+            "stars": 30944
           },
-          "title": "Awesome Github Profile Readme"
+          "title": "Awesome Github Profile Readme",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6242,9 +6656,10 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28162
+            "stars": 28168
           },
-          "title": "Awesome Actions"
+          "title": "Awesome Actions",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6257,9 +6672,10 @@
             "last_commit": "2026-07-15T12:14:09Z",
             "owner": "pluja",
             "repo": "awesome-privacy",
-            "stars": 19609
+            "stars": 19617
           },
-          "title": "Awesome Privacy"
+          "title": "Awesome Privacy",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6272,9 +6688,10 @@
             "last_commit": "2026-05-21T15:18:32Z",
             "owner": "mgramin",
             "repo": "awesome-db-tools",
-            "stars": 5281
+            "stars": 5283
           },
-          "title": "Awesome Db Tools"
+          "title": "Awesome Db Tools",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6287,9 +6704,10 @@
             "last_commit": "2024-10-21T10:10:48Z",
             "owner": "jupyter-naas",
             "repo": "awesome-notebooks",
-            "stars": 3014
+            "stars": 3015
           },
-          "title": "Awesome Notebooks"
+          "title": "Awesome Notebooks",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6302,9 +6720,10 @@
             "last_commit": "2026-08-17T01:52:22Z",
             "owner": "iipc",
             "repo": "awesome-web-archiving",
-            "stars": 2626
+            "stars": 2627
           },
-          "title": "Awesome Web Archiving"
+          "title": "Awesome Web Archiving",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6317,9 +6736,10 @@
             "last_commit": "2026-08-14T09:09:00Z",
             "owner": "kdeldycke",
             "repo": "awesome-engineering-team-management",
-            "stars": 2586
+            "stars": 2587
           },
-          "title": "Awesome Engineering Team Management"
+          "title": "Awesome Engineering Team Management",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6332,9 +6752,10 @@
             "last_commit": "2026-05-27T20:46:02Z",
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2482
+            "stars": 2483
           },
-          "title": "Awesome Music"
+          "title": "Awesome Music",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6349,7 +6770,8 @@
             "repo": "awesome-whisper",
             "stars": 2374
           },
-          "title": "Awesome Whisper"
+          "title": "Awesome Whisper",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6362,9 +6784,10 @@
             "last_commit": "2026-07-26T05:01:07Z",
             "owner": "brabadu",
             "repo": "awesome-fonts",
-            "stars": 2064
+            "stars": 2066
           },
-          "title": "Awesome Fonts"
+          "title": "Awesome Fonts",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6379,7 +6802,8 @@
             "repo": "awesome-dynamodb",
             "stars": 1820
           },
-          "title": "Awesome Dynamodb"
+          "title": "Awesome Dynamodb",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6389,12 +6813,13 @@
             "archived": false,
             "id": 159008574,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T07:25:27Z",
+            "last_commit": "2026-08-28T04:00:56Z",
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1714
+            "stars": 1715
           },
-          "title": "Awesome Ui Component Library"
+          "title": "Awesome Ui Component Library",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6407,9 +6832,10 @@
             "last_commit": "2022-01-08T00:34:06Z",
             "owner": "fiatjaf",
             "repo": "awesome-loginless",
-            "stars": 1629
+            "stars": 1630
           },
-          "title": "Awesome Loginless"
+          "title": "Awesome Loginless",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6422,9 +6848,10 @@
             "last_commit": "2024-03-30T04:24:20Z",
             "owner": "huachaohuang",
             "repo": "awesome-dbdev",
-            "stars": 1628
+            "stars": 1629
           },
-          "title": "Awesome Dbdev"
+          "title": "Awesome Dbdev",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6439,7 +6866,8 @@
             "repo": "awesome-aws-security",
             "stars": 1585
           },
-          "title": "Awesome Aws Security"
+          "title": "Awesome Aws Security",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6452,9 +6880,10 @@
             "last_commit": "2026-08-22T21:31:26Z",
             "owner": "agamm",
             "repo": "awesome-developer-first",
-            "stars": 1792
+            "stars": 1793
           },
-          "title": "Awesome Developer First"
+          "title": "Awesome Developer First",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6467,9 +6896,10 @@
             "last_commit": "2023-07-12T12:52:20Z",
             "owner": "sergey-pimenov",
             "repo": "awesome-web-animation",
-            "stars": 1571
+            "stars": 1573
           },
-          "title": "Awesome Web Animation"
+          "title": "Awesome Web Animation",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6484,7 +6914,8 @@
             "repo": "awesome-naming",
             "stars": 1451
           },
-          "title": "Awesome Naming"
+          "title": "Awesome Naming",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6497,9 +6928,10 @@
             "last_commit": "2026-08-12T21:41:13Z",
             "owner": "mxschmitt",
             "repo": "awesome-playwright",
-            "stars": 1560
+            "stars": 1561
           },
-          "title": "Awesome Playwright"
+          "title": "Awesome Playwright",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6514,7 +6946,8 @@
             "repo": "awesome-webaudio",
             "stars": 1396
           },
-          "title": "Awesome Webaudio"
+          "title": "Awesome Webaudio",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6529,7 +6962,8 @@
             "repo": "Awesome-Design-Tokens",
             "stars": 1298
           },
-          "title": "Awesome Design Tokens"
+          "title": "Awesome Design Tokens",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6542,9 +6976,10 @@
             "last_commit": "2023-12-24T11:22:48Z",
             "owner": "rajasegar",
             "repo": "awesome-micro-frontends",
-            "stars": 1282
+            "stars": 1283
           },
-          "title": "Awesome Micro Frontends"
+          "title": "Awesome Micro Frontends",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6559,7 +6994,8 @@
             "repo": "awesome-styleguides",
             "stars": 1260
           },
-          "title": "Awesome Styleguides"
+          "title": "Awesome Styleguides",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6574,7 +7010,8 @@
             "repo": "awesome-template-literal-types",
             "stars": 1223
           },
-          "title": "Awesome Template Literal Types"
+          "title": "Awesome Template Literal Types",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6587,9 +7024,10 @@
             "last_commit": "2026-08-26T17:10:24Z",
             "owner": "ethibox",
             "repo": "awesome-stacks",
-            "stars": 1295
+            "stars": 1296
           },
-          "title": "Awesome Stacks"
+          "title": "Awesome Stacks",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6604,7 +7042,8 @@
             "repo": "awesome-images",
             "stars": 2509
           },
-          "title": "Awesome Images"
+          "title": "Awesome Images",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6619,7 +7058,8 @@
             "repo": "awesome-regression-testing",
             "stars": 2414
           },
-          "title": "Awesome Regression Testing"
+          "title": "Awesome Regression Testing",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6632,9 +7072,10 @@
             "last_commit": "2022-12-03T09:33:26Z",
             "owner": "altryne",
             "repo": "awesome-ai-art-image-synthesis",
-            "stars": 1814
+            "stars": 1815
           },
-          "title": "Awesome Ai Art Image Synthesis"
+          "title": "Awesome Ai Art Image Synthesis",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6647,9 +7088,10 @@
             "last_commit": "2024-08-02T19:02:17Z",
             "owner": "hysnsec",
             "repo": "awesome-threat-modelling",
-            "stars": 1802
+            "stars": 1803
           },
-          "title": "Awesome Threat Modelling"
+          "title": "Awesome Threat Modelling",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6662,9 +7104,10 @@
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1718
+            "stars": 1719
           },
-          "title": "Awesome Devsecops"
+          "title": "Awesome Devsecops",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6679,7 +7122,8 @@
             "repo": "awesome-github-profiles",
             "stars": 1545
           },
-          "title": "Awesome Github Profiles"
+          "title": "Awesome Github Profiles",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6694,7 +7138,8 @@
             "repo": "awesome-decentralized",
             "stars": 1060
           },
-          "title": "Awesome Decentralized"
+          "title": "Awesome Decentralized",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6709,7 +7154,8 @@
             "repo": "awesome-rl-for-cybersecurity",
             "stars": 1085
           },
-          "title": "Awesome Rl For Cybersecurity"
+          "title": "Awesome Rl For Cybersecurity",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6722,9 +7168,10 @@
             "last_commit": "2026-05-28T09:10:24Z",
             "owner": "atakanaltok",
             "repo": "awesome-useful-websites",
-            "stars": 1256
+            "stars": 1258
           },
-          "title": "Awesome Useful Websites"
+          "title": "Awesome Useful Websites",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6739,7 +7186,8 @@
             "repo": "awesome-sites-to-test-on",
             "stars": 1096
           },
-          "title": "Awesome Sites To Test On"
+          "title": "Awesome Sites To Test On",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6754,7 +7202,8 @@
             "repo": "awesome-tiny-js",
             "stars": 777
           },
-          "title": "Awesome Tiny Js"
+          "title": "Awesome Tiny Js",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6769,7 +7218,8 @@
             "repo": "awesome-redis",
             "stars": 745
           },
-          "title": "Awesome Redis"
+          "title": "Awesome Redis",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6784,7 +7234,8 @@
             "repo": "awesome-stenciljs",
             "stars": 713
           },
-          "title": "Awesome Stenciljs"
+          "title": "Awesome Stenciljs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6799,7 +7250,8 @@
             "repo": "awesome-webcomponents",
             "stars": 646
           },
-          "title": "Awesome Webcomponents"
+          "title": "Awesome Webcomponents",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6814,7 +7266,8 @@
             "repo": "awesome-cloudformation",
             "stars": 624
           },
-          "title": "Awesome Cloudformation"
+          "title": "Awesome Cloudformation",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6829,7 +7282,8 @@
             "repo": "awesome-creative-technology",
             "stars": 659
           },
-          "title": "Awesome Creative Technology"
+          "title": "Awesome Creative Technology",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6844,7 +7298,8 @@
             "repo": "awesome-stylelint",
             "stars": 528
           },
-          "title": "Awesome Stylelint"
+          "title": "Awesome Stylelint",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6859,7 +7314,8 @@
             "repo": "awesome-integration",
             "stars": 556
           },
-          "title": "Awesome Integration"
+          "title": "Awesome Integration",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6874,7 +7330,8 @@
             "repo": "awesome-resumes",
             "stars": 494
           },
-          "title": "Awesome Resumes"
+          "title": "Awesome Resumes",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6889,7 +7346,8 @@
             "repo": "awesome-authorization",
             "stars": 436
           },
-          "title": "Awesome Authorization"
+          "title": "Awesome Authorization",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6904,7 +7362,8 @@
             "repo": "awesome-open-source-data-engineering",
             "stars": 600
           },
-          "title": "Awesome Open Source Data Engineering"
+          "title": "Awesome Open Source Data Engineering",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6919,7 +7378,8 @@
             "repo": "awesome-websites",
             "stars": 423
           },
-          "title": "Awesome Websites"
+          "title": "Awesome Websites",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6934,7 +7394,8 @@
             "repo": "awesome-philosophy",
             "stars": 272
           },
-          "title": "Awesome Philosophy"
+          "title": "Awesome Philosophy",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6949,7 +7410,8 @@
             "repo": "awesome-handbooks",
             "stars": 266
           },
-          "title": "Awesome Handbooks"
+          "title": "Awesome Handbooks",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6959,12 +7421,13 @@
             "archived": false,
             "id": 678705570,
             "language": null,
-            "last_commit": "2026-08-20T20:45:46Z",
+            "last_commit": "2026-08-28T08:46:40Z",
             "owner": "kurtextrem",
             "repo": "awesome-performance-patches",
-            "stars": 202
+            "stars": 205
           },
-          "title": "Awesome Performance Patches"
+          "title": "Awesome Performance Patches",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6979,7 +7442,8 @@
             "repo": "Awesome-Illustrations-4Projects",
             "stars": 189
           },
-          "title": "Awesome Illustrations Projects"
+          "title": "Awesome Illustrations Projects",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -6994,7 +7458,8 @@
             "repo": "awesome-bugs",
             "stars": 148
           },
-          "title": "Awesome Bugs"
+          "title": "Awesome Bugs",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -7009,7 +7474,8 @@
             "repo": "awesome-mdc",
             "stars": 132
           },
-          "title": "Awesome Mdc"
+          "title": "Awesome Mdc",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -7024,7 +7490,8 @@
             "repo": "awesome-prisma",
             "stars": 662
           },
-          "title": "Awesome Prisma"
+          "title": "Awesome Prisma",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -7039,7 +7506,8 @@
             "repo": "awesome-svelte",
             "stars": 367
           },
-          "title": "Awesome Svelte"
+          "title": "Awesome Svelte",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -7054,7 +7522,8 @@
             "repo": "awesome-web-audio",
             "stars": 137
           },
-          "title": "Awesome Web Audio"
+          "title": "Awesome Web Audio",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -7064,12 +7533,13 @@
             "archived": false,
             "id": 637639667,
             "language": "JSON",
-            "last_commit": "2026-08-27T06:32:23Z",
+            "last_commit": "2026-08-28T13:29:36Z",
             "owner": "targed",
             "repo": "Awesome-Plugins",
             "stars": 152
           },
-          "title": "Awesome Plugins"
+          "title": "Awesome Plugins",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -7084,7 +7554,8 @@
             "repo": "awesome-networked-media",
             "stars": 81
           },
-          "title": "Awesome Networked Media"
+          "title": "Awesome Networked Media",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -7099,7 +7570,8 @@
             "repo": "notes",
             "stars": 48
           },
-          "title": "Awesome Notes"
+          "title": "Awesome Notes",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -7109,12 +7581,13 @@
             "archived": false,
             "id": 280941760,
             "language": null,
-            "last_commit": "2026-05-25T20:19:17Z",
+            "last_commit": "2026-08-28T12:09:26Z",
             "owner": "irgoncalves",
             "repo": "awesome-security-articles",
             "stars": 43
           },
-          "title": "Awesome Security Articles"
+          "title": "Awesome Security Articles",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         },
         {
           "children": [],
@@ -7129,14 +7602,15 @@
             "repo": "awesome-data-science",
             "stars": 22
           },
-          "title": "Awesome Data Science"
+          "title": "Awesome Data Science",
+          "first_seen": "2026-08-28T15:36:16.916Z"
         }
       ],
       "title": "129 Useful Awesome lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:31:22.646Z",
+    "last_updated": "2026-08-28T15:36:16.916Z",
     "original_repository_info": {
       "archived": false,
       "id": 155415164,
