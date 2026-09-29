@@ -1,18 +1,18 @@
 # Awesome 155 Useful Typescript libraries with stars
 
-## [React Bits](https://github.com/DavidHDev/react-bits) ⭐ 48,195 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-28
+## [React Bits](https://github.com/DavidHDev/react-bits) ⭐ 48,253 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-29
 
 An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 
-## [Core](https://github.com/adonisjs/core) ⭐ 19,136 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-28
+## [Core](https://github.com/adonisjs/core) ⭐ 19,139 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-29
 
 AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 
 ## [Inversify Js](https://github.com/inversify/InversifyJS) ⭐ 12,063 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19
 
-Powerful and lightweight inversion of control container. Moved to <https://github.com/inversify/monorepo> ⭐ 290 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-28
+Powerful and lightweight inversion of control container. Moved to <https://github.com/inversify/monorepo> ⭐ 290 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-29
 
-## [Valtio](https://github.com/pmndrs/valtio) ⭐ 10,240 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-28
+## [Valtio](https://github.com/pmndrs/valtio) ⭐ 10,240 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-29
 
 🧙 Valtio makes proxy-state simple  for React and Vanilla
 
@@ -20,7 +20,7 @@ Powerful and lightweight inversion of control container. Moved to <https://githu
 
 Simple reusable React error boundary component
 
-## [Edit](https://github.com/fmhy/edit) ⭐ 12,089 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-27
+## [Edit](https://github.com/fmhy/edit) ⭐ 12,105 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-29
 
 Make changes to FMHY
 
@@ -32,7 +32,7 @@ A collection of public resources about how software companies test their softwar
 
 Tiny and powerful JavaScript full-text search engine for browser and Node
 
-## [Epic Stack](https://github.com/epicweb-dev/epic-stack) ⭐ 5,540 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-29
+## [Epic Stack](https://github.com/epicweb-dev/epic-stack) ⭐ 5,539 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-29
 
 This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 
@@ -44,63 +44,63 @@ Simple, expected, and deterministic best-match sorting of an array in JavaScript
 
 A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 
-## [Animate Ui](https://github.com/imskyleen/animate-ui) ⭐ 4,337 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-31
+## [Animate Ui](https://github.com/imskyleen/animate-ui) ⭐ 4,340 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-31
 
 Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 
-## [Eslint Plugin Perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) ⭐ 2,927 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-26
+## [Eslint Plugin Perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) ⭐ 2,927 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-29
 
 ☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 
-## [Chakra Ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,672 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-24
+## [Chakra Ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,671 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-24
 
 Chakra UI is a component system for building SaaS products with speed ⚡️
 
-## [Outline](https://github.com/outline/outline) ⭐ 40,731 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-27
+## [Outline](https://github.com/outline/outline) ⭐ 40,744 | 🐛 90 | 🌐 TypeScript | 📅 2026-09-29
 
 The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 
-## [Fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ⭐ 28,523 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-24
+## [Fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ⭐ 28,520 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-24
 
 The most advanced free and open-source browser fingerprinting library
 
-## [Remotion](https://github.com/remotion-dev/remotion) ⭐ 60,854 | 🐛 217 | 🌐 TypeScript | 📅 2026-09-28
+## [Remotion](https://github.com/remotion-dev/remotion) ⭐ 61,026 | 🐛 223 | 🌐 TypeScript | 📅 2026-09-29
 
 🎥      Make videos programmatically with React
 
-## [Rxdb](https://github.com/pubkey/rxdb) ⭐ 23,393 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-28
+## [Rxdb](https://github.com/pubkey/rxdb) ⭐ 23,394 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-29
 
 A fast, local first, reactive Database for JavaScript Applications <https://rxdb.info/>
 
-## [Shiki](https://github.com/shikijs/shiki) ⭐ 13,832 | 🐛 111 | 🌐 TypeScript | 📅 2026-09-11
+## [Shiki](https://github.com/shikijs/shiki) ⭐ 13,834 | 🐛 111 | 🌐 TypeScript | 📅 2026-09-11
 
 A beautiful yet powerful syntax highlighter
 
-## [Markmap](https://github.com/markmap/markmap) ⭐ 13,136 | 🐛 60 | 🌐 TypeScript | 📅 2026-09-12
+## [Markmap](https://github.com/markmap/markmap) ⭐ 13,139 | 🐛 60 | 🌐 TypeScript | 📅 2026-09-12
 
 Build mindmaps with plain text
 
-## [Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 13,963 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-26
+## [Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 13,978 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-29
 
 OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 
-## [Sigma Js](https://github.com/jacomyal/sigma.js) ⭐ 12,174 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-16
+## [Sigma Js](https://github.com/jacomyal/sigma.js) ⭐ 12,175 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-16
 
 A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 
-## [Shadcn Admin](https://github.com/satnaing/shadcn-admin) ⭐ 14,945 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-10
+## [Shadcn Admin](https://github.com/satnaing/shadcn-admin) ⭐ 15,033 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-10
 
 Admin Dashboard UI built with Shadcn and Vite.
 
-## [Nuqs](https://github.com/47ng/nuqs) ⭐ 10,860 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-21
+## [Nuqs](https://github.com/47ng/nuqs) ⭐ 10,861 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-28
 
 Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 
-## [Ts Reset](https://github.com/mattpocock/ts-reset) ⭐ 8,614 | 🐛 54 | 🌐 TypeScript | 📅 2026-04-01
+## [Ts Reset](https://github.com/mattpocock/ts-reset) ⭐ 8,615 | 🐛 54 | 🌐 TypeScript | 📅 2026-04-01
 
 A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 
-## [Mockoon](https://github.com/mockoon/mockoon) ⭐ 8,423 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-25
+## [Mockoon](https://github.com/mockoon/mockoon) ⭐ 8,425 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-29
 
 Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 
@@ -108,15 +108,15 @@ Mockoon is the easiest and quickest way to run mock APIs locally. No remote depl
 
 Type-Safe Errors for JS & TypeScript
 
-## [Typehero](https://github.com/typehero/typehero) ⭐ 6,638 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-03
+## [Typehero](https://github.com/typehero/typehero) ⭐ 6,637 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-03
 
 Connect, collaborate, and grow with a community of TypeScript developers
 
-## [Nango](https://github.com/NangoHQ/nango) ⭐ 12,381 | 🐛 124 | 🌐 TypeScript | 📅 2026-09-28
+## [Nango](https://github.com/NangoHQ/nango) ⭐ 12,413 | 🐛 132 | 🌐 TypeScript | 📅 2026-09-29
 
 A single API for all your integrations.
 
-## [Iconify](https://github.com/iconify/iconify) ⭐ 6,340 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-25
+## [Iconify](https://github.com/iconify/iconify) ⭐ 6,346 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-29
 
 Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!
 
@@ -124,15 +124,15 @@ Universal icon framework. One syntax for FontAwesome, Material Design Icons, Das
 
 Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 
-## [Fast Check](https://github.com/dubzzz/fast-check) ⭐ 5,159 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-28
+## [Fast Check](https://github.com/dubzzz/fast-check) ⭐ 5,163 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-29
 
 Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 
-## [Overlay Scrollbars](https://github.com/KingSora/OverlayScrollbars) ⭐ 5,217 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-09
+## [Overlay Scrollbars](https://github.com/KingSora/OverlayScrollbars) ⭐ 5,219 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-09
 
 A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 
-## [Nestjs Boilerplate](https://github.com/brocoders/nestjs-boilerplate) ⭐ 4,402 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-25
+## [Nestjs Boilerplate](https://github.com/brocoders/nestjs-boilerplate) ⭐ 4,405 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-28
 
 NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 
@@ -140,11 +140,11 @@ NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, D
 
 A tiny (\~650 B) & modern library for keybindings.
 
-## [Ollama Js](https://github.com/ollama/ollama-js) ⭐ 4,373 | 🐛 92 | 🌐 TypeScript | 📅 2026-02-18
+## [Ollama Js](https://github.com/ollama/ollama-js) ⭐ 4,371 | 🐛 92 | 🌐 TypeScript | 📅 2026-09-29
 
 Ollama JavaScript library
 
-## [Kibo](https://github.com/shadcnblocks/kibo) ⭐ 3,948 | 🐛 34 | 🌐 TypeScript | 📅 2026-05-04
+## [Kibo](https://github.com/shadcnblocks/kibo) ⭐ 3,947 | 🐛 34 | 🌐 TypeScript | 📅 2026-05-04
 
 A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 
@@ -156,79 +156,79 @@ Postgres Explain Visualizer 2
 
 pgTyped - Typesafe SQL in TypeScript
 
-## [Devalue](https://github.com/sveltejs/devalue) ⭐ 2,804 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-23
+## [Devalue](https://github.com/sveltejs/devalue) ⭐ 2,804 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-23
 
 Gets the job done when JSON.stringify can't
 
-## [Type Challenges](https://github.com/type-challenges/type-challenges) ⭐ 48,518 | 🐛 33,299 | 🌐 TypeScript | 📅 2026-05-16
+## [Type Challenges](https://github.com/type-challenges/type-challenges) ⭐ 48,518 | 🐛 33,300 | 🌐 TypeScript | 📅 2026-05-16
 
 Collection of TypeScript type challenges with online judge
 
-## [Slidev](https://github.com/slidevjs/slidev) ⭐ 48,862 | 🐛 210 | 🌐 TypeScript | 📅 2026-09-16
+## [Slidev](https://github.com/slidevjs/slidev) ⭐ 48,874 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-16
 
 Presentation Slides for Developers
 
-## [Trpc](https://github.com/trpc/trpc) ⭐ 40,668 | 🐛 205 | 🌐 TypeScript | 📅 2026-09-27
+## [Trpc](https://github.com/trpc/trpc) ⭐ 40,677 | 🐛 205 | 🌐 TypeScript | 📅 2026-09-28
 
 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
-## [Puter](https://github.com/HeyPuter/puter) ⭐ 43,606 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-28
+## [Puter](https://github.com/HeyPuter/puter) ⭐ 43,609 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-29
 
 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
-## [Lossless Cut](https://github.com/mifi/lossless-cut) ⭐ 44,114 | 🐛 316 | 🌐 TypeScript | 📅 2026-09-23
+## [Lossless Cut](https://github.com/mifi/lossless-cut) ⭐ 44,147 | 🐛 318 | 🌐 TypeScript | 📅 2026-09-29
 
 The swiss army knife of lossless video/audio editing
 
-## [Continue](https://github.com/continuedev/continue) ⭐ 36,050 | 🐛 843 | 🌐 TypeScript | 📅 2026-09-28
+## [Continue](https://github.com/continuedev/continue) ⭐ 36,055 | 🐛 839 | 🌐 TypeScript | 📅 2026-09-28
 
 ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 
-## [Nx](https://github.com/nrwl/nx) ⭐ 29,380 | 🐛 490 | 🌐 TypeScript | 📅 2026-09-28
+## [Nx](https://github.com/nrwl/nx) ⭐ 29,381 | 🐛 497 | 🌐 TypeScript | 📅 2026-09-29
 
 Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 
-## [Budibase](https://github.com/Budibase/budibase) ⭐ 28,325 | 🐛 271 | 🌐 TypeScript | 📅 2026-09-28
+## [Budibase](https://github.com/Budibase/budibase) ⭐ 28,325 | 🐛 278 | 🌐 TypeScript | 📅 2026-09-29
 
 Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 
-## [Dockge](https://github.com/louislam/dockge) ⭐ 24,461 | 🐛 172 | 🌐 TypeScript | 📅 2026-04-25
+## [Dockge](https://github.com/louislam/dockge) ⭐ 24,474 | 🐛 172 | 🌐 TypeScript | 📅 2026-04-25
 
 A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 
-## [Teable](https://github.com/teableio/teable) ⭐ 21,843 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-27
+## [Teable](https://github.com/teableio/teable) ⭐ 21,844 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-27
 
 ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
-## [Unocss](https://github.com/unocss/unocss) ⭐ 18,968 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-24
+## [Unocss](https://github.com/unocss/unocss) ⭐ 18,968 | 🐛 141 | 🌐 TypeScript | 📅 2026-09-24
 
 The instant on-demand atomic CSS engine.
 
-## [Motion Canvas](https://github.com/motion-canvas/motion-canvas) ⭐ 19,189 | 🐛 174 | 🌐 TypeScript | 📅 2026-07-02
+## [Motion Canvas](https://github.com/motion-canvas/motion-canvas) ⭐ 19,198 | 🐛 174 | 🌐 TypeScript | 📅 2026-07-02
 
 Visualize Your Ideas With Code
 
-## [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,197 | 🐛 388 | 🌐 TypeScript | 📅 2026-09-24
+## [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,203 | 🐛 389 | 🌐 TypeScript | 📅 2026-09-24
 
 Ergonomic Framework for Humans
 
-## [Bolt New](https://github.com/stackblitz/bolt.new) ⭐ 16,568 | 🐛 8,187 | 🌐 TypeScript | 📅 2024-12-17
+## [Bolt New](https://github.com/stackblitz/bolt.new) ⭐ 16,570 | 🐛 8,187 | 🌐 TypeScript | 📅 2024-12-17
 
 Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: <https://support.bolt.new/> -- Community Support: <https://discord.com/invite/stackblitz>
 
-## [Cap](https://github.com/CapSoftware/Cap) ⭐ 22,893 | 🐛 389 | 🌐 Rust | 📅 2026-09-28
+## [Cap](https://github.com/CapSoftware/Cap) ⭐ 22,929 | 🐛 411 | 🌐 Rust | 📅 2026-09-29
 
 Open source Loom alternative. Beautiful, shareable screen recordings.
 
-## [Faker](https://github.com/faker-js/faker) ⭐ 15,501 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-28
+## [Faker](https://github.com/faker-js/faker) ⭐ 15,500 | 🐛 92 | 🌐 TypeScript | 📅 2026-09-28
 
 Generate massive amounts of fake data in the browser and node.js
 
-## [Pglite](https://github.com/electric-sql/pglite) ⭐ 16,082 | 🐛 167 | 🌐 TypeScript | 📅 2026-08-26
+## [Pglite](https://github.com/electric-sql/pglite) ⭐ 16,090 | 🐛 167 | 🌐 TypeScript | 📅 2026-08-26
 
 Embeddable Postgres with real-time, reactive bindings.
 
-## [Dexie Js](https://github.com/dexie/Dexie.js) ⭐ 14,609 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-28
+## [Dexie Js](https://github.com/dexie/Dexie.js) ⭐ 14,614 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-28
 
 A Minimalistic Wrapper for IndexedDB
 
@@ -236,27 +236,27 @@ A Minimalistic Wrapper for IndexedDB
 
 Generate types and converters from JSON, Schema, and GraphQL
 
-## [Peerjs](https://github.com/peers/peerjs) ⭐ 13,455 | 🐛 203 | 🌐 TypeScript | 📅 2026-02-27
+## [Peerjs](https://github.com/peers/peerjs) ⭐ 13,456 | 🐛 203 | 🌐 TypeScript | 📅 2026-02-27
 
 Simple peer-to-peer with WebRTC.
 
-## [Open Saas](https://github.com/wasp-lang/open-saas) ⭐ 16,019 | 🐛 106 | 🌐 MDX | 📅 2026-09-22
+## [Open Saas](https://github.com/wasp-lang/open-saas) ⭐ 16,021 | 🐛 106 | 🌐 MDX | 📅 2026-09-22
 
 A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 
-## [Trigger Dev](https://github.com/triggerdotdev/trigger.dev) ⭐ 16,428 | 🐛 345 | 🌐 TypeScript | 📅 2026-09-28
+## [Trigger Dev](https://github.com/triggerdotdev/trigger.dev) ⭐ 16,433 | 🐛 345 | 🌐 TypeScript | 📅 2026-09-29
 
 Trigger.dev – build and deploy fully‑managed AI agents and workflows
 
-## [Satori](https://github.com/vercel/satori) ⭐ 13,986 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-22
+## [Satori](https://github.com/vercel/satori) ⭐ 13,990 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-22
 
 Enlightened library to convert HTML and CSS to SVG
 
-## [Effect](https://github.com/Effect-TS/effect) ⭐ 16,241 | 🐛 287 | 🌐 TypeScript | 📅 2026-09-28
+## [Effect](https://github.com/Effect-TS/effect) ⭐ 16,252 | 🐛 302 | 🌐 TypeScript | 📅 2026-09-29
 
 Build production-ready applications in TypeScript
 
-## [Tsup](https://github.com/egoist/tsup) ⭐ 11,302 | 🐛 425 | 🌐 TypeScript | 📅 2026-09-23
+## [Tsup](https://github.com/egoist/tsup) ⭐ 11,301 | 🐛 425 | 🌐 TypeScript | 📅 2026-09-23
 
 The simplest and fastest way to bundle your TypeScript libraries.
 
@@ -264,47 +264,47 @@ The simplest and fastest way to bundle your TypeScript libraries.
 
 Node canvas is a Cairo backed Canvas implementation for NodeJS.
 
-## [Nitro](https://github.com/nitrojs/nitro) ⭐ 11,244 | 🐛 407 | 🌐 TypeScript | 📅 2026-09-28
+## [Nitro](https://github.com/nitrojs/nitro) ⭐ 11,246 | 🐛 412 | 🌐 TypeScript | 📅 2026-09-29
 
 Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 
-## [Ncc](https://github.com/vercel/ncc) ⭐ 9,839 | 🐛 223 | 🌐 JavaScript | 📅 2026-08-13
+## [Ncc](https://github.com/vercel/ncc) ⭐ 9,839 | 🐛 222 | 🌐 JavaScript | 📅 2026-08-13
 
 Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 
-## [Ariakit](https://github.com/ariakit/ariakit) ⭐ 8,626 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-28
+## [Ariakit](https://github.com/ariakit/ariakit) ⭐ 8,626 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-29
 
 Toolkit with accessible components, styles, and examples for your next web app
 
-## [Openapi Typescript](https://github.com/openapi-ts/openapi-typescript) ⭐ 8,383 | 🐛 286 | 🌐 TypeScript | 📅 2026-09-25
+## [Openapi Typescript](https://github.com/openapi-ts/openapi-typescript) ⭐ 8,386 | 🐛 286 | 🌐 TypeScript | 📅 2026-09-25
 
 Generate TypeScript types from OpenAPI 3 specs
 
-## [Arktype](https://github.com/arktypeio/arktype) ⭐ 7,869 | 🐛 250 | 🌐 TypeScript | 📅 2026-09-24
+## [Arktype](https://github.com/arktypeio/arktype) ⭐ 7,870 | 🐛 250 | 🌐 TypeScript | 📅 2026-09-28
 
 TypeScript's 1:1 validator, optimized from editor to runtime
 
-## [Eslint Plugin Import](https://github.com/import-js/eslint-plugin-import) ⭐ 5,948 | 🐛 584 | 🌐 JavaScript | 📅 2026-08-23
+## [Eslint Plugin Import](https://github.com/import-js/eslint-plugin-import) ⭐ 5,949 | 🐛 584 | 🌐 JavaScript | 📅 2026-08-23
 
 ESLint plugin with rules that help validate proper imports.
 
-## [Toolkit](https://github.com/actions/toolkit) ⭐ 5,859 | 🐛 591 | 🌐 TypeScript | 📅 2026-09-25
+## [Toolkit](https://github.com/actions/toolkit) ⭐ 5,860 | 🐛 591 | 🌐 TypeScript | 📅 2026-09-28
 
 The GitHub ToolKit for developing GitHub Actions.
 
-## [Miragejs](https://github.com/miragejs/miragejs) ⭐ 5,532 | 🐛 213 | 🌐 JavaScript | 📅 2025-08-11
+## [Miragejs](https://github.com/miragejs/miragejs) ⭐ 5,531 | 🐛 213 | 🌐 JavaScript | 📅 2025-08-11
 
 A client-side server to build, test and share your JavaScript app
 
-## [Create Better T Stack](https://github.com/AmanVarshney01/create-better-t-stack) ⭐ 5,805 | 🐛 166 | 🌐 TypeScript | 📅 2026-09-27
+## [Create Better T Stack](https://github.com/AmanVarshney01/create-better-t-stack) ⭐ 5,806 | 🐛 166 | 🌐 TypeScript | 📅 2026-09-27
 
 A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 
-## [Cherry Markdown](https://github.com/Tencent/cherry-markdown) ⭐ 4,885 | 🐛 154 | 🌐 JavaScript | 📅 2026-09-27
+## [Cherry Markdown](https://github.com/Tencent/cherry-markdown) ⭐ 4,885 | 🐛 155 | 🌐 JavaScript | 📅 2026-09-29
 
 ✨ A Markdown Editor
 
-## [Positron](https://github.com/posit-dev/positron) ⭐ 4,280 | 🐛 1,863 | 🌐 TypeScript | 📅 2026-09-28
+## [Positron](https://github.com/posit-dev/positron) ⭐ 4,280 | 🐛 1,847 | 🌐 TypeScript | 📅 2026-09-29
 
 Positron, a next-generation data science IDE
 
@@ -320,19 +320,19 @@ Automation for Kubernetes development and testing. Spin up production-like envir
 
 modular high-performance TypeScript framework
 
-## [Pages Cms](https://github.com/pages-cms/pages-cms) ⭐ 4,042 | 🐛 74 | 🌐 TypeScript | 📅 2026-06-23
+## [Pages Cms](https://github.com/pages-cms/pages-cms) ⭐ 4,045 | 🐛 74 | 🌐 TypeScript | 📅 2026-06-23
 
 The No-Hassle CMS for Static Sites Generators
 
-## [Ffcreator](https://github.com/tnfe/FFCreator) ⭐ 3,162 | 🐛 180 | 🌐 JavaScript | 📅 2024-12-19
+## [Ffcreator](https://github.com/tnfe/FFCreator) ⭐ 3,161 | 🐛 180 | 🌐 JavaScript | 📅 2024-12-19
 
 A fast video processing library based on node.js (一个基于node.js的高速视频制作库)
 
-## [Spectral](https://github.com/stoplightio/spectral) ⭐ 3,218 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-28
+## [Spectral](https://github.com/stoplightio/spectral) ⭐ 3,220 | 🐛 223 | 🌐 TypeScript | 📅 2026-09-29
 
 A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 
-## [Animata](https://github.com/codse/animata) ⭐ 2,817 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-14
+## [Animata](https://github.com/codse/animata) ⭐ 2,815 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-14
 
 Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate.
 
@@ -348,11 +348,11 @@ A JavaScript library like PyTorch, with GPU acceleration.
 
 Make Prettier organize your imports using the TypeScript language service API.
 
-## [Create Expo Stack](https://github.com/roninoss/create-expo-stack) ⭐ 2,572 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-17
+## [Create Expo Stack](https://github.com/roninoss/create-expo-stack) ⭐ 2,573 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-17
 
 CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
 
-## [Magicast](https://github.com/unjs/magicast) ⭐ 2,478 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-26
+## [Magicast](https://github.com/unjs/magicast) ⭐ 2,478 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-29
 
 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 
@@ -368,7 +368,7 @@ High performance Node.js/PostgreSQL job queue (also suitable for getting jobs ge
 
 Replace Copilot local AI
 
-## [Data Client](https://github.com/reactive/data-client) ⭐ 2,037 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-27
+## [Data Client](https://github.com/reactive/data-client) ⭐ 2,037 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-29
 
 Async State Management without the Management. REST, GraphQL, SSE, Websockets
 
@@ -376,19 +376,19 @@ Async State Management without the Management. REST, GraphQL, SSE, Websockets
 
 Node.js "fs" and browser "File System API" adapters and in-memory implementations 👍
 
-## [Connect Es](https://github.com/connectrpc/connect-es) ⭐ 1,814 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-25
+## [Connect Es](https://github.com/connectrpc/connect-es) ⭐ 1,814 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-29
 
 The TypeScript implementation of Connect: Protobuf RPC that works.
 
-## [Javascript](https://github.com/clerk/javascript) ⭐ 1,761 | 🐛 126 | 🌐 TypeScript | 📅 2026-09-27
+## [Javascript](https://github.com/clerk/javascript) ⭐ 1,761 | 🐛 120 | 🌐 TypeScript | 📅 2026-09-29
 
 Official JavaScript repository for Clerk authentication
 
-## [Node Pg Migrate](https://github.com/salsita/node-pg-migrate) ⭐ 1,487 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-28
+## [Node Pg Migrate](https://github.com/salsita/node-pg-migrate) ⭐ 1,487 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-28
 
 Node.js database migration management for PostgreSQL
 
-## [True Myth](https://github.com/true-myth/true-myth) ⭐ 1,365 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-10
+## [True Myth](https://github.com/true-myth/true-myth) ⭐ 1,365 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-28
 
 Safe and idiomatic TypeScript types to handle null, error, and async code handling: Maybe, Result, and Task types that are really nice.
 
@@ -406,15 +406,15 @@ Introduction to Functional Programming using TypeScript and fp-ts.
 
 You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 
-## [Unstorage](https://github.com/unjs/unstorage) ⭐ 2,648 | 🐛 131 | 🌐 TypeScript | 📅 2026-09-28
+## [Unstorage](https://github.com/unjs/unstorage) ⭐ 2,651 | 🐛 131 | 🌐 TypeScript | 📅 2026-09-29
 
 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 
-## [Redocly Cli](https://github.com/Redocly/redocly-cli) ⭐ 1,516 | 🐛 168 | 🌐 TypeScript | 📅 2026-09-28
+## [Redocly Cli](https://github.com/Redocly/redocly-cli) ⭐ 1,517 | 🐛 163 | 🌐 TypeScript | 📅 2026-09-29
 
 ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 
-## [Test Reporter](https://github.com/dorny/test-reporter) ⭐ 1,184 | 🐛 113 | 🌐 TypeScript | 📅 2026-09-25
+## [Test Reporter](https://github.com/dorny/test-reporter) ⭐ 1,184 | 🐛 111 | 🌐 TypeScript | 📅 2026-09-28
 
 Displays test results from popular testing frameworks directly in GitHub
 
@@ -442,7 +442,7 @@ A typescript package to execute JavaScript and TypeScript code in a webassembly 
 
 Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 
-## [Css Hooks](https://github.com/css-hooks/css-hooks) ⭐ 609 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-27
+## [Css Hooks](https://github.com/css-hooks/css-hooks) ⭐ 609 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-28
 
 Hook into advanced CSS features from native inline styles.
 
@@ -466,7 +466,7 @@ ESLint plugin with rules to help you achieve a scalable, consistent, and well-st
 
 Patch fetch/XMLHttpRequest to fake a REST API server in the browser, based on JSON data.
 
-## [Ultimate Nest](https://github.com/rubiin/ultimate-nest) ⭐ 438 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-28
+## [Ultimate Nest](https://github.com/rubiin/ultimate-nest) ⭐ 438 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29
 
 Starter template with blog clone as project
 
@@ -476,11 +476,11 @@ Starter template with blog clone as project
 
 A curated list of advanced type level madness
 
-## [Fettle](https://github.com/mehatab/fettle) ⭐ 279 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-28
+## [Fettle](https://github.com/mehatab/fettle) ⭐ 279 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29
 
 Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟
 
-## [Eslint Plugin Nestjs Typed](https://github.com/darraghoriordan/eslint-plugin-nestjs-typed) ⭐ 225 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-27
+## [Eslint Plugin Nestjs Typed](https://github.com/darraghoriordan/eslint-plugin-nestjs-typed) ⭐ 225 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-29
 
 Some eslint rules for working with NestJs projects
 
@@ -496,15 +496,15 @@ Style definitions for nice terminal layouts 👄
 
 Tab component for Ink 🌈
 
-## [Reactuse](https://github.com/childrentime/reactuse) ⭐ 1,054 | 🐛 24 | 🌐 MDX | 📅 2026-09-22
+## [Reactuse](https://github.com/childrentime/reactuse) ⭐ 1,054 | 🐛 19 | 🌐 MDX | 📅 2026-09-29
 
 Collection of essential React Hooks Utilities.
 
-## [Adblocker](https://github.com/ghostery/adblocker) ⭐ 1,010 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-27
+## [Adblocker](https://github.com/ghostery/adblocker) ⭐ 1,010 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-29
 
 Efficient embeddable adblocker library
 
-## [Suspensive](https://github.com/toss/suspensive) ⭐ 1,054 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-24
+## [Suspensive](https://github.com/toss/suspensive) ⭐ 1,055 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-24
 
 All in one for React Suspense
 
@@ -520,7 +520,7 @@ ESLint parser, plugin, and rule set for GraphQL (for schema and operations). Eas
 
 A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).
 
-## [Eslint Plugin Boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) ⭐ 992 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-27
+## [Eslint Plugin Boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) ⭐ 993 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-27
 
 Eslint plugin checking architecture boundaries between elements
 
@@ -528,7 +528,7 @@ Eslint plugin checking architecture boundaries between elements
 
 Commandline tool to run Amazon Lambda function on local machines.
 
-## [Seroval](https://github.com/lxsmnsyc/seroval) ⭐ 731 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-28
+## [Seroval](https://github.com/lxsmnsyc/seroval) ⭐ 731 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-29
 
 Stringify JS values
 
@@ -536,7 +536,7 @@ Stringify JS values
 
 `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
 
-## [Ungh](https://github.com/unjs/ungh) ⭐ 689 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-25
+## [Ungh](https://github.com/unjs/ungh) ⭐ 689 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-28
 
 🐙 Unlimited access to github API
 
@@ -552,11 +552,11 @@ VS Code extension of JSON Crack. Convert your JSON files into graphs with a sing
 
 JavaScript object that creates unique CSS selector for given element.
 
-## [Playwright Bdd](https://github.com/vitalets/playwright-bdd) ⭐ 792 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-27
+## [Playwright Bdd](https://github.com/vitalets/playwright-bdd) ⭐ 793 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-27
 
 BDD testing with Playwright runner
 
-## [Spotlight](https://github.com/getsentry/spotlight) ⭐ 622 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-24
+## [Spotlight](https://github.com/getsentry/spotlight) ⭐ 622 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-28
 
 Sentry for Development
 
@@ -568,7 +568,7 @@ Universal Webfont loader - Unfonts - based on <https://web.dev/optimize-webfont-
 
 Browser extension for learning languages with watching movies and TV shows
 
-## [Js X Ray](https://github.com/NodeSecure/js-x-ray) ⭐ 287 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-28
+## [Js X Ray](https://github.com/NodeSecure/js-x-ray) ⭐ 287 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-28
 
 JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.
 
@@ -576,7 +576,7 @@ JavaScript & Node.js open-source SAST scanner. A static analyser for detecting m
 
 A set of utility and general-purpose React hooks.
 
-## [Eslint Plugin Package Json](https://github.com/JoshuaKGoldberg/eslint-plugin-package-json) ⭐ 261 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-28
+## [Eslint Plugin Package Json](https://github.com/JoshuaKGoldberg/eslint-plugin-package-json) ⭐ 261 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-29
 
 Rules for consistent, readable, and valid package.json files. 🗂️
 
@@ -584,7 +584,7 @@ Rules for consistent, readable, and valid package.json files. 🗂️
 
 Javascript Data Structure & TypeScript Data Structure. Heap, Binary Tree, Red Black Tree, Linked List, Deque, Trie, HashMap, Directed Graph, Undirected Graph, Binary Search Tree, AVL Tree, Priority Queue, Graph, Queue, Tree Multiset, Singly Linked List, Doubly Linked List, Max Heap, Max Priority Queue, Min Heap, Min Priority Queue, Stack.
 
-## [Eslint Plugin Yml](https://github.com/ota-meshi/eslint-plugin-yml) ⭐ 186 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-25
+## [Eslint Plugin Yml](https://github.com/ota-meshi/eslint-plugin-yml) ⭐ 186 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-29
 
 This ESLint plugin provides linting rules for YAML.
 
@@ -600,7 +600,7 @@ CSS to TailwindCSS 3.x converter extension for Visual Studio Code
 
 A small, type-safe DI library optimized for hono.js.
 
-## [Puppeteer Pro](https://github.com/fast-facts/puppeteer-pro) ⭐ 59 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-28
+## [Puppeteer Pro](https://github.com/fast-facts/puppeteer-pro) ⭐ 59 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-29
 
 A simple puppeteer wrapper to enable useful plugins with ease
 
@@ -624,15 +624,15 @@ I created this repository to keep my learning, notes, and code in one place for 
 
 GitHub's Web Component collection.
 
-## [Html Boilerplate](https://github.com/h5bp/html5-boilerplate) ⭐ 57,637 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-14
+## [Html Boilerplate](https://github.com/h5bp/html5-boilerplate) ⭐ 57,638 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-14
 
 A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
-## [Knip](https://github.com/webpro-nl/knip) ⭐ 12,363 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-28
+## [Knip](https://github.com/webpro-nl/knip) ⭐ 12,373 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-29
 
 ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 
-## [Swapy](https://github.com/TahaSh/swapy) ⭐ 8,509 | 🐛 51 | 🌐 TypeScript | 📅 2025-01-19
+## [Swapy](https://github.com/TahaSh/swapy) ⭐ 8,510 | 🐛 51 | 🌐 TypeScript | 📅 2025-01-19
 
 ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code <https://swapy.tahazsh.com/>
 
@@ -640,11 +640,11 @@ A professional front-end template for building fast, robust, and adaptable web a
 
 Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 
-## [Css Doodle](https://github.com/css-doodle/css-doodle) ⭐ 6,055 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-27
+## [Css Doodle](https://github.com/css-doodle/css-doodle) ⭐ 6,055 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28
 
 A web component for visual art and creative coding
 
-## [Cookieconsent](https://github.com/orestbida/cookieconsent) ⭐ 5,686 | 🐛 62 | 🌐 JavaScript | 📅 2026-07-23
+## [Cookieconsent](https://github.com/orestbida/cookieconsent) ⭐ 5,688 | 🐛 62 | 🌐 JavaScript | 📅 2026-07-23
 
 :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 
@@ -656,7 +656,7 @@ VS Code extension that allows you to record and play back guided tours of codeba
 
 Tourist Guide into your React Components
 
-## [Middy](https://github.com/middyjs/middy) ⭐ 3,905 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-25
+## [Middy](https://github.com/middyjs/middy) ⭐ 3,905 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-29
 
 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 
@@ -678,7 +678,7 @@ A new framework for creating desktop apps from websites, using system installed 
 
 ## [Json U](https://github.com/loggerhead/json4u) ⭐ 3,235 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-28
 
-## [Lowdefy](https://github.com/lowdefy/lowdefy) ⭐ 3,011 | 🐛 74 | 🌐 JavaScript | 📅 2026-09-28
+## [Lowdefy](https://github.com/lowdefy/lowdefy) ⭐ 3,011 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-29
 
 The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 
@@ -690,69 +690,69 @@ Serialize JavaScript to a superset of JSON that includes regular expressions and
 
 🚀 Private first self-hosted no code database & BaaS.
 
-## [Nocodb](https://github.com/nocodb/nocodb) ⭐ 65,099 | 🐛 721 | 🌐 TypeScript | 📅 2026-09-28
+## [Nocodb](https://github.com/nocodb/nocodb) ⭐ 65,108 | 🐛 732 | 🌐 TypeScript | 📅 2026-09-29
 
 🔥 🔥 🔥 Open Source Airtable Alternative
 
-## [Payload](https://github.com/payloadcms/payload) ⭐ 44,998 | 🐛 1,208 | 🌐 TypeScript | 📅 2026-09-26
+## [Payload](https://github.com/payloadcms/payload) ⭐ 45,018 | 🐛 1,215 | 🌐 TypeScript | 📅 2026-09-29
 
 Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
-## [Bruno](https://github.com/usebruno/bruno) ⭐ 47,238 | 🐛 1,851 | 🌐 JavaScript | 📅 2026-09-28
+## [Bruno](https://github.com/usebruno/bruno) ⭐ 47,266 | 🐛 1,851 | 🌐 JavaScript | 📅 2026-09-29
 
 Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
-## [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,960 | 🐛 4,490 | 🌐 TypeScript | 📅 2026-09-28
+## [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,970 | 🐛 4,492 | 🌐 TypeScript | 📅 2026-09-29
 
 Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
-## [Dokploy](https://github.com/Dokploy/dokploy) ⭐ 37,547 | 🐛 740 | 🌐 TypeScript | 📅 2026-09-24
+## [Dokploy](https://github.com/Dokploy/dokploy) ⭐ 37,566 | 🐛 744 | 🌐 TypeScript | 📅 2026-09-29
 
 Open Source Alternative to Vercel, Netlify and Heroku.
 
 ## [Void](https://github.com/voideditor/void) ⚠️ Archived
 
-## [Infisical](https://github.com/Infisical/infisical) ⭐ 29,476 | 🐛 788 | 🌐 TypeScript | 📅 2026-09-28
+## [Infisical](https://github.com/Infisical/infisical) ⭐ 29,498 | 🐛 785 | 🌐 TypeScript | 📅 2026-09-29
 
 Infisical is the open-source platform for secrets, certificates, and privileged access management.
 
-## [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,684 | 🐛 1,180 | 🌐 TypeScript | 📅 2026-09-28
+## [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,687 | 🐛 1,186 | 🌐 TypeScript | 📅 2026-09-29
 
 Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
-## [Scalar](https://github.com/scalar/scalar) ⭐ 16,197 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-28
+## [Scalar](https://github.com/scalar/scalar) ⭐ 16,207 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-29
 
 Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 
-## [Easy Dataset](https://github.com/ConardLi/easy-dataset) ⭐ 14,958 | 🐛 131 | 🌐 JavaScript | 📅 2026-05-01
+## [Easy Dataset](https://github.com/ConardLi/easy-dataset) ⭐ 14,961 | 🐛 131 | 🌐 JavaScript | 📅 2026-05-01
 
 A powerful tool for creating fine-tuning datasets for LLM
 
-## [Logto](https://github.com/logto-io/logto) ⭐ 14,640 | 🐛 172 | 🌐 TypeScript | 📅 2026-09-28
+## [Logto](https://github.com/logto-io/logto) ⭐ 14,647 | 🐛 168 | 🌐 TypeScript | 📅 2026-09-29
 
 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 
-## [Hyperdx](https://github.com/hyperdxio/hyperdx) ⭐ 9,917 | 🐛 227 | 🌐 TypeScript | 📅 2026-09-25
+## [Hyperdx](https://github.com/hyperdxio/hyperdx) ⭐ 9,919 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-29
 
 Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 
-## [Virtual](https://github.com/TanStack/virtual) ⭐ 7,125 | 🐛 118 | 🌐 TypeScript | 📅 2026-09-21
+## [Virtual](https://github.com/TanStack/virtual) ⭐ 7,126 | 🐛 119 | 🌐 TypeScript | 📅 2026-09-21
 
 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 
-## [Ts Morph](https://github.com/dsherret/ts-morph) ⭐ 6,194 | 🐛 292 | 🌐 TypeScript | 📅 2026-09-28
+## [Ts Morph](https://github.com/dsherret/ts-morph) ⭐ 6,195 | 🐛 292 | 🌐 TypeScript | 📅 2026-09-29
 
 TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 
-## [Evidence](https://github.com/evidence-dev/evidence) ⭐ 6,963 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-25
+## [Evidence](https://github.com/evidence-dev/evidence) ⭐ 6,964 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-25
 
 Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 
-## [Opentype Js](https://github.com/opentypejs/opentype.js) ⭐ 5,022 | 🐛 209 | 🌐 JavaScript | 📅 2026-08-08
+## [Opentype Js](https://github.com/opentypejs/opentype.js) ⭐ 5,024 | 🐛 209 | 🌐 JavaScript | 📅 2026-08-08
 
 Read and write OpenType fonts using JavaScript.
 
-## [I Still Dont Care About Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) ⭐ 4,254 | 🐛 14,919 | 🌐 JavaScript | 📅 2026-09-28
+## [I Still Dont Care About Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) ⭐ 4,255 | 🐛 14,935 | 🌐 JavaScript | 📅 2026-09-29
 
 Debloated fork of the extension "I don't care about cookies"
 
@@ -760,11 +760,11 @@ Debloated fork of the extension "I don't care about cookies"
 
 Build OpenAPI-compliant REST APIs using TypeScript and Node
 
-## [Pollinations](https://github.com/pollinations/pollinations) ⭐ 5,139 | 🐛 397 | 🌐 TypeScript | 📅 2026-09-28
+## [Pollinations](https://github.com/pollinations/pollinations) ⭐ 5,144 | 🐛 434 | 🌐 TypeScript | 📅 2026-09-29
 
 Your Friendly Open-Source Gen-AI Platform
 
-## [Mono](https://github.com/rocicorp/mono) ⭐ 3,394 | 🐛 250 | 🌐 TypeScript | 📅 2026-09-28
+## [Mono](https://github.com/rocicorp/mono) ⭐ 3,397 | 🐛 246 | 🌐 TypeScript | 📅 2026-09-29
 
 99% of Queries in Zero Milliseconds
 
@@ -776,11 +776,11 @@ every websites have been tested and fixed, all can be running in localhost. Afte
 
 Catch unnecessary React useEffect hooks to make your code simpler, faster, and safer.
 
-## [Bippy](https://github.com/aidenybai/bippy) ⭐ 1,420 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-28
+## [Bippy](https://github.com/aidenybai/bippy) ⭐ 1,420 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-29
 
 ⚠️ hack into react internals
 
-## [Eslint Plugin Security](https://github.com/eslint-community/eslint-plugin-security) ⭐ 2,378 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-27
+## [Eslint Plugin Security](https://github.com/eslint-community/eslint-plugin-security) ⭐ 2,379 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-29
 
 ESLint rules for Node Security
 
@@ -788,7 +788,7 @@ ESLint rules for Node Security
 
 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 
-## [Csstree](https://github.com/csstree/csstree) ⭐ 2,123 | 🐛 78 | 🌐 JavaScript | 📅 2026-09-16
+## [Csstree](https://github.com/csstree/csstree) ⭐ 2,124 | 🐛 78 | 🌐 JavaScript | 📅 2026-09-16
 
 A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations
 
@@ -796,11 +796,11 @@ A tool set for CSS including fast detailed parser, walker, generator and lexer b
 
 Starts server, waits for URL, then runs test command; when the tests end, shuts down server
 
-## [Eslint Plugin Jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) ⭐ 1,229 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-25
+## [Eslint Plugin Jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) ⭐ 1,230 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-28
 
 JSDoc specific linting rules for ESLint.
 
-## [Putout](https://github.com/coderaiser/putout) ⭐ 795 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-27
+## [Putout](https://github.com/coderaiser/putout) ⭐ 796 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-29
 
 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏
 
@@ -812,7 +812,7 @@ A fast Javascript string diff
 
 The most comprehensive ES code style guide.
 
-## [Proxy Scraper](https://github.com/sunny9577/proxy-scraper) ⭐ 589 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-28
+## [Proxy Scraper](https://github.com/sunny9577/proxy-scraper) ⭐ 590 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-29
 
 ⭐️ A proxy scraper made using Protractor | Proxy list Updates every three hour 🔥
 
@@ -820,7 +820,7 @@ The most comprehensive ES code style guide.
 
 Faster updates for big JS projects
 
-## [Proposal Throw Expressions](https://github.com/tc39/proposal-throw-expressions) ⭐ 531 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-07
+## [Proposal Throw Expressions](https://github.com/tc39/proposal-throw-expressions) ⭐ 530 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-07
 
 Proposal for ECMAScript 'throw' expressions
 
@@ -852,7 +852,7 @@ Fake HTTP injection library
 
 TypeScript notebook for developers
 
-## [Proposal Composites](https://github.com/tc39/proposal-composites) ⭐ 297 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-04
+## [Proposal Composites](https://github.com/tc39/proposal-composites) ⭐ 298 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-04
 
 ## [Play Sound](https://github.com/shime/play-sound) ⭐ 222 | 🐛 17 | 🌐 JavaScript | 📅 2023-08-24
 
@@ -866,7 +866,7 @@ Cross-browser web performance testing agent
 
 CSS variables autocomplete for vscode
 
-## [Editor](https://github.com/portabletext/editor) ⭐ 280 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-28
+## [Editor](https://github.com/portabletext/editor) ⭐ 281 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-29
 
 The Standalone Portable Text Editor
 
@@ -882,7 +882,7 @@ Quickly integrate face, hand, and/or pose tracking to your frontend projects in 
 
 An ESLint plugin to enforce the use of total functions (and prevent the use of partial functions) in TypeScript.
 
-## [Eslint Plugin Json Schema Validator](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) ⭐ 97 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-25
+## [Eslint Plugin Json Schema Validator](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) ⭐ 97 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-28
 
 ESLint plugin that validates data using JSON Schema Validator.
 
@@ -898,7 +898,7 @@ TypeScript Iteration Tools Library
 
 # 112 Other libraries and resources
 
-## [Howtheysre](https://github.com/upgundecha/howtheysre) ⭐ 9,809 | 🐛 11 | 🌐 JavaScript | 📅 2025-11-17
+## [Howtheysre](https://github.com/upgundecha/howtheysre) ⭐ 9,811 | 🐛 11 | 🌐 JavaScript | 📅 2025-11-17
 
 A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 
@@ -906,51 +906,51 @@ A curated collection of publicly available resources on how technology and tech-
 
 Web Components Framework - Web组件框架
 
-## [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,316 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
+## [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,321 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
 
 :books: Find your next book to read!
 
-## [Type Chat](https://github.com/microsoft/TypeChat) ⭐ 8,687 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-09
+## [Type Chat](https://github.com/microsoft/TypeChat) ⭐ 8,689 | 🐛 73 | 🌐 TypeScript | 📅 2026-09-29
 
 TypeChat is a library that makes it easy to build natural language interfaces using types.
 
-## [Whodb](https://github.com/clidey/whodb) ⭐ 5,032 | 🐛 29 | 🌐 Go | 📅 2026-09-28
+## [Whodb](https://github.com/clidey/whodb) ⭐ 5,034 | 🐛 30 | 🌐 Go | 📅 2026-09-29
 
 A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 
-## [Autobase](https://github.com/vitabaks/autobase) ⭐ 4,402 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-28
+## [Autobase](https://github.com/vitabaks/autobase) ⭐ 4,404 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-28
 
 Automated database platform for PostgreSQL® - Your own DBaaS.
 
-## [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,209 | 🐛 1,025 | 🌐 TypeScript | 📅 2026-09-28
+## [Mattermost](https://github.com/mattermost/mattermost) ⭐ 39,217 | 🐛 1,036 | 🌐 TypeScript | 📅 2026-09-29
 
 Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
-## [Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,203 | 🐛 325 | 🌐 TypeScript | 📅 2026-09-20
+## [Responsively App](https://github.com/responsively-org/responsively-app) ⭐ 25,202 | 🐛 325 | 🌐 TypeScript | 📅 2026-09-20
 
 A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
-## [Proposal Type Annotations](https://github.com/tc39/proposal-type-annotations) ⭐ 4,390 | 🐛 108 | 🌐 JavaScript | 📅 2025-08-27
+## [Proposal Type Annotations](https://github.com/tc39/proposal-type-annotations) ⭐ 4,389 | 🐛 108 | 🌐 JavaScript | 📅 2025-08-27
 
 ECMAScript proposal for type syntax that is erased - Stage 1
 
-## [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,292 | 🐛 11 | 🌐 MDX | 📅 2026-08-14
+## [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,306 | 🐛 11 | 🌐 MDX | 📅 2026-08-14
 
 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
-## [Professional Programming](https://github.com/charlax/professional-programming) ⭐ 51,586 | 🐛 12 | 🌐 Python | 📅 2026-09-21
+## [Professional Programming](https://github.com/charlax/professional-programming) ⭐ 51,587 | 🐛 12 | 🌐 Python | 📅 2026-09-21
 
 A collection of learning resources for curious software engineers
 
-## [Spacedrive](https://github.com/spacedriveapp/spacedrive) ⭐ 39,043 | 🐛 58 | 🌐 Rust | 📅 2026-07-29
+## [Spacedrive](https://github.com/spacedriveapp/spacedrive) ⭐ 39,054 | 🐛 59 | 🌐 Rust | 📅 2026-07-29
 
 Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
-## [Front End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,360 | 🐛 0 | 📅 2025-03-23
+## [Front End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,361 | 🐛 0 | 📅 2025-03-23
 
 🎮 The only Front-End Performance Checklist that runs faster than the others
 
-## [Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,810 | 🐛 0 | 🌐 Rust | 📅 2026-09-21
+## [Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,811 | 🐛 0 | 🌐 Rust | 📅 2026-09-21
 
 ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
@@ -958,19 +958,19 @@ Spacedrive is an open source cross-platform file explorer, powered by a virtual 
 
 A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. <https://mockoon.com>
 
-## [Mid Journey Styles And Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,307 | 🐛 1 | 📅 2025-04-11
+## [Mid Journey Styles And Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ⭐ 12,308 | 🐛 1 | 📅 2025-04-11
 
 A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 
-## [Post Mortems](https://github.com/danluu/post-mortems) ⭐ 12,483 | 🐛 9 | 📅 2026-08-31
+## [Post Mortems](https://github.com/danluu/post-mortems) ⭐ 12,484 | 🐛 9 | 📅 2026-08-31
 
 A collection of postmortems. Sorry for the delay in merging PRs!
 
-## [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) ⭐ 9,536 | 🐛 3 | 📅 2026-08-27
+## [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) ⭐ 9,537 | 🐛 3 | 📅 2026-08-27
 
 Pointers to useful, well-written, and otherwise beautiful documentation.
 
-## [Top Javascript Interview Questions](https://github.com/greatfrontend/top-javascript-interview-questions) ⭐ 10,052 | 🐛 0 | 🌐 MDX | 📅 2026-08-16
+## [Top Javascript Interview Questions](https://github.com/greatfrontend/top-javascript-interview-questions) ⭐ 10,054 | 🐛 0 | 🌐 MDX | 📅 2026-08-16
 
 Top JavaScript interview questions and answers for Front End Engineers in 2025
 
@@ -978,7 +978,7 @@ Top JavaScript interview questions and answers for Front End Engineers in 2025
 
 Ultimate DevSecOps library
 
-## [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas) ⭐ 6,346 | 🐛 12 | 🌐 Markdown | 📅 2026-08-02
+## [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas) ⭐ 6,347 | 🐛 15 | 🌐 Markdown | 📅 2026-08-02
 
 A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 
@@ -986,7 +986,7 @@ A curation of awesome portfolio website ideas for developers and designers to dr
 
 📜 A collective list of public GraphQL APIs
 
-## [Backend Cheats](https://github.com/cheatsnake/backend-cheats) ⭐ 5,204 | 🐛 6 | 📅 2025-02-02
+## [Backend Cheats](https://github.com/cheatsnake/backend-cheats) ⭐ 5,205 | 🐛 6 | 📅 2025-02-02
 
 📃 White paper for Backend developers
 
@@ -994,11 +994,11 @@ A curation of awesome portfolio website ideas for developers and designers to dr
 
 The largest Node.js CLI Apps best practices list ✨
 
-## [Programming Principles](https://github.com/webpro/programming-principles) ⭐ 3,098 | 🐛 0 | 📅 2026-06-30
+## [Programming Principles](https://github.com/webpro/programming-principles) ⭐ 3,099 | 🐛 0 | 📅 2026-06-30
 
 Categorized overview of programming principles & design patterns
 
-## [System Design](https://github.com/ByteByteGoHq/system-design-101) ⭐ 90,062 | 🐛 69 | 📅 2025-04-04
+## [System Design](https://github.com/ByteByteGoHq/system-design-101) ⭐ 90,092 | 🐛 69 | 📅 2025-04-04
 
 Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
@@ -1006,63 +1006,63 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 
 A curated list of free courses with certifications. Also available at <https://free-certifications.com/>
 
-## [Linkedin Skill Assessments Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) ⭐ 28,845 | 🐛 20 | 🌐 Python | 📅 2026-08-29
+## [Linkedin Skill Assessments Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) ⭐ 28,846 | 🐛 20 | 🌐 Python | 📅 2026-08-29
 
 Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
 
-## [Mise](https://github.com/jdx/mise) ⭐ 34,365 | 🐛 34 | 🌐 Rust | 📅 2026-09-28
+## [Mise](https://github.com/jdx/mise) ⭐ 34,417 | 🐛 25 | 🌐 Rust | 📅 2026-09-29
 
 dev tools, env vars, task runner
 
-## [Maple Font](https://github.com/subframe7536/maple-font) ⭐ 29,040 | 🐛 37 | 🌐 Python | 📅 2026-09-20
+## [Maple Font](https://github.com/subframe7536/maple-font) ⭐ 29,056 | 🐛 37 | 🌐 Python | 📅 2026-09-20
 
 Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
-## [Swarm](https://github.com/openai/swarm) ⭐ 22,018 | 🐛 37 | 🌐 Python | 📅 2026-04-15
+## [Swarm](https://github.com/openai/swarm) ⭐ 22,020 | 🐛 37 | 🌐 Python | 📅 2026-04-15
 
 Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 
-## [Magicui](https://github.com/magicuidesign/magicui) ⭐ 22,407 | 🐛 1 | 🌐 MDX | 📅 2026-09-20
+## [Magicui](https://github.com/magicuidesign/magicui) ⭐ 22,422 | 🐛 1 | 🌐 MDX | 📅 2026-09-20
 
 UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 
-## [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide) ⭐ 22,896 | 🐛 68 | 🌐 Dockerfile | 📅 2025-06-27
+## [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide) ⭐ 22,907 | 🐛 68 | 🌐 Dockerfile | 📅 2025-06-27
 
 Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 
-## [Monaspace](https://github.com/githubnext/monaspace) ⭐ 19,672 | 🐛 64 | 🌐 Shell | 📅 2026-03-27
+## [Monaspace](https://github.com/githubnext/monaspace) ⭐ 19,676 | 🐛 63 | 🌐 Shell | 📅 2026-03-27
 
 An innovative superfamily of fonts for code
 
-## [Asciinema](https://github.com/asciinema/asciinema) ⭐ 17,844 | 🐛 12 | 🌐 Rust | 📅 2026-08-14
+## [Asciinema](https://github.com/asciinema/asciinema) ⭐ 17,847 | 🐛 12 | 🌐 Rust | 📅 2026-08-14
 
 Terminal session recorder, streamer and player 📹
 
-## [Flair](https://github.com/flairNLP/flair) ⭐ 14,390 | 🐛 31 | 🌐 Python | 📅 2025-10-27
+## [Flair](https://github.com/flairNLP/flair) ⭐ 14,390 | 🐛 32 | 🌐 Python | 📅 2025-10-27
 
 A very simple framework for state-of-the-art Natural Language Processing (NLP)
 
-## [Open Clip](https://github.com/mlfoundations/open_clip) ⭐ 14,171 | 🐛 27 | 🌐 Python | 📅 2026-09-25
+## [Open Clip](https://github.com/mlfoundations/open_clip) ⭐ 14,174 | 🐛 27 | 🌐 Python | 📅 2026-09-25
 
 An open source implementation of CLIP.
 
-## [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,483 | 🐛 96 | 🌐 Go | 📅 2026-09-28
+## [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,488 | 🐛 97 | 🌐 Go | 📅 2026-09-29
 
 An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
 
-## [Pocket Flow Tutorial Codebase Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 12,679 | 🐛 77 | 🌐 Python | 📅 2026-05-31
+## [Pocket Flow Tutorial Codebase Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 12,681 | 🐛 77 | 🌐 Python | 📅 2026-05-31
 
 Pocket Flow: Codebase to Tutorial
 
-## [Cognitive Load](https://github.com/zakirullin/cognitive-load) ⭐ 12,514 | 🐛 23 | 📅 2026-06-29
+## [Cognitive Load](https://github.com/zakirullin/cognitive-load) ⭐ 12,516 | 🐛 23 | 📅 2026-06-29
 
 🧠 Cognitive load is what matters
 
-## [Project Ideas And Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) ⭐ 16,838 | 🐛 45 | 📅 2026-09-21
+## [Project Ideas And Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) ⭐ 16,843 | 🐛 45 | 📅 2026-09-21
 
 A Collection of application ideas that can be used to improve your coding skills ❤.
 
-## [Browser](https://github.com/lightpanda-io/browser) ⭐ 35,624 | 🐛 76 | 🌐 Zig | 📅 2026-09-28
+## [Browser](https://github.com/lightpanda-io/browser) ⭐ 35,643 | 🐛 81 | 🌐 Zig | 📅 2026-09-29
 
 Lightpanda: the headless browser designed for AI and automation
 
@@ -1078,7 +1078,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 
-## [Icones](https://github.com/antfu-collective/icones) ⭐ 7,459 | 🐛 32 | 🌐 Vue | 📅 2026-08-24
+## [Icones](https://github.com/antfu-collective/icones) ⭐ 7,460 | 🐛 32 | 🌐 Vue | 📅 2026-08-24
 
 ⚡️ Icon Explorer with Instant searching, powered by Iconify
 
@@ -1086,7 +1086,7 @@ LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime de
 
 A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
-## [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,917 | 🐛 26 | 🌐 C++ | 📅 2026-05-06
+## [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,919 | 🐛 26 | 🌐 C++ | 📅 2026-05-06
 
 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 
@@ -1094,7 +1094,7 @@ A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, wi
 
 Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
-## [Faang Coding Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) ⭐ 5,982 | 🐛 4 | 📅 2026-08-24
+## [Faang Coding Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) ⭐ 5,987 | 🐛 4 | 📅 2026-08-24
 
 A curated List of Coding Questions Asked in FAANG Interviews
 
@@ -1102,9 +1102,9 @@ A curated List of Coding Questions Asked in FAANG Interviews
 
 Like Vercel, but open source and for all languages.
 
-## [Geist Font](https://github.com/vercel/geist-font) ⭐ 3,632 | 🐛 54 | 🌐 HTML | 📅 2026-07-14
+## [Geist Font](https://github.com/vercel/geist-font) ⭐ 3,632 | 🐛 55 | 🌐 HTML | 📅 2026-07-14
 
-## [Node Modules Inspector](https://github.com/antfu/node-modules-inspector) ⭐ 2,954 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-16
+## [Node Modules Inspector](https://github.com/antfu/node-modules-inspector) ⭐ 2,957 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-16
 
 Interactive UI for local node modules inspection
 
@@ -1112,7 +1112,7 @@ Interactive UI for local node modules inspection
 
 ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 
-## [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 372,264 | 🐛 616 | 🌐 Python | 📅 2026-09-15
+## [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 372,449 | 🐛 622 | 🌐 Python | 📅 2026-09-15
 
 Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
@@ -1120,23 +1120,23 @@ Learn how to design large-scale systems. Prep for the system design interview.  
 
 Master the command line, in one page
 
-## [Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,147 | 🐛 2,507 | 🌐 Python | 📅 2026-03-02
+## [Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,148 | 🐛 2,508 | 🌐 Python | 📅 2026-03-02
 
 Stable Diffusion web UI
 
-## [Transformers](https://github.com/huggingface/transformers) ⭐ 166,755 | 🐛 2,404 | 🌐 Python | 📅 2026-09-28
+## [Transformers](https://github.com/huggingface/transformers) ⭐ 166,797 | 🐛 2,398 | 🌐 Python | 📅 2026-09-29
 
 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
-## [Tauri](https://github.com/tauri-apps/tauri) ⭐ 111,451 | 🐛 1,453 | 🌐 Rust | 📅 2026-09-27
+## [Tauri](https://github.com/tauri-apps/tauri) ⭐ 111,475 | 🐛 1,460 | 🌐 Rust | 📅 2026-09-29
 
 Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
-## [Markitdown](https://github.com/microsoft/markitdown) ⭐ 187,387 | 🐛 701 | 🌐 Python | 📅 2026-09-21
+## [Markitdown](https://github.com/microsoft/markitdown) ⭐ 187,541 | 🐛 702 | 🌐 Python | 📅 2026-09-21
 
 Python tool for converting files and office documents to Markdown.
 
-## [Act](https://github.com/nektos/act) ⭐ 72,131 | 🐛 385 | 🌐 Go | 📅 2026-08-09
+## [Act](https://github.com/nektos/act) ⭐ 72,158 | 🐛 385 | 🌐 Go | 📅 2026-08-09
 
 Run your GitHub Actions locally 🚀
 
@@ -1144,39 +1144,39 @@ Run your GitHub Actions locally 🚀
 
 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
-## [Open Interpreter](https://github.com/openinterpreter/open-interpreter) ⭐ 68,461 | 🐛 5 | 🌐 Rust | 📅 2026-09-27
+## [Open Interpreter](https://github.com/openinterpreter/open-interpreter) ⭐ 68,471 | 🐛 7 | 🌐 Rust | 📅 2026-09-27
 
 A natural language interface for computers
 
-## [Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,207 | 🐛 313 | 🌐 Python | 📅 2025-12-01
+## [Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,227 | 🐛 314 | 🌐 Python | 📅 2025-12-01
 
 Focus on prompting and generating
 
-## [Polars](https://github.com/pola-rs/polars) ⭐ 39,877 | 🐛 2,934 | 🌐 Rust | 📅 2026-09-28
+## [Polars](https://github.com/pola-rs/polars) ⭐ 39,883 | 🐛 2,939 | 🌐 Rust | 📅 2026-09-29
 
 Extremely fast Query Engine for DataFrames, written in Rust
 
-## [Marker](https://github.com/datalab-to/marker) ⭐ 40,032 | 🐛 476 | 🌐 Python | 📅 2026-09-13
+## [Marker](https://github.com/datalab-to/marker) ⭐ 40,086 | 🐛 476 | 🌐 Python | 📅 2026-09-13
 
 Convert PDF to markdown + JSON quickly with high accuracy
 
-## [Delta](https://github.com/dandavison/delta) ⭐ 32,371 | 🐛 453 | 🌐 Rust | 📅 2026-09-19
+## [Delta](https://github.com/dandavison/delta) ⭐ 32,381 | 🐛 454 | 🌐 Rust | 📅 2026-09-19
 
 A syntax-highlighting pager for git, diff, grep, and blame output
 
-## [Hacker Laws](https://github.com/dwmkerr/hacker-laws) ⭐ 27,297 | 🐛 153 | 🌐 HTML | 📅 2026-09-10
+## [Hacker Laws](https://github.com/dwmkerr/hacker-laws) ⭐ 27,296 | 🐛 153 | 🌐 HTML | 📅 2026-09-10
 
 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 
-## [Pydantic](https://github.com/pydantic/pydantic) ⭐ 28,892 | 🐛 588 | 🌐 Python | 📅 2026-09-27
+## [Pydantic](https://github.com/pydantic/pydantic) ⭐ 28,896 | 🐛 590 | 🌐 Python | 📅 2026-09-27
 
 Data validation using Python type hints
 
-## [Pulumi](https://github.com/pulumi/pulumi) ⭐ 25,737 | 🐛 2,455 | 🌐 Go | 📅 2026-09-28
+## [Pulumi](https://github.com/pulumi/pulumi) ⭐ 25,741 | 🐛 2,455 | 🌐 Go | 📅 2026-09-29
 
 Pulumi - Infrastructure as Code in any programming language 🚀
 
-## [Vitess](https://github.com/vitessio/vitess) ⭐ 21,358 | 🐛 1,148 | 🌐 Go | 📅 2026-09-28
+## [Vitess](https://github.com/vitessio/vitess) ⭐ 21,360 | 🐛 1,146 | 🌐 Go | 📅 2026-09-29
 
 Vitess is a database clustering system for horizontal scaling of MySQL.
 
@@ -1184,45 +1184,45 @@ Vitess is a database clustering system for horizontal scaling of MySQL.
 
 a Hassle-Free Python Experience
 
-## [Outlines](https://github.com/dottxt-ai/outlines) ⭐ 15,887 | 🐛 180 | 🌐 Python | 📅 2026-09-21
+## [Outlines](https://github.com/dottxt-ai/outlines) ⭐ 15,892 | 🐛 182 | 🌐 Python | 📅 2026-09-21
 
 Structured Outputs
 
-## [Rolldown](https://github.com/rolldown/rolldown) ⭐ 13,956 | 🐛 429 | 🌐 Rust | 📅 2026-09-28
+## [Rolldown](https://github.com/rolldown/rolldown) ⭐ 13,958 | 🐛 425 | 🌐 Rust | 📅 2026-09-29
 
 Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 
-## [Git Cliff](https://github.com/orhun/git-cliff) ⭐ 12,271 | 🐛 116 | 🌐 Rust | 📅 2026-09-18
+## [Git Cliff](https://github.com/orhun/git-cliff) ⭐ 12,272 | 🐛 116 | 🌐 Rust | 📅 2026-09-18
 
 A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 
-## [Speechbrain](https://github.com/speechbrain/speechbrain) ⭐ 11,842 | 🐛 190 | 🌐 Python | 📅 2026-08-27
+## [Speechbrain](https://github.com/speechbrain/speechbrain) ⭐ 11,846 | 🐛 191 | 🌐 Python | 📅 2026-08-27
 
 A PyTorch-based Speech Toolkit
 
-## [Modin](https://github.com/modin-project/modin) ⭐ 10,391 | 🐛 715 | 🌐 Python | 📅 2026-02-10
+## [Modin](https://github.com/modin-project/modin) ⭐ 10,392 | 🐛 715 | 🌐 Python | 📅 2026-02-10
 
 Modin: Scale your Pandas workflows by changing a single line of code
 
-## [Goose](https://github.com/pressly/goose) ⭐ 11,508 | 🐛 135 | 🌐 Go | 📅 2026-09-26
+## [Goose](https://github.com/pressly/goose) ⭐ 11,511 | 🐛 134 | 🌐 Go | 📅 2026-09-28
 
 A database migration tool. Supports SQL migrations and Go functions.
 
-## [Harper](https://github.com/Automattic/harper) ⭐ 15,994 | 🐛 945 | 🌐 Rust | 📅 2026-09-28
+## [Harper](https://github.com/Automattic/harper) ⭐ 16,017 | 🐛 945 | 🌐 Rust | 📅 2026-09-29
 
 Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
-## [Dbgate](https://github.com/dbgate/dbgate) ⭐ 7,332 | 🐛 465 | 🌐 JavaScript | 📅 2026-09-25
+## [Dbgate](https://github.com/dbgate/dbgate) ⭐ 7,331 | 🐛 467 | 🌐 JavaScript | 📅 2026-09-29
 
 Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
-## [Typespec](https://github.com/microsoft/typespec) ⭐ 5,872 | 🐛 1,054 | 🌐 Java | 📅 2026-09-25
+## [Typespec](https://github.com/microsoft/typespec) ⭐ 5,873 | 🐛 1,056 | 🌐 Java | 📅 2026-09-29
 
 ## [Proposal Signals](https://github.com/tc39/proposal-signals) ⭐ 4,191 | 🐛 114 | 📅 2026-01-25
 
 A proposal to add signals to JavaScript.
 
-## [Sorbet](https://github.com/sorbet/sorbet) ⭐ 3,803 | 🐛 1,010 | 🌐 C++ | 📅 2026-09-25
+## [Sorbet](https://github.com/sorbet/sorbet) ⭐ 3,803 | 🐛 1,011 | 🌐 C++ | 📅 2026-09-29
 
 A fast, powerful type checker designed for Ruby
 
@@ -1230,7 +1230,7 @@ A fast, powerful type checker designed for Ruby
 
 A linter for YAML files.
 
-## [Chinook Database](https://github.com/lerocha/chinook-database) ⭐ 2,620 | 🐛 8 | 🌐 TSQL | 📅 2025-10-05
+## [Chinook Database](https://github.com/lerocha/chinook-database) ⭐ 2,621 | 🐛 8 | 🌐 TSQL | 📅 2025-10-05
 
 Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
 
@@ -1238,11 +1238,11 @@ Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
 
 Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 
-## [Osint Cheat Sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) ⭐ 2,232 | 🐛 2 | 🌐 HTML | 📅 2026-09-27
+## [Osint Cheat Sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) ⭐ 2,234 | 🐛 3 | 🌐 HTML | 📅 2026-09-27
 
 OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
 
-## [Free For Life](https://github.com/wdhdev/free-for-life) ⭐ 1,747 | 🐛 10 | 🌐 HTML | 📅 2026-09-23
+## [Free For Life](https://github.com/wdhdev/free-for-life) ⭐ 1,749 | 🐛 11 | 🌐 HTML | 📅 2026-09-23
 
 A huge list of great stuff you can get for free!
 
@@ -1254,7 +1254,7 @@ Growing list of apps and tools for enhancing social media experiences.
 
 Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 
-## [System Design Patterns](https://github.com/Sairyss/system-design-patterns) ⭐ 1,269 | 🐛 1 | 📅 2025-01-22
+## [System Design Patterns](https://github.com/Sairyss/system-design-patterns) ⭐ 1,270 | 🐛 1 | 📅 2025-01-22
 
 Resources related to distributed systems, system design, microservices, scalability and performance, etc
 
@@ -1262,7 +1262,7 @@ Resources related to distributed systems, system design, microservices, scalabil
 
 The MEGA interview guide, JavaSciript, Front End, Comp Sci
 
-## [Pgbackweb](https://github.com/eduardolat/pgbackweb) ⭐ 2,635 | 🐛 99 | 🌐 Go | 📅 2026-09-02
+## [Pgbackweb](https://github.com/eduardolat/pgbackweb) ⭐ 2,636 | 🐛 99 | 🌐 Go | 📅 2026-09-02
 
 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 
@@ -1274,7 +1274,7 @@ A directory and analysis of the open source ecosystem in the areas of climate ch
 
 A basic guideline on implementing auth for the web
 
-## [Proposal Try Operator](https://github.com/arthurfiorette/proposal-try-operator) ⭐ 2,035 | 🐛 14 | 📅 2026-04-02
+## [Proposal Try Operator](https://github.com/arthurfiorette/proposal-try-operator) ⭐ 2,034 | 🐛 14 | 📅 2026-04-02
 
 A proposal to bring ergonomic, inline error handling to JavaScript through a new try operator that always returns a Result.
 
@@ -1306,11 +1306,11 @@ Action that converts TODO comments to GitHub issues on push.
 
 plpgsql\_check is a linter tool (does source code static analyze) for the PostgreSQL language plpgsql (the native language for PostgreSQL store procedures).
 
-## [Cracking The Sqlinterview](https://github.com/xoraus/CrackingTheSQLInterview) ⭐ 899 | 🐛 0 | 📅 2026-05-15
+## [Cracking The Sqlinterview](https://github.com/xoraus/CrackingTheSQLInterview) ⭐ 900 | 🐛 0 | 📅 2026-05-15
 
 DBMS Concepts, SQL Queries & Schema Design for your Interviews.
 
-## [Typescript Tips](https://github.com/jellydn/typescript-tips) ⭐ 441 | 🐛 2 | 📅 2026-09-28
+## [Typescript Tips](https://github.com/jellydn/typescript-tips) ⭐ 441 | 🐛 1 | 📅 2026-09-28
 
 A curated list of awesome 🔥 TypeScript Tips 🔥
 
@@ -1330,7 +1330,7 @@ Public releases for the API Parrot desktop application
 
 All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.
 
-## [Proposal Async Context](https://github.com/tc39/proposal-async-context) ⭐ 878 | 🐛 31 | 🌐 HTML | 📅 2026-06-16
+## [Proposal Async Context](https://github.com/tc39/proposal-async-context) ⭐ 877 | 🐛 31 | 🌐 HTML | 📅 2026-06-16
 
 Async Context for JavaScript
 
@@ -1338,7 +1338,7 @@ Async Context for JavaScript
 
 An engine for displaying slips, the next-gen version of slides
 
-## [Trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) ⭐ 679 | 🐛 13 | 📅 2026-09-21
+## [Trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) ⭐ 679 | 🐛 14 | 📅 2026-09-29
 
 Track 500+ Awesome List Updates, Track it - not just star it!
 
@@ -1362,7 +1362,7 @@ Your database. Inside VS Code.
 
 речник с грижливо подбирани преводи на често срещани понятия от света на науката, технологиите (в това число ИТ) и математиката (STEM). приемат се предложения. прочетете по-долу как можете дас е включите.
 
-## [Inner Source Patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) ⭐ 853 | 🐛 100 | 🌐 HTML | 📅 2026-09-13
+## [Inner Source Patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) ⭐ 853 | 🐛 101 | 🌐 HTML | 📅 2026-09-29
 
 These patterns document how to apply open source principles and practices for software development within the confines of an organization - aka InnerSource.
 
@@ -1382,11 +1382,11 @@ Solutions to AoC problems <https://adventofcode.com>
 
 # 129 Useful Awesome lists
 
-## [Awesome Cto](https://github.com/kuchin/awesome-cto) ⭐ 35,520 | 🐛 9 | 📅 2026-03-02
+## [Awesome Cto](https://github.com/kuchin/awesome-cto) ⭐ 35,523 | 🐛 9 | 📅 2026-03-02
 
 A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
-## [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 41,865 | 🐛 22 | 🌐 Java | 📅 2026-02-16
+## [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 41,885 | 🐛 22 | 🌐 Java | 📅 2026-02-16
 
 Learn System Design concepts and prepare for interviews using free resources.
 
@@ -1394,19 +1394,19 @@ Learn System Design concepts and prepare for interviews using free resources.
 
 A curated list of awesome warez and piracy links
 
-## [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) ⭐ 26,034 | 🐛 27 | 📅 2026-04-28
+## [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) ⭐ 26,038 | 🐛 27 | 📅 2026-04-28
 
 💅🏻 ⚒ A collection of awesome design systems
 
-## [Awesome Shadcn Ui](https://github.com/birobirobiro/awesome-shadcn-ui) ⭐ 20,580 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-28
+## [Awesome Shadcn Ui](https://github.com/birobirobiro/awesome-shadcn-ui) ⭐ 20,587 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-28
 
 A curated list of awesome things related to shadcn/ui.
 
-## [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,375 | 🐛 14 | 🌐 HTML | 📅 2026-07-21
+## [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,376 | 🐛 14 | 🌐 HTML | 📅 2026-07-21
 
 Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 
-## [Awesome Nestjs](https://github.com/nestjs/awesome-nestjs) ⭐ 13,155 | 🐛 6 | 📅 2026-09-23
+## [Awesome Nestjs](https://github.com/nestjs/awesome-nestjs) ⭐ 13,156 | 🐛 7 | 📅 2026-09-23
 
 A curated list of awesome things related to NestJS 😎
 
@@ -1414,19 +1414,19 @@ A curated list of awesome things related to NestJS 😎
 
 A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
-## [Awesome Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines) ⭐ 11,215 | 🐛 21 | 🌐 Shell | 📅 2026-09-03
+## [Awesome Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines) ⭐ 11,221 | 🐛 21 | 🌐 Shell | 📅 2026-09-03
 
 A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 
-## [Awesome Langchain](https://github.com/kyrolabs/awesome-langchain) ⭐ 9,552 | 🐛 0 | 📅 2026-09-24
+## [Awesome Langchain](https://github.com/kyrolabs/awesome-langchain) ⭐ 9,553 | 🐛 1 | 📅 2026-09-24
 
 😎 Awesome list of tools and projects with the awesome LangChain framework
 
-## [Awesome Wpo](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 9,099 | 🐛 33 | 📅 2026-07-28
+## [Awesome Wpo](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 9,102 | 🐛 33 | 📅 2026-07-28
 
 :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 
-## [Awesome Front End System Design](https://github.com/greatfrontend/awesome-front-end-system-design) ⭐ 8,535 | 🐛 1 | 📅 2026-03-03
+## [Awesome Front End System Design](https://github.com/greatfrontend/awesome-front-end-system-design) ⭐ 8,536 | 🐛 1 | 📅 2026-03-03
 
 Curated front end system design resources for interviews and learning
 
@@ -1434,23 +1434,23 @@ Curated front end system design resources for interviews and learning
 
 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 
-## [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews) ⭐ 8,862 | 🐛 7 | 📅 2025-08-19
+## [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews) ⭐ 8,870 | 🐛 7 | 📅 2025-08-19
 
 Tips and resources to prepare for Behavioral interviews.
 
-## [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) ⭐ 7,830 | 🐛 3 | 🌐 Markdown | 📅 2026-08-05
+## [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) ⭐ 7,833 | 🐛 3 | 🌐 Markdown | 📅 2026-08-05
 
 An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 
-## [Awesome Chatgpt](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,421 | 🐛 6 | 📅 2026-02-15
+## [Awesome Chatgpt](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,424 | 🐛 6 | 📅 2026-02-15
 
 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 
-## [Awesome Llmops](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,950 | 🐛 329 | 🌐 Shell | 📅 2026-05-21
+## [Awesome Llmops](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,950 | 🐛 330 | 🌐 Shell | 📅 2026-05-21
 
 An awesome & curated list of best LLMOps tools for developers
 
-## [Awesome Css](https://github.com/awesome-css-group/awesome-css) ⭐ 5,636 | 🐛 29 | 📅 2024-10-30
+## [Awesome Css](https://github.com/awesome-css-group/awesome-css) ⭐ 5,639 | 🐛 29 | 📅 2024-10-30
 
 :art: A curated contents of amazing CSS :)
 
@@ -1458,11 +1458,11 @@ An awesome & curated list of best LLMOps tools for developers
 
 A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 
-## [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) ⭐ 4,790 | 🐛 8 | 📅 2023-05-03
+## [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) ⭐ 4,791 | 🐛 8 | 📅 2023-05-03
 
 A list of totally open alternatives to ChatGPT
 
-## [Awesome Eslint](https://github.com/dustinspecker/awesome-eslint) ⭐ 4,758 | 🐛 18 | 📅 2026-05-13
+## [Awesome Eslint](https://github.com/dustinspecker/awesome-eslint) ⭐ 4,759 | 🐛 18 | 📅 2026-05-13
 
 A list of awesome ESLint plugins, configs, etc.
 
@@ -1474,15 +1474,15 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 A curated list of awesome Jupyter projects, libraries and resources
 
-## [Awesome Deno](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 3 | 📅 2026-09-14
+## [Awesome Deno](https://github.com/denolib/awesome-deno) ⭐ 4,411 | 🐛 2 | 📅 2026-09-28
 
 Curated list of awesome things related to Deno
 
-## [Awesome Api Devtools](https://github.com/yosriady/awesome-api-devtools) ⭐ 4,017 | 🐛 56 | 📅 2025-12-20
+## [Awesome Api Devtools](https://github.com/yosriady/awesome-api-devtools) ⭐ 4,017 | 🐛 57 | 📅 2025-12-20
 
 :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 
-## [Awesome Landing Page](https://github.com/nordicgiant2/awesome-landing-page) ⭐ 3,814 | 🐛 7 | 📅 2022-01-02
+## [Awesome Landing Page](https://github.com/nordicgiant2/awesome-landing-page) ⭐ 3,815 | 🐛 7 | 📅 2022-01-02
 
 A series of beautiful and practical landing page templates
 
@@ -1490,55 +1490,55 @@ A series of beautiful and practical landing page templates
 
 A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 
-## [Awesome Learn Gamedev](https://github.com/dawdle-deer/awesome-learn-gamedev) ⭐ 3,554 | 🐛 3 | 📅 2026-06-01
+## [Awesome Learn Gamedev](https://github.com/dawdle-deer/awesome-learn-gamedev) ⭐ 3,557 | 🐛 3 | 📅 2026-06-01
 
 A curated collection of game development learning resources
 
-## [Awesome Arr](https://github.com/Ravencentric/awesome-arr) ⭐ 4,360 | 🐛 10 | 📅 2026-09-01
+## [Awesome Arr](https://github.com/Ravencentric/awesome-arr) ⭐ 4,363 | 🐛 11 | 📅 2026-09-01
 
 A collection of \*arrs and related stuff.
 
-## [Awesome Nodejs Security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,041 | 🐛 24 | 📅 2026-08-14
+## [Awesome Nodejs Security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,042 | 🐛 24 | 📅 2026-08-14
 
 Awesome Node.js Security resources
 
-## [Awesome Repos](https://github.com/pawelborkar/awesome-repos) ⭐ 3,256 | 🐛 6 | 📅 2025-08-20
+## [Awesome Repos](https://github.com/pawelborkar/awesome-repos) ⭐ 3,259 | 🐛 6 | 📅 2025-08-20
 
 A curated list of GitHub Repositories full of FREE Resources.
 
-## [Awesome List](https://github.com/0xor0ne/awesome-list) ⭐ 4,202 | 🐛 10 | 📅 2026-09-25
+## [Awesome List](https://github.com/0xor0ne/awesome-list) ⭐ 4,204 | 🐛 10 | 📅 2026-09-25
 
 Cybersecurity oriented awesome list
 
-## [Awesome Chat Gpt Repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) ⭐ 3,264 | 🐛 46 | 🌐 Python | 📅 2026-09-27
+## [Awesome Chat Gpt Repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) ⭐ 3,266 | 🐛 47 | 🌐 Python | 📅 2026-09-27
 
 A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API
 
-## [Awesome Engineering Management](https://github.com/engineering-management/awesome-engineering-management) ⭐ 2,769 | 🐛 5 | 📅 2026-09-11
+## [Awesome Engineering Management](https://github.com/engineering-management/awesome-engineering-management) ⭐ 2,770 | 🐛 5 | 📅 2026-09-11
 
 Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 
-## [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 74,372 | 🐛 30 | 📅 2026-01-04
+## [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 74,397 | 🐛 30 | 📅 2026-01-04
 
 The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
-## [Awesome Cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,846 | 🐛 83 | 🌐 JavaScript | 📅 2026-05-30
+## [Awesome Cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 40,852 | 🐛 84 | 🌐 JavaScript | 📅 2026-05-30
 
 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
-## [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 35,286 | 🐛 0 | 📅 2026-09-17
+## [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 35,292 | 🐛 0 | 📅 2026-09-17
 
 A curated list of amazingly awesome open-source sysadmin resources.
 
-## [Awesome Llm](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,427 | 🐛 464 | 📅 2025-07-31
+## [Awesome Llm](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,432 | 🐛 464 | 📅 2025-07-31
 
 Awesome-LLM: a curated list of Large Language Model
 
-## [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) ⭐ 21,881 | 🐛 19 | 🌐 Python | 📅 2026-09-15
+## [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) ⭐ 21,889 | 🐛 19 | 🌐 Python | 📅 2026-09-28
 
 List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 
-## [Awesome Oss Alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,713 | 🐛 147 | 🌐 Python | 📅 2025-09-03
+## [Awesome Oss Alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,716 | 🐛 147 | 🌐 Python | 📅 2025-09-03
 
 Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 
@@ -1546,35 +1546,35 @@ Awesome list of open-source startup alternatives to well-known SaaS products �
 
 TensorFlow - A curated list of dedicated resources <http://tensorflow.org>
 
-## [Awesome Design](https://github.com/gztchan/awesome-design) ⭐ 17,585 | 🐛 63 | 📅 2024-07-04
+## [Awesome Design](https://github.com/gztchan/awesome-design) ⭐ 17,584 | 🐛 63 | 📅 2024-07-04
 
 🌟 Curated design resources from all over the world.
 
-## [Awesome Sre](https://github.com/dastergon/awesome-sre) ⭐ 13,641 | 🐛 112 | 📅 2025-08-28
+## [Awesome Sre](https://github.com/dastergon/awesome-sre) ⭐ 13,652 | 🐛 112 | 📅 2025-08-28
 
 A curated list of Site Reliability and Production Engineering resources.
 
-## [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 16,496 | 🐛 0 | 🌐 Python | 📅 2026-08-14
+## [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 16,502 | 🐛 0 | 🌐 Python | 📅 2026-08-14
 
 A curated list of awesome mathematics resources
 
-## [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,105 | 🐛 77 | 📅 2026-08-31
+## [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,106 | 🐛 78 | 📅 2026-08-31
 
 A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 
-## [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) ⭐ 12,403 | 🐛 20 | 📅 2025-01-10
+## [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) ⭐ 12,404 | 🐛 20 | 📅 2025-01-10
 
 A curated list to learn about distributed systems
 
-## [Awesome System Design](https://github.com/madd86/awesome-system-design) ⭐ 12,576 | 🐛 22 | 📅 2026-02-27
+## [Awesome System Design](https://github.com/madd86/awesome-system-design) ⭐ 12,586 | 🐛 22 | 📅 2026-02-27
 
 A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 
-## [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) ⭐ 11,035 | 🐛 16 | 📅 2024-08-29
+## [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) ⭐ 11,034 | 🐛 16 | 📅 2024-08-29
 
 A list of learning materials to understand databases internals
 
-## [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) ⭐ 11,695 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-08
+## [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) ⭐ 11,697 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-08
 
 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 
@@ -1582,19 +1582,19 @@ A list of learning materials to understand databases internals
 
 For when people get too hyped up about things
 
-## [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) ⭐ 5,771 | 🐛 33 | 📅 2025-07-16
+## [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) ⭐ 5,773 | 🐛 33 | 📅 2025-07-16
 
 🔥 Awesome list of resources on Web Development.
 
-## [Awesome Uses](https://github.com/wesbos/awesome-uses) ⭐ 5,302 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-20
+## [Awesome Uses](https://github.com/wesbos/awesome-uses) ⭐ 5,304 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-28
 
 A list of /uses pages detailing developer setups, gear, software and configs.
 
-## [Awesome Github Profile Readme Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) ⭐ 5,322 | 🐛 42 | 🌐 HTML | 📅 2026-05-05
+## [Awesome Github Profile Readme Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) ⭐ 5,323 | 🐛 42 | 🌐 HTML | 📅 2026-05-05
 
 This repository contains best profile readme's for your reference.
 
-## [Awesome Pwa](https://github.com/hemanth/awesome-pwa) ⭐ 4,927 | 🐛 65 | 🌐 JavaScript | 📅 2026-08-10
+## [Awesome Pwa](https://github.com/hemanth/awesome-pwa) ⭐ 4,928 | 🐛 67 | 🌐 JavaScript | 📅 2026-08-10
 
 Awesome list of progressive web apps!
 
@@ -1602,35 +1602,35 @@ Awesome list of progressive web apps!
 
 A list of amazing Newsletters
 
-## [Awesome K S Resources](https://github.com/tomhuang12/awesome-k8s-resources) ⭐ 4,233 | 🐛 78 | 📅 2025-05-20
+## [Awesome K S Resources](https://github.com/tomhuang12/awesome-k8s-resources) ⭐ 4,236 | 🐛 78 | 📅 2025-05-20
 
 A curated list of awesome Kubernetes tools and resources.
 
-## [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) ⭐ 5,790 | 🐛 50 | 📅 2026-06-30
+## [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) ⭐ 5,793 | 🐛 50 | 📅 2026-06-30
 
 Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.
 
-## [Awesome Ai Devtools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,949 | 🐛 321 | 📅 2026-08-27
+## [Awesome Ai Devtools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,953 | 🐛 324 | 📅 2026-08-27
 
 Curated list of AI-powered developer tools.
 
-## [Awesome Web Components](https://github.com/web-padawan/awesome-web-components) ⭐ 3,587 | 🐛 23 | 📅 2026-09-25
+## [Awesome Web Components](https://github.com/web-padawan/awesome-web-components) ⭐ 3,588 | 🐛 23 | 📅 2026-09-25
 
 A curated list of awesome Web Components resources.
 
-## [Awesome Node Based Uis](https://github.com/xyflow/awesome-node-based-uis) ⭐ 3,687 | 🐛 25 | 📅 2025-06-29
+## [Awesome Node Based Uis](https://github.com/xyflow/awesome-node-based-uis) ⭐ 3,688 | 🐛 25 | 📅 2025-06-29
 
 A curated list with resources about node-based UIs
 
-## [Awesome Bun](https://github.com/oven-sh/awesome-bun) ⭐ 3,659 | 🐛 92 | 📅 2025-07-20
+## [Awesome Bun](https://github.com/oven-sh/awesome-bun) ⭐ 3,659 | 🐛 93 | 📅 2025-07-20
 
 ⚡️ A curated list of awesome things related to Bun
 
-## [Awesome Generative Ai](https://github.com/filipecalegario/awesome-generative-ai) ⭐ 3,544 | 🐛 329 | 📅 2025-12-18
+## [Awesome Generative Ai](https://github.com/filipecalegario/awesome-generative-ai) ⭐ 3,546 | 🐛 332 | 📅 2025-12-18
 
 A curated list of Generative AI tools, works, models, and references
 
-## [Awesome No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) ⭐ 3,374 | 🐛 155 | 📅 2026-09-25
+## [Awesome No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) ⭐ 3,375 | 🐛 159 | 📅 2026-09-25
 
 🚀 Awesome (free) web apps that work without login
 
@@ -1642,27 +1642,27 @@ A curated list of Generative AI tools, works, models, and references
 
 A list of history's greatest software engineers and tech pioneers
 
-## [Awesome Mcp Servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,615 | 🐛 2,491 | 📅 2026-09-27
+## [Awesome Mcp Servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,656 | 🐛 2,545 | 📅 2026-09-27
 
 A collection of MCP servers.
 
-## [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,196 | 🐛 161 | 📅 2026-09-23
+## [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,228 | 🐛 161 | 📅 2026-09-23
 
 A topic-centric list of HQ open datasets.
 
-## [Awesome Deepseek Integration](https://github.com/deepseek-ai/awesome-deepseek-integration) ⭐ 39,262 | 🐛 160 | 📅 2026-02-23
+## [Awesome Deepseek Integration](https://github.com/deepseek-ai/awesome-deepseek-integration) ⭐ 39,270 | 🐛 160 | 📅 2026-02-23
 
 Integrate the DeepSeek API into popular softwares
 
-## [Awesome Github Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,189 | 🐛 703 | 📅 2026-09-11
+## [Awesome Github Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,205 | 🐛 700 | 📅 2026-09-11
 
 😎 A curated list of awesome GitHub Profile which updates in real time
 
-## [Awesome Actions](https://github.com/sdras/awesome-actions) ⭐ 28,263 | 🐛 319 | 📅 2024-09-01
+## [Awesome Actions](https://github.com/sdras/awesome-actions) ⭐ 28,264 | 🐛 319 | 📅 2024-09-01
 
 A curated list of awesome actions to use on GitHub
 
-## [Awesome Privacy](https://github.com/pluja/awesome-privacy) ⭐ 19,871 | 🐛 618 | 🌐 Python | 📅 2026-07-15
+## [Awesome Privacy](https://github.com/pluja/awesome-privacy) ⭐ 19,876 | 🐛 619 | 🌐 Python | 📅 2026-07-15
 
 Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
@@ -1682,15 +1682,15 @@ An Awesome List for getting started with web archiving
 
 👔 How to transition from software development to engineering management
 
-## [Awesome Music](https://github.com/noteflakes/awesome-music) ⭐ 2,503 | 🐛 46 | 📅 2026-05-27
+## [Awesome Music](https://github.com/noteflakes/awesome-music) ⭐ 2,502 | 🐛 47 | 📅 2026-05-27
 
 Awesome Music Projects
 
-## [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) ⭐ 2,396 | 🐛 7 | 📅 2026-09-17
+## [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) ⭐ 2,397 | 🐛 7 | 📅 2026-09-17
 
 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 
-## [Awesome Fonts](https://github.com/brabadu/awesome-fonts) ⭐ 2,071 | 🐛 12 | 📅 2026-07-26
+## [Awesome Fonts](https://github.com/brabadu/awesome-fonts) ⭐ 2,072 | 🐛 12 | 📅 2026-07-26
 
 Curated list of fonts and everything
 
@@ -1698,7 +1698,7 @@ Curated list of fonts and everything
 
 List of resources for learning about modeling, operating, and using Amazon DynamoDB
 
-## [Awesome Ui Component Library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,721 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-28
+## [Awesome Ui Component Library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,722 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-28
 
 Curated list of framework component libraries for UI styles/toolkit
 
@@ -1714,7 +1714,7 @@ Awesome materials about database development.
 
 Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security
 
-## [Awesome Developer First](https://github.com/agamm/awesome-developer-first) ⭐ 1,832 | 🐛 3 | 📅 2026-09-18
+## [Awesome Developer First](https://github.com/agamm/awesome-developer-first) ⭐ 1,832 | 🐛 4 | 📅 2026-09-18
 
 A curated list of awesome developer-first tools products.
 
@@ -1726,11 +1726,11 @@ A list of awesome web animation libraries, books, apps etc.
 
 A curated list for when naming things is done right.
 
-## [Awesome Playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,582 | 🐛 14 | 📅 2026-09-20
+## [Awesome Playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,584 | 🐛 16 | 📅 2026-09-20
 
 A curated list of awesome tools, utils and projects using Playwright
 
-## [Awesome Webaudio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,399 | 🐛 28 | 📅 2026-06-05
+## [Awesome Webaudio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,398 | 🐛 29 | 📅 2026-06-05
 
 A curated list of awesome WebAudio packages and resources.
 
@@ -1742,7 +1742,7 @@ A list of resources on all things to do with Design Tokens
 
 An Awesome list of posts, videos and tutorials on Micro Frontends
 
-## [Awesome Styleguides](https://github.com/streamich/awesome-styleguides) ⭐ 1,260 | 🐛 1 | 📅 2026-01-29
+## [Awesome Styleguides](https://github.com/streamich/awesome-styleguides) ⭐ 1,261 | 🐛 1 | 📅 2026-01-29
 
 A curated list of UI styleguides — 😎💄
 
@@ -1754,11 +1754,11 @@ Curated list of awesome Template Literal Types examples
 
 Deploy 150+ open-source web apps with one Docker command
 
-## [Awesome Images](https://github.com/heyalexej/awesome-images) ⭐ 2,512 | 🐛 8 | 📅 2026-07-06
+## [Awesome Images](https://github.com/heyalexej/awesome-images) ⭐ 2,512 | 🐛 9 | 📅 2026-07-06
 
 A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.
 
-## [Awesome Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) ⭐ 2,417 | 🐛 21 | 📅 2026-05-27
+## [Awesome Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) ⭐ 2,417 | 🐛 22 | 📅 2026-05-27
 
 🕶️ A curated list of resources around the topic: visual regression testing
 
@@ -1786,15 +1786,15 @@ List of GitHub profiles that have awesome customisation, that you can use for in
 
 A curated list of resources dedicated to reinforcement learning applied to cyber security.
 
-## [Awesome Useful Websites](https://github.com/atakanaltok/awesome-useful-websites) ⭐ 1,278 | 🐛 115 | 📅 2026-05-28
+## [Awesome Useful Websites](https://github.com/atakanaltok/awesome-useful-websites) ⭐ 1,278 | 🐛 116 | 📅 2026-05-28
 
 Hand-curated list of awesome and useful websites
 
-## [Awesome Sites To Test On](https://github.com/BMayhew/awesome-sites-to-test-on) ⭐ 1,106 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28
+## [Awesome Sites To Test On](https://github.com/BMayhew/awesome-sites-to-test-on) ⭐ 1,106 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-29
 
 A curated list of sites to practice testing on
 
-## [Awesome Tiny Js](https://github.com/thoughtspile/awesome-tiny-js) ⭐ 778 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-24
+## [Awesome Tiny Js](https://github.com/thoughtspile/awesome-tiny-js) ⭐ 779 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-24
 
 🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet
 
@@ -1830,7 +1830,7 @@ A curated list of awesome system integration software and resources.
 
 Create resumes and CV with awesome-resumes. Practical tips, guidelines, guide, examples and documentation for all IT fields
 
-## [Awesome Authorization](https://github.com/warrant-dev/awesome-authorization) ⭐ 438 | 🐛 5 | 📅 2024-12-16
+## [Awesome Authorization](https://github.com/warrant-dev/awesome-authorization) ⭐ 438 | 🐛 4 | 📅 2024-12-16
 
 A curated list of information and resources about authorization.
 
@@ -1842,7 +1842,7 @@ A curated list of open source tools used in analytics platforms and data enginee
 
 A curated list of awesome websites
 
-## [Awesome Philosophy](https://github.com/HussainAther/awesome-philosophy) ⭐ 281 | 🐛 1 | 📅 2026-03-16
+## [Awesome Philosophy](https://github.com/HussainAther/awesome-philosophy) ⭐ 282 | 🐛 1 | 📅 2026-03-16
 
 A curated list of awesome philosophy
 
@@ -1878,7 +1878,7 @@ Awesome Svelte: Useful resources for developing Svelte applications
 
 A list of resources and projects to help learn about audio
 
-## [Awesome Plugins](https://github.com/targed/Awesome-Plugins) ⭐ 154 | 🐛 154 | 🌐 JSON | 📅 2026-09-28
+## [Awesome Plugins](https://github.com/targed/Awesome-Plugins) ⭐ 154 | 🐛 154 | 🌐 JSON | 📅 2026-09-29
 
 Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
 
@@ -1918,4 +1918,4 @@ It contains list of repos(sorted by their stars) using one of the following libr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
